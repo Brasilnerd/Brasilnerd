@@ -9,7 +9,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]AS MELHORES SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://archive.org/details/series_20200403</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/details/fanart_20200403_0737</fanart>
@@ -24,14 +24,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]OS MELHORES FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://archive.org/details/fanart_20200403</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/details/fanart_20200403_0737</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AS MEHLORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
