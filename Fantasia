@@ -1,3 +1,12 @@
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801404.us.archive.org/25/items/fanart_20200320/bemvindo.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
+<info>
+
+
 <item>
 <title>O Hobbit: Uma Jornada Inesperada</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tjEjPRBuhl2EYccfKYdtT1vukOt6-s8I/view?usp=sharing?usp=drivesdk</link>
