@@ -75,21 +75,6 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Romance[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801508.us.archive.org/25/items/fanart_20200403/FILMES.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/CATEGORIAS</externallink>
-<fanart>https://ia801501.us.archive.org/13/items/fanart.png_202004/fanart.png.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Cult[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801508.us.archive.org/25/items/fanart_20200403/FILMES.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/CATEGORIAS</externallink>
