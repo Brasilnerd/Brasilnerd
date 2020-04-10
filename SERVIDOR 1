@@ -1,874 +1,1443 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://p2pbrtv.com:8080/regina/regina/145407
-#EXTINF:-1,A&E FHD H265
-http://p2pbrtv.com:8080/regina/regina/145230
-#EXTINF:-1,A&E HD
-http://p2pbrtv.com:8080/regina/regina/145115
-#EXTINF:-1,AMC
-http://p2pbrtv.com:8080/regina/regina/145408
-#EXTINF:-1,AMC FHD H265
-http://p2pbrtv.com:8080/regina/regina/145231
-#EXTINF:-1,AMC HD
-http://p2pbrtv.com:8080/regina/regina/145116
-#EXTINF:-1,ANIMAL PLANET
-http://p2pbrtv.com:8080/regina/regina/145409
-#EXTINF:-1,ANIMAL PLANET FHD H265
-http://p2pbrtv.com:8080/regina/regina/145232
-#EXTINF:-1,ANIMAL PLANET HD
-http://p2pbrtv.com:8080/regina/regina/145117
-#EXTINF:-1,AXN
-http://p2pbrtv.com:8080/regina/regina/145410
-#EXTINF:-1,AXN FHD H265
-http://p2pbrtv.com:8080/regina/regina/145233
-#EXTINF:-1,AXN HD
-http://p2pbrtv.com:8080/regina/regina/145118
-#EXTINF:-1,BABY TV
-http://p2pbrtv.com:8080/regina/regina/145411
-#EXTINF:-1,BAND BAHIA
-http://p2pbrtv.com:8080/regina/regina/145412
-#EXTINF:-1,BAND BSB HD
-http://p2pbrtv.com:8080/regina/regina/145327
-#EXTINF:-1,BAND CAMPINAS HD
-http://p2pbrtv.com:8080/regina/regina/145328
-#EXTINF:-1,BAND GO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145319
-#EXTINF:-1,BAND GO HD
-http://p2pbrtv.com:8080/regina/regina/145201
-#EXTINF:-1,BAND NEWS
-http://p2pbrtv.com:8080/regina/regina/145414
-#EXTINF:-1,BAND NEWS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145234
-#EXTINF:-1,BAND PARANA
-http://p2pbrtv.com:8080/regina/regina/145386
-#EXTINF:-1,BAND RJ HD
-http://p2pbrtv.com:8080/regina/regina/145329
-#EXTINF:-1,BAND RS HD
-http://p2pbrtv.com:8080/regina/regina/145330
-#EXTINF:-1,BAND SERGIPE HD
-http://p2pbrtv.com:8080/regina/regina/145331
-#EXTINF:-1,BAND SP HD
-http://p2pbrtv.com:8080/regina/regina/145332
-#EXTINF:-1,BAND SPORTS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145235
-#EXTINF:-1,BAND SPORTS HD
-http://p2pbrtv.com:8080/regina/regina/145119
-#EXTINF:-1,BANDEIRANTES
-http://p2pbrtv.com:8080/regina/regina/145413
-#EXTINF:-1,BANDSPORTS
-http://p2pbrtv.com:8080/regina/regina/145415
-#EXTINF:-1,BBB
-http://p2pbrtv.com:8080/regina/regina/145209
-#EXTINF:-1,BBB ACOMPANHE A CASA
-http://p2pbrtv.com:8080/regina/regina/145208
-#EXTINF:-1,BBB ACOMPANHE A CASA 2
-http://p2pbrtv.com:8080/regina/regina/145219
-#EXTINF:-1,BBB CONFESSIONARIO
-http://p2pbrtv.com:8080/regina/regina/145214
-#EXTINF:-1,BBB COZINHA CAMAROTE
-http://p2pbrtv.com:8080/regina/regina/145211
-#EXTINF:-1,BBB COZINHA VIP
-http://p2pbrtv.com:8080/regina/regina/145215
-#EXTINF:-1,BBB JARDIM CAMAROTE
-http://p2pbrtv.com:8080/regina/regina/145210
-#EXTINF:-1,BBB MOSAICO
-http://p2pbrtv.com:8080/regina/regina/145218
-#EXTINF:-1,BBB PISCINA
-http://p2pbrtv.com:8080/regina/regina/145216
-#EXTINF:-1,BBB QUARTO CAMAROTE
-http://p2pbrtv.com:8080/regina/regina/145213
-#EXTINF:-1,BBB QUARTO CÉU
-http://p2pbrtv.com:8080/regina/regina/145217
-#EXTINF:-1,BBB QUARTO VILLA
-http://p2pbrtv.com:8080/regina/regina/145212
-#EXTINF:-1,BIS
-http://p2pbrtv.com:8080/regina/regina/145416
-#EXTINF:-1,BIS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145236
-#EXTINF:-1,BIS HD
-http://p2pbrtv.com:8080/regina/regina/145120
-#EXTINF:-1,BOOMERANG
-http://p2pbrtv.com:8080/regina/regina/145417
-#EXTINF:-1,BOOMERANG FHD H265
-http://p2pbrtv.com:8080/regina/regina/145237
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO 1)
-http://p2pbrtv.com:8080/regina/regina/145223
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
-http://p2pbrtv.com:8080/regina/regina/145222
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
-http://p2pbrtv.com:8080/regina/regina/145224
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO4)
-http://p2pbrtv.com:8080/regina/regina/145225
-#EXTINF:-1,CANAL BRASIL
-http://p2pbrtv.com:8080/regina/regina/145418
-#EXTINF:-1,CANAL BRASIL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145238
-#EXTINF:-1,CANAL DO BOI
-http://p2pbrtv.com:8080/regina/regina/145419
-#EXTINF:-1,CANAL SONY
-http://p2pbrtv.com:8080/regina/regina/145420
-#EXTINF:-1,CANCAO NOVA
-http://p2pbrtv.com:8080/regina/regina/145421
-#EXTINF:-1,CARTOON NETWORK
-http://p2pbrtv.com:8080/regina/regina/145422
-#EXTINF:-1,CARTOON NETWORK FHD H265
-http://p2pbrtv.com:8080/regina/regina/145240
-#EXTINF:-1,CARTOON NETWORK HD
-http://p2pbrtv.com:8080/regina/regina/145122
-#EXTINF:-1,CINEMAX
-http://p2pbrtv.com:8080/regina/regina/145423
-#EXTINF:-1,CINEMAX FHD H265
-http://p2pbrtv.com:8080/regina/regina/145241
-#EXTINF:-1,CINEMAX HD
-http://p2pbrtv.com:8080/regina/regina/145123
-#EXTINF:-1,CNN BRASIL FHD
-http://p2pbrtv.com:8080/regina/regina/145326
-#EXTINF:-1,CNN BRASIL HD
-http://p2pbrtv.com:8080/regina/regina/145229
-#EXTINF:-1,COMBATE
-http://p2pbrtv.com:8080/regina/regina/145424
-#EXTINF:-1,COMBATE FHD H265
-http://p2pbrtv.com:8080/regina/regina/145242
-#EXTINF:-1,COMBATE HD
-http://p2pbrtv.com:8080/regina/regina/145124
-#EXTINF:-1,COMEDY CENTRAL
-http://p2pbrtv.com:8080/regina/regina/145425
-#EXTINF:-1,COMEDY CENTRAL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145243
-#EXTINF:-1,COMEDY CENTRAL HD
-http://p2pbrtv.com:8080/regina/regina/145125
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
-http://p2pbrtv.com:8080/regina/regina/145226
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
-http://p2pbrtv.com:8080/regina/regina/145227
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
-http://p2pbrtv.com:8080/regina/regina/145228
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
-http://p2pbrtv.com:8080/regina/regina/145220
-#EXTINF:-1,CURTA!
-http://p2pbrtv.com:8080/regina/regina/145426
-#EXTINF:-1,DAZN 01 HD
-http://p2pbrtv.com:8080/regina/regina/145333
-#EXTINF:-1,DAZN 02 HD
-http://p2pbrtv.com:8080/regina/regina/145334
-#EXTINF:-1,DAZN 03 HD
-http://p2pbrtv.com:8080/regina/regina/145335
-#EXTINF:-1,DAZN 04 HD
-http://p2pbrtv.com:8080/regina/regina/145336
-#EXTINF:-1,DISCOVERY CHANNEL
-http://p2pbrtv.com:8080/regina/regina/145427
-#EXTINF:-1,DISCOVERY CHANNEL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145244
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://p2pbrtv.com:8080/regina/regina/145126
-#EXTINF:-1,DISCOVERY H&H
-http://p2pbrtv.com:8080/regina/regina/145428
-#EXTINF:-1,DISCOVERY H&H FHD H265
-http://p2pbrtv.com:8080/regina/regina/145246
-#EXTINF:-1,DISCOVERY H&H HD
-http://p2pbrtv.com:8080/regina/regina/145128
-#EXTINF:-1,DISCOVERY KIDS
-http://p2pbrtv.com:8080/regina/regina/145429
-#EXTINF:-1,DISCOVERY KIDS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145247
-#EXTINF:-1,DISCOVERY KIDS HD
-http://p2pbrtv.com:8080/regina/regina/145129
-#EXTINF:-1,DISCOVERY SCIENCE FHD H265
-http://p2pbrtv.com:8080/regina/regina/145248
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://p2pbrtv.com:8080/regina/regina/145130
-#EXTINF:-1,DISCOVERY THEATER FHD H265
-http://p2pbrtv.com:8080/regina/regina/145249
-#EXTINF:-1,DISCOVERY THEATER HD
-http://p2pbrtv.com:8080/regina/regina/145131
-#EXTINF:-1,DISCOVERY TLC
-http://p2pbrtv.com:8080/regina/regina/145520
-#EXTINF:-1,DISCOVERY TLC FHD H265
-http://p2pbrtv.com:8080/regina/regina/145315
-#EXTINF:-1,DISCOVERY TURBO
-http://p2pbrtv.com:8080/regina/regina/145430
-#EXTINF:-1,DISCOVERY TURBO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145250
-#EXTINF:-1,DISCOVERY TURBO HD
-http://p2pbrtv.com:8080/regina/regina/145132
-#EXTINF:-1,DISCOVERY WORLD FHD H265
-http://p2pbrtv.com:8080/regina/regina/145251
-#EXTINF:-1,DISCOVERY WORLD HD
-http://p2pbrtv.com:8080/regina/regina/145133
-#EXTINF:-1,DISNEY
-http://p2pbrtv.com:8080/regina/regina/145431
-#EXTINF:-1,DISNEY CHANNEL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145252
-#EXTINF:-1,DISNEY CHANNEL HD
-http://p2pbrtv.com:8080/regina/regina/145134
-#EXTINF:-1,DISNEY JUNIOR
-http://p2pbrtv.com:8080/regina/regina/145432
-#EXTINF:-1,DISNEY JUNIOR FHD H265
-http://p2pbrtv.com:8080/regina/regina/145253
-#EXTINF:-1,DISNEY JUNIOR HD
-http://p2pbrtv.com:8080/regina/regina/145135
-#EXTINF:-1,DISNEY XD
-http://p2pbrtv.com:8080/regina/regina/145433
-#EXTINF:-1,E HD
-http://p2pbrtv.com:8080/regina/regina/145136
-#EXTINF:-1,E!
-http://p2pbrtv.com:8080/regina/regina/145434
-#EXTINF:-1,E! FHD H265
-http://p2pbrtv.com:8080/regina/regina/145254
-#EXTINF:-1,EI MAX JOGOS01
-http://p2pbrtv.com:8080/regina/regina/145337
-#EXTINF:-1,EI MAX JOGOS02
-http://p2pbrtv.com:8080/regina/regina/145338
-#EXTINF:-1,EI MAX JOGOS03
-http://p2pbrtv.com:8080/regina/regina/145339
-#EXTINF:-1,EI MAX JOGOS04
-http://p2pbrtv.com:8080/regina/regina/145340
-#EXTINF:-1,EI PLUS HD
-http://p2pbrtv.com:8080/regina/regina/145341
-#EXTINF:-1,EPTV CAMPINAS FHD
-http://p2pbrtv.com:8080/regina/regina/145399
-#EXTINF:-1,EPTV CAMPINAS HD
-http://p2pbrtv.com:8080/regina/regina/145398
-#EXTINF:-1,ESPN
-http://p2pbrtv.com:8080/regina/regina/145438
-#EXTINF:-1,ESPN 2
-http://p2pbrtv.com:8080/regina/regina/145439
-#EXTINF:-1,ESPN 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145257
-#EXTINF:-1,ESPN 2 HD
-http://p2pbrtv.com:8080/regina/regina/145137
-#EXTINF:-1,ESPN BRASIL
-http://p2pbrtv.com:8080/regina/regina/145440
-#EXTINF:-1,ESPN BRASIL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145258
-#EXTINF:-1,ESPN BRASIL HD
-http://p2pbrtv.com:8080/regina/regina/145138
-#EXTINF:-1,ESPN EXTRA FHD H265
-http://p2pbrtv.com:8080/regina/regina/145255
-#EXTINF:-1,ESPN FHD H265
-http://p2pbrtv.com:8080/regina/regina/145256
-#EXTINF:-1,ESPN HD
-http://p2pbrtv.com:8080/regina/regina/145139
-#EXTINF:-1,ESPNEXTRA HD
-http://p2pbrtv.com:8080/regina/regina/145140
-#EXTINF:-1,FILM & ARTS
-http://p2pbrtv.com:8080/regina/regina/145441
-#EXTINF:-1,FISH TV
-http://p2pbrtv.com:8080/regina/regina/145442
-#EXTINF:-1,FISH TV FHD H265
-http://p2pbrtv.com:8080/regina/regina/145259
-#EXTINF:-1,FOOD NETWORK
-http://p2pbrtv.com:8080/regina/regina/145443
-#EXTINF:-1,FOOD NETWORK FHD H265
-http://p2pbrtv.com:8080/regina/regina/145260
-#EXTINF:-1,FOOD NETWORK HD
-http://p2pbrtv.com:8080/regina/regina/145141
-#EXTINF:-1,FOX
-http://p2pbrtv.com:8080/regina/regina/145444
-#EXTINF:-1,FOX FHD H265
-http://p2pbrtv.com:8080/regina/regina/145261
-#EXTINF:-1,FOX HD
-http://p2pbrtv.com:8080/regina/regina/145142
-#EXTINF:-1,FOX LIFE
-http://p2pbrtv.com:8080/regina/regina/145445
-#EXTINF:-1,FOX LIFE HD
-http://p2pbrtv.com:8080/regina/regina/145143
-#EXTINF:-1,FOX PREMIUM 1 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145262
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://p2pbrtv.com:8080/regina/regina/145144
-#EXTINF:-1,FOX PREMIUM 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145263
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://p2pbrtv.com:8080/regina/regina/145145
-#EXTINF:-1,FOX SPORTS
-http://p2pbrtv.com:8080/regina/regina/145446
-#EXTINF:-1,FOX SPORTS 2
-http://p2pbrtv.com:8080/regina/regina/145447
-#EXTINF:-1,FOX SPORTS 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145265
-#EXTINF:-1,FOX SPORTS 2 HD
-http://p2pbrtv.com:8080/regina/regina/145146
-#EXTINF:-1,FOX SPORTS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145264
-#EXTINF:-1,FOX SPORTS HD
-http://p2pbrtv.com:8080/regina/regina/145147
-#EXTINF:-1,FUTURA
-http://p2pbrtv.com:8080/regina/regina/145448
-#EXTINF:-1,FX
-http://p2pbrtv.com:8080/regina/regina/145449
-#EXTINF:-1,FX FHD H265
-http://p2pbrtv.com:8080/regina/regina/145266
-#EXTINF:-1,FX HD
-http://p2pbrtv.com:8080/regina/regina/145148
-#EXTINF:-1,GAZETA HD SP
-http://p2pbrtv.com:8080/regina/regina/145342
-#EXTINF:-1,GLOBO AMAZONICA MANAUS
-http://p2pbrtv.com:8080/regina/regina/145499
-#EXTINF:-1,GLOBO ANHANGUERA GOIANIA
-http://p2pbrtv.com:8080/regina/regina/145526
-#EXTINF:-1,GLOBO BRASILIA
-http://p2pbrtv.com:8080/regina/regina/145450
-#EXTINF:-1,GLOBO BRASILIA FHD H265
-http://p2pbrtv.com:8080/regina/regina/145397
-#EXTINF:-1,GLOBO BRASILIA HD
-http://p2pbrtv.com:8080/regina/regina/145343
-#EXTINF:-1,GLOBO CABO FRIO HD
-http://p2pbrtv.com:8080/regina/regina/145395
-#EXTINF:-1,GLOBO CARUARU PE
-http://p2pbrtv.com:8080/regina/regina/145404
-#EXTINF:-1,GLOBO CENTRO AMERICA CUIABA
-http://p2pbrtv.com:8080/regina/regina/145530
-#EXTINF:-1,GLOBO EPTV CAMPINAS
-http://p2pbrtv.com:8080/regina/regina/145436
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
-http://p2pbrtv.com:8080/regina/regina/145437
-#EXTINF:-1,GLOBO EPTV SAO CARLOS
-http://p2pbrtv.com:8080/regina/regina/145435
-#EXTINF:-1,GLOBO FLORIANOPOLIS HD
-http://p2pbrtv.com:8080/regina/regina/145392
-#EXTINF:-1,GLOBO GAZETA SUL ES
-http://p2pbrtv.com:8080/regina/regina/145344
-#EXTINF:-1,GLOBO GAZETA SUL ES FHD
-http://p2pbrtv.com:8080/regina/regina/145345
-#EXTINF:-1,GLOBO GAZETA SUL ES HD
-http://p2pbrtv.com:8080/regina/regina/145346
-#EXTINF:-1,GLOBO GO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145318
-#EXTINF:-1,GLOBO GO HD
-http://p2pbrtv.com:8080/regina/regina/145200
-#EXTINF:-1,GLOBO INTER TV CABUGI
-http://p2pbrtv.com:8080/regina/regina/145465
-#EXTINF:-1,GLOBO INTERNACIONAL HD
-http://p2pbrtv.com:8080/regina/regina/145347
-#EXTINF:-1,GLOBO LIBERAL BELEM
-http://p2pbrtv.com:8080/regina/regina/145533
-#EXTINF:-1,GLOBO LIBERAL BELEM HD
-http://p2pbrtv.com:8080/regina/regina/145401
-#EXTINF:-1,GLOBO MANAUS HD
-http://p2pbrtv.com:8080/regina/regina/145389
-#EXTINF:-1,GLOBO MARANHAO
-http://p2pbrtv.com:8080/regina/regina/145390
-#EXTINF:-1,GLOBO MG FHD H265
-http://p2pbrtv.com:8080/regina/regina/145394
-#EXTINF:-1,GLOBO MINAS
-http://p2pbrtv.com:8080/regina/regina/145451
-#EXTINF:-1,GLOBO MINAS HD
-http://p2pbrtv.com:8080/regina/regina/145383
-#EXTINF:-1,GLOBO MORENA PP HD
-http://p2pbrtv.com:8080/regina/regina/145371
-#EXTINF:-1,GLOBO NEWS
-http://p2pbrtv.com:8080/regina/regina/145452
-#EXTINF:-1,GLOBO NEWS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145267
-#EXTINF:-1,GLOBO NORDESTE
-http://p2pbrtv.com:8080/regina/regina/145453
-#EXTINF:-1,GLOBO PARAIBA HD
-http://p2pbrtv.com:8080/regina/regina/145400
-#EXTINF:-1,GLOBO PIAUI
-http://p2pbrtv.com:8080/regina/regina/145403
-#EXTINF:-1,GLOBO PORTUGUAL
-http://p2pbrtv.com:8080/regina/regina/145550
-#EXTINF:-1,GLOBO RBS
-http://p2pbrtv.com:8080/regina/regina/145496
-#EXTINF:-1,GLOBO RBS HD
-http://p2pbrtv.com:8080/regina/regina/145351
-#EXTINF:-1,GLOBO RIO SUL HD
-http://p2pbrtv.com:8080/regina/regina/145391
-#EXTINF:-1,GLOBO RJ
-http://p2pbrtv.com:8080/regina/regina/145454
-#EXTINF:-1,GLOBO RJ FHD
-http://p2pbrtv.com:8080/regina/regina/145396
-#EXTINF:-1,GLOBO RJ HD
-http://p2pbrtv.com:8080/regina/regina/145348
-#EXTINF:-1,GLOBO RPC PARANA HD
-http://p2pbrtv.com:8080/regina/regina/145385
-#EXTINF:-1,GLOBO RPC TV CURITIBA
-http://p2pbrtv.com:8080/regina/regina/145503
-#EXTINF:-1,GLOBO SANTA CRUZ HD
-http://p2pbrtv.com:8080/regina/regina/145373
-#EXTINF:-1,GLOBO SERGIPE HD
-http://p2pbrtv.com:8080/regina/regina/145349
-#EXTINF:-1,GLOBO SP
-http://p2pbrtv.com:8080/regina/regina/145455
-#EXTINF:-1,GLOBO SP FHD
-http://p2pbrtv.com:8080/regina/regina/145405
-#EXTINF:-1,GLOBO SP HD
-http://p2pbrtv.com:8080/regina/regina/145350
-#EXTINF:-1,GLOBO SUBAE HD
-http://p2pbrtv.com:8080/regina/regina/145374
-#EXTINF:-1,GLOBO TEM BAURU
-http://p2pbrtv.com:8080/regina/regina/145536
-#EXTINF:-1,GLOBO TEM SAO JOSE DO RIO PRETO
-http://p2pbrtv.com:8080/regina/regina/145537
-#EXTINF:-1,GLOBO TEM SOROCABA
-http://p2pbrtv.com:8080/regina/regina/145538
-#EXTINF:-1,GLOBO TRIBUNA SANTOS
-http://p2pbrtv.com:8080/regina/regina/145539
-#EXTINF:-1,GLOBO VANGUARDA DOS CAMPOS
-http://p2pbrtv.com:8080/regina/regina/145540
-#EXTINF:-1,GLOBO VERDES MARES FORTALEZA
-http://p2pbrtv.com:8080/regina/regina/145541
-#EXTINF:-1,GLOBO VERDES MARES HD
-http://p2pbrtv.com:8080/regina/regina/145402
-#EXTINF:-1,GLOBONEWS HD
-http://p2pbrtv.com:8080/regina/regina/145149
-#EXTINF:-1,GLOBOSAT
-http://p2pbrtv.com:8080/regina/regina/145467
-#EXTINF:-1,GLOBOSAT FHD H265
-http://p2pbrtv.com:8080/regina/regina/145279
-#EXTINF:-1,GLOBOSAT HD
-http://p2pbrtv.com:8080/regina/regina/145150
-#EXTINF:-1,GLOOB
-http://p2pbrtv.com:8080/regina/regina/145456
-#EXTINF:-1,GLOOB FHD H265
-http://p2pbrtv.com:8080/regina/regina/145268
-#EXTINF:-1,GLOOB HD
-http://p2pbrtv.com:8080/regina/regina/145151
-#EXTINF:-1,GNT
-http://p2pbrtv.com:8080/regina/regina/145457
-#EXTINF:-1,GNT FHD H265
-http://p2pbrtv.com:8080/regina/regina/145269
-#EXTINF:-1,GNT HD
-http://p2pbrtv.com:8080/regina/regina/145152
-#EXTINF:-1,HBO
-http://p2pbrtv.com:8080/regina/regina/145458
-#EXTINF:-1,HBO 2
-http://p2pbrtv.com:8080/regina/regina/145462
-#EXTINF:-1,HBO 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145274
-#EXTINF:-1,HBO 2 HD
-http://p2pbrtv.com:8080/regina/regina/145153
-#EXTINF:-1,HBO FAMILLY FHD H265
-http://p2pbrtv.com:8080/regina/regina/145270
-#EXTINF:-1,HBO FAMILY
-http://p2pbrtv.com:8080/regina/regina/145459
-#EXTINF:-1,HBO FAMILY HD
-http://p2pbrtv.com:8080/regina/regina/145154
-#EXTINF:-1,HBO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145271
-#EXTINF:-1,HBO HD
-http://p2pbrtv.com:8080/regina/regina/145155
-#EXTINF:-1,HBO MUNDI HD
-http://p2pbrtv.com:8080/regina/regina/145162
-#EXTINF:-1,HBO PLUS
-http://p2pbrtv.com:8080/regina/regina/145460
-#EXTINF:-1,HBO PLUS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145272
-#EXTINF:-1,HBO PLUS HD
-http://p2pbrtv.com:8080/regina/regina/145156
-#EXTINF:-1,HBO POP HD
-http://p2pbrtv.com:8080/regina/regina/145164
-#EXTINF:-1,HBO SIGNATURE
-http://p2pbrtv.com:8080/regina/regina/145461
-#EXTINF:-1,HBO SIGNATURE FHD H265
-http://p2pbrtv.com:8080/regina/regina/145273
-#EXTINF:-1,HBO SIGNATURE HD
-http://p2pbrtv.com:8080/regina/regina/145157
-#EXTINF:-1,HBO XTREAM HD
-http://p2pbrtv.com:8080/regina/regina/145163
-#EXTINF:-1,HGTV FHD H265
-http://p2pbrtv.com:8080/regina/regina/145245
-#EXTINF:-1,HGTV HD
-http://p2pbrtv.com:8080/regina/regina/145127
-#EXTINF:-1,HISTORY
-http://p2pbrtv.com:8080/regina/regina/145547
-#EXTINF:-1,HISTORY 2
-http://p2pbrtv.com:8080/regina/regina/145463
-#EXTINF:-1,HISTORY 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145276
-#EXTINF:-1,HISTORY 2 HD
-http://p2pbrtv.com:8080/regina/regina/145158
-#EXTINF:-1,HISTORY FHD H265
-http://p2pbrtv.com:8080/regina/regina/145275
-#EXTINF:-1,HISTORY HD
-http://p2pbrtv.com:8080/regina/regina/145159
-#EXTINF:-1,INVESTIGACAO DISCOVERY
-http://p2pbrtv.com:8080/regina/regina/145464
-#EXTINF:-1,INVESTIGATION DISCOVERY FHD H265
-http://p2pbrtv.com:8080/regina/regina/145277
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://p2pbrtv.com:8080/regina/regina/145160
-#EXTINF:-1,LIFETIME
-http://p2pbrtv.com:8080/regina/regina/145466
-#EXTINF:-1,LIFETIME FHD H265
-http://p2pbrtv.com:8080/regina/regina/145278
-#EXTINF:-1,LIFETIME HD
-http://p2pbrtv.com:8080/regina/regina/145161
-#EXTINF:-1,LOVE NATURE FHD
-http://p2pbrtv.com:8080/regina/regina/145325
-#EXTINF:-1,HBO MUNDI
-http://p2pbrtv.com:8080/regina/regina/145468
-#EXTINF:-1,HBO MUNDI FHD H265
-http://p2pbrtv.com:8080/regina/regina/145280
-#EXTINF:-1,HBO XTREME
-http://p2pbrtv.com:8080/regina/regina/145469
-#EXTINF:-1,HBO XTREME FHD H265
-http://p2pbrtv.com:8080/regina/regina/145281
-#EXTINF:-1,HBO POP
-http://p2pbrtv.com:8080/regina/regina/145470
-#EXTINF:-1,HBO POP FHD H265
-http://p2pbrtv.com:8080/regina/regina/145282
-#EXTINF:-1,MEGAPIX
-http://p2pbrtv.com:8080/regina/regina/145471
-#EXTINF:-1,MEGAPIX FHD H265
-http://p2pbrtv.com:8080/regina/regina/145283
-#EXTINF:-1,MEGAPIX HD
-http://p2pbrtv.com:8080/regina/regina/145165
-#EXTINF:-1,MTV
-http://p2pbrtv.com:8080/regina/regina/145472
-#EXTINF:-1,MTV FHD H265
-http://p2pbrtv.com:8080/regina/regina/145284
-#EXTINF:-1,MTV HD
-http://p2pbrtv.com:8080/regina/regina/145166
-#EXTINF:-1,MULTISHOW
-http://p2pbrtv.com:8080/regina/regina/145473
-#EXTINF:-1,MULTISHOW FHD H265
-http://p2pbrtv.com:8080/regina/regina/145285
-#EXTINF:-1,MULTISHOW HD
-http://p2pbrtv.com:8080/regina/regina/145167
-#EXTINF:-1,MUSIC BOX BRAZIL
-http://p2pbrtv.com:8080/regina/regina/145474
-#EXTINF:-1,MUSIC BOX BRAZIL HD
-http://p2pbrtv.com:8080/regina/regina/145475
-#EXTINF:-1,NATGEO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145286
-#EXTINF:-1,NATGEO HD
-http://p2pbrtv.com:8080/regina/regina/145168
-#EXTINF:-1,NATGEO KIDS
-http://p2pbrtv.com:8080/regina/regina/145476
-#EXTINF:-1,NATGEO KIDS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145288
-#EXTINF:-1,NATGEO KIDS HD
-http://p2pbrtv.com:8080/regina/regina/145169
-#EXTINF:-1,NATGEO WILD
-http://p2pbrtv.com:8080/regina/regina/145477
-#EXTINF:-1,NATGEO WILD FHD H265
-http://p2pbrtv.com:8080/regina/regina/145287
-#EXTINF:-1,NATGEO WILD HD
-http://p2pbrtv.com:8080/regina/regina/145170
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://p2pbrtv.com:8080/regina/regina/145478
-#EXTINF:-1,NHK
-http://p2pbrtv.com:8080/regina/regina/145479
-#EXTINF:-1,NICK JR FHD H265
-http://p2pbrtv.com:8080/regina/regina/145290
-#EXTINF:-1,NICK JR HD
-http://p2pbrtv.com:8080/regina/regina/145172
-#EXTINF:-1,NICK.JR
-http://p2pbrtv.com:8080/regina/regina/145480
-#EXTINF:-1,NICKELODEON
-http://p2pbrtv.com:8080/regina/regina/145481
-#EXTINF:-1,NICKELODEON FHD H265
-http://p2pbrtv.com:8080/regina/regina/145289
-#EXTINF:-1,NICKELODEON HD
-http://p2pbrtv.com:8080/regina/regina/145171
-#EXTINF:-1,OFF
-http://p2pbrtv.com:8080/regina/regina/145482
-#EXTINF:-1,OFF FHD H265
-http://p2pbrtv.com:8080/regina/regina/145291
-#EXTINF:-1,OFF HD
-http://p2pbrtv.com:8080/regina/regina/145173
-#EXTINF:-1,PARAMOUNT
-http://p2pbrtv.com:8080/regina/regina/145483
-#EXTINF:-1,PARAMOUNT FHD H265
-http://p2pbrtv.com:8080/regina/regina/145292
-#EXTINF:-1,PARAMOUNT HD
-http://p2pbrtv.com:8080/regina/regina/145174
-#EXTINF:-1,PLAY TV
-http://p2pbrtv.com:8080/regina/regina/145484
-#EXTINF:-1,POLISHOP TV
-http://p2pbrtv.com:8080/regina/regina/145485
-#EXTINF:-1,PREMIERE 2
-http://p2pbrtv.com:8080/regina/regina/145486
-#EXTINF:-1,PREMIERE 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145294
-#EXTINF:-1,PREMIERE 2 HD
-http://p2pbrtv.com:8080/regina/regina/145175
-#EXTINF:-1,PREMIERE 3
-http://p2pbrtv.com:8080/regina/regina/145487
-#EXTINF:-1,PREMIERE 3 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145295
-#EXTINF:-1,PREMIERE 3 HD
-http://p2pbrtv.com:8080/regina/regina/145176
-#EXTINF:-1,PREMIERE 4
-http://p2pbrtv.com:8080/regina/regina/145488
-#EXTINF:-1,PREMIERE 4 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145296
-#EXTINF:-1,PREMIERE 4 HD
-http://p2pbrtv.com:8080/regina/regina/145177
-#EXTINF:-1,PREMIERE 5
-http://p2pbrtv.com:8080/regina/regina/145489
-#EXTINF:-1,PREMIERE 5 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145297
-#EXTINF:-1,PREMIERE 5 HD
-http://p2pbrtv.com:8080/regina/regina/145178
-#EXTINF:-1,PREMIERE 6
-http://p2pbrtv.com:8080/regina/regina/145490
-#EXTINF:-1,PREMIERE 6 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145298
-#EXTINF:-1,PREMIERE 6 HD
-http://p2pbrtv.com:8080/regina/regina/145179
-#EXTINF:-1,PREMIERE 7
-http://p2pbrtv.com:8080/regina/regina/145491
-#EXTINF:-1,PREMIERE 7 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145299
-#EXTINF:-1,PREMIERE 7 HD
-http://p2pbrtv.com:8080/regina/regina/145180
-#EXTINF:-1,PREMIERE 8
-http://p2pbrtv.com:8080/regina/regina/145492
-#EXTINF:-1,PREMIERE 9
-http://p2pbrtv.com:8080/regina/regina/145493
-#EXTINF:-1,PREMIERE CLUBES
-http://p2pbrtv.com:8080/regina/regina/145494
-#EXTINF:-1,PREMIERE CLUBES FHD H265
-http://p2pbrtv.com:8080/regina/regina/145293
-#EXTINF:-1,PREMIERE CLUBES HD
-http://p2pbrtv.com:8080/regina/regina/145181
-#EXTINF:-1,PRIME BOX BRAZIL
-http://p2pbrtv.com:8080/regina/regina/145495
-#EXTINF:-1,RECORD BELEM HD
-http://p2pbrtv.com:8080/regina/regina/145360
-#EXTINF:-1,RECORD BRASILIA HD
-http://p2pbrtv.com:8080/regina/regina/145352
-#EXTINF:-1,RECORD CABRALIA HD
-http://p2pbrtv.com:8080/regina/regina/145370
-#EXTINF:-1,RECORD CAMPINAS HD
-http://p2pbrtv.com:8080/regina/regina/145381
-#EXTINF:-1,RECORD ES
-http://p2pbrtv.com:8080/regina/regina/145353
-#EXTINF:-1,RECORD ES FHD
-http://p2pbrtv.com:8080/regina/regina/145354
-#EXTINF:-1,RECORD ES HD
-http://p2pbrtv.com:8080/regina/regina/145355
-#EXTINF:-1,RECORD GO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145300
-#EXTINF:-1,RECORD GO HD
-http://p2pbrtv.com:8080/regina/regina/145182
-#EXTINF:-1,RECORD MINAS HD
-http://p2pbrtv.com:8080/regina/regina/145362
-#EXTINF:-1,RECORD NEWS
-http://p2pbrtv.com:8080/regina/regina/145497
-#EXTINF:-1,RECORD PARANA HD
-http://p2pbrtv.com:8080/regina/regina/145388
-#EXTINF:-1,RECORD RJ HD
-http://p2pbrtv.com:8080/regina/regina/145363
-#EXTINF:-1,RECORD RS HD
-http://p2pbrtv.com:8080/regina/regina/145356
-#EXTINF:-1,RECORD SANTOS HD
-http://p2pbrtv.com:8080/regina/regina/145361
-#EXTINF:-1,RECORD SAO JOSE RIO PRETO HD
-http://p2pbrtv.com:8080/regina/regina/145357
-#EXTINF:-1,RECORD SC HD
-http://p2pbrtv.com:8080/regina/regina/145382
-#EXTINF:-1,RECORD SERGIPE HD
-http://p2pbrtv.com:8080/regina/regina/145358
-#EXTINF:-1,RECORD SP FHD H265
-http://p2pbrtv.com:8080/regina/regina/145393
-#EXTINF:-1,RECORD SP HD
-http://p2pbrtv.com:8080/regina/regina/145359
-#EXTINF:-1,RECORD TV
-http://p2pbrtv.com:8080/regina/regina/145498
-#EXTINF:-1,RECORD UBERLANDIA HD
-http://p2pbrtv.com:8080/regina/regina/145372
-#EXTINF:-1,RECORD VITORIA ES
-http://p2pbrtv.com:8080/regina/regina/145378
-#EXTINF:-1,RECORD VITORIA ES FHD
-http://p2pbrtv.com:8080/regina/regina/145379
-#EXTINF:-1,RECORD VITORIA ES HD
-http://p2pbrtv.com:8080/regina/regina/145380
-#EXTINF:-1,REDE BRASIL
-http://p2pbrtv.com:8080/regina/regina/145500
-#EXTINF:-1,REDE TV
-http://p2pbrtv.com:8080/regina/regina/145501
-#EXTINF:-1,REDE TV FHD H265
-http://p2pbrtv.com:8080/regina/regina/145301
-#EXTINF:-1,REDE TV HD
-http://p2pbrtv.com:8080/regina/regina/145183
-#EXTINF:-1,REDE VIDA
-http://p2pbrtv.com:8080/regina/regina/145502
-#EXTINF:-1,SBT
-http://p2pbrtv.com:8080/regina/regina/145504
-#EXTINF:-1,SBT ARATU HD
-http://p2pbrtv.com:8080/regina/regina/145369
-#EXTINF:-1,SBT BRASILIA HD
-http://p2pbrtv.com:8080/regina/regina/145364
-#EXTINF:-1,SBT ES
-http://p2pbrtv.com:8080/regina/regina/145375
-#EXTINF:-1,SBT ES HD
-http://p2pbrtv.com:8080/regina/regina/145377
-#EXTINF:-1,SBT FHD H265
-http://p2pbrtv.com:8080/regina/regina/145320
-#EXTINF:-1,SBT GO HD
-http://p2pbrtv.com:8080/regina/regina/145203
-#EXTINF:-1,SBT MG
-http://p2pbrtv.com:8080/regina/regina/145384
-#EXTINF:-1,SBT MG FHD
-http://p2pbrtv.com:8080/regina/regina/145406
-#EXTINF:-1,SBT PARANA HD
-http://p2pbrtv.com:8080/regina/regina/145387
-#EXTINF:-1,SBT RJ HD
-http://p2pbrtv.com:8080/regina/regina/145365
-#EXTINF:-1,SBT RS HD
-http://p2pbrtv.com:8080/regina/regina/145366
-#EXTINF:-1,SBT SERGIPE HD
-http://p2pbrtv.com:8080/regina/regina/145367
-#EXTINF:-1,SBT SP HD
-http://p2pbrtv.com:8080/regina/regina/145368
-#EXTINF:-1,SONY FHD H265
-http://p2pbrtv.com:8080/regina/regina/145239
-#EXTINF:-1,SONY HD
-http://p2pbrtv.com:8080/regina/regina/145121
-#EXTINF:-1,SPACE
-http://p2pbrtv.com:8080/regina/regina/145505
-#EXTINF:-1,SPACE FHD H265
-http://p2pbrtv.com:8080/regina/regina/145302
-#EXTINF:-1,SPACE HD
-http://p2pbrtv.com:8080/regina/regina/145184
-#EXTINF:-1,SPORTV
-http://p2pbrtv.com:8080/regina/regina/145506
-#EXTINF:-1,SPORTV 2
-http://p2pbrtv.com:8080/regina/regina/145507
-#EXTINF:-1,SPORTV 2 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145303
-#EXTINF:-1,SPORTV 2 HD
-http://p2pbrtv.com:8080/regina/regina/145185
-#EXTINF:-1,SPORTV 3
-http://p2pbrtv.com:8080/regina/regina/145508
-#EXTINF:-1,SPORTV 3 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145304
-#EXTINF:-1,SPORTV 3 HD
-http://p2pbrtv.com:8080/regina/regina/145186
-#EXTINF:-1,SPORTV FHD H265
-http://p2pbrtv.com:8080/regina/regina/145305
-#EXTINF:-1,SPORTV HD
-http://p2pbrtv.com:8080/regina/regina/145187
-#EXTINF:-1,STUDIO UNIVERSAL
-http://p2pbrtv.com:8080/regina/regina/145509
-#EXTINF:-1,STUDIO UNIVERSAL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145306
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://p2pbrtv.com:8080/regina/regina/145188
-#EXTINF:-1,SYFY
-http://p2pbrtv.com:8080/regina/regina/145510
-#EXTINF:-1,SYFY FHD H265
-http://p2pbrtv.com:8080/regina/regina/145307
-#EXTINF:-1,SYFY HD
-http://p2pbrtv.com:8080/regina/regina/145189
-#EXTINF:-1,TBS
-http://p2pbrtv.com:8080/regina/regina/145511
-#EXTINF:-1,TBS FHD H265
-http://p2pbrtv.com:8080/regina/regina/145308
-#EXTINF:-1,TBS HD
-http://p2pbrtv.com:8080/regina/regina/145190
-#EXTINF:-1,TCM
-http://p2pbrtv.com:8080/regina/regina/145512
-#EXTINF:-1,TELECINE ACTION
-http://p2pbrtv.com:8080/regina/regina/145513
-#EXTINF:-1,TELECINE ACTION FHD H265
-http://p2pbrtv.com:8080/regina/regina/145309
-#EXTINF:-1,TELECINE ACTION HD
-http://p2pbrtv.com:8080/regina/regina/145191
-#EXTINF:-1,TELECINE CULT
-http://p2pbrtv.com:8080/regina/regina/145514
-#EXTINF:-1,TELECINE CULT FHD H265
-http://p2pbrtv.com:8080/regina/regina/145310
-#EXTINF:-1,TELECINE CULT HD
-http://p2pbrtv.com:8080/regina/regina/145192
-#EXTINF:-1,TELECINE FUN
-http://p2pbrtv.com:8080/regina/regina/145515
-#EXTINF:-1,TELECINE FUN FHD H265
-http://p2pbrtv.com:8080/regina/regina/145311
-#EXTINF:-1,TELECINE FUN HD
-http://p2pbrtv.com:8080/regina/regina/145193
-#EXTINF:-1,TELECINE PIPOCA
-http://p2pbrtv.com:8080/regina/regina/145516
-#EXTINF:-1,TELECINE PIPOCA FHD H265
-http://p2pbrtv.com:8080/regina/regina/145312
-#EXTINF:-1,TELECINE PIPOCA HD
-http://p2pbrtv.com:8080/regina/regina/145194
-#EXTINF:-1,TELECINE PREMIUM
-http://p2pbrtv.com:8080/regina/regina/145517
-#EXTINF:-1,TELECINE PREMIUM FHD H265
-http://p2pbrtv.com:8080/regina/regina/145313
-#EXTINF:-1,TELECINE PREMIUM HD
-http://p2pbrtv.com:8080/regina/regina/145195
-#EXTINF:-1,TELECINE TOUCH
-http://p2pbrtv.com:8080/regina/regina/145518
-#EXTINF:-1,TELECINE TOUCH FHD H265
-http://p2pbrtv.com:8080/regina/regina/145314
-#EXTINF:-1,TELECINE TOUCH HD
-http://p2pbrtv.com:8080/regina/regina/145196
-#EXTINF:-1,TERRA VIVA
-http://p2pbrtv.com:8080/regina/regina/145519
-#EXTINF:-1,WOOHOO HD
-http://p2pbrtv.com:8080/regina/regina/145197
-#EXTINF:-1,TNT
-http://p2pbrtv.com:8080/regina/regina/145521
-#EXTINF:-1,TNT FHD H265
-http://p2pbrtv.com:8080/regina/regina/145316
-#EXTINF:-1,TNT HD
-http://p2pbrtv.com:8080/regina/regina/145198
-#EXTINF:-1,TNT SERIES
-http://p2pbrtv.com:8080/regina/regina/145522
-#EXTINF:-1,TNT SERIES FHD H265
-http://p2pbrtv.com:8080/regina/regina/145317
-#EXTINF:-1,TNT SERIES HD
-http://p2pbrtv.com:8080/regina/regina/145199
-#EXTINF:-1,TOONCAST
-http://p2pbrtv.com:8080/regina/regina/145523
-#EXTINF:-1,TRU TV
-http://p2pbrtv.com:8080/regina/regina/145524
-#EXTINF:-1,TRU TV HD
-http://p2pbrtv.com:8080/regina/regina/145525
-#EXTINF:-1,TV APARECIDA
-http://p2pbrtv.com:8080/regina/regina/145527
-#EXTINF:-1,TV BAHIA
-http://p2pbrtv.com:8080/regina/regina/145528
-#EXTINF:-1,TV CAMARA
-http://p2pbrtv.com:8080/regina/regina/145529
-#EXTINF:-1,TV CULTURA
-http://p2pbrtv.com:8080/regina/regina/145531
-#EXTINF:-1,TV DIARIO HD
-http://p2pbrtv.com:8080/regina/regina/145221
-#EXTINF:-1,TV EVAGILIZAR ES FHD
-http://p2pbrtv.com:8080/regina/regina/145376
-#EXTINF:-1,TV JUSTICA
-http://p2pbrtv.com:8080/regina/regina/145532
-#EXTINF:-1,TV NOVO TEMPO
-http://p2pbrtv.com:8080/regina/regina/145549
-#EXTINF:-1,TV RA TIM BUM
-http://p2pbrtv.com:8080/regina/regina/145534
-#EXTINF:-1,TV RA TIM BUM HD
-http://p2pbrtv.com:8080/regina/regina/145202
-#EXTINF:-1,TV SENADO
-http://p2pbrtv.com:8080/regina/regina/145535
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://p2pbrtv.com:8080/regina/regina/145548
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://p2pbrtv.com:8080/regina/regina/145204
-#EXTINF:-1,UNIVERSAL TV FHD H265
-http://p2pbrtv.com:8080/regina/regina/145321
-#EXTINF:-1,VH1 FHD H265
-http://p2pbrtv.com:8080/regina/regina/145322
-#EXTINF:-1,VH1 HD
-http://p2pbrtv.com:8080/regina/regina/145205
-#EXTINF:-1,VH1 MEGAHITS
-http://p2pbrtv.com:8080/regina/regina/145542
-#EXTINF:-1,VIVA
-http://p2pbrtv.com:8080/regina/regina/145543
-#EXTINF:-1,VIVA HD
-http://p2pbrtv.com:8080/regina/regina/145206
-#EXTINF:-1,WARNER CHANNEL
-http://p2pbrtv.com:8080/regina/regina/145544
-#EXTINF:-1,WARNER CHANNEL FHD H265
-http://p2pbrtv.com:8080/regina/regina/145323
-#EXTINF:-1,WARNER CHANNEL HD
-http://p2pbrtv.com:8080/regina/regina/145207
-#EXTINF:-1,WOOHOO
-http://p2pbrtv.com:8080/regina/regina/145545
-#EXTINF:-1,WOOHOO FHD H265
-http://p2pbrtv.com:8080/regina/regina/145324
-#EXTINF:-1,ZOOMOO
-http://p2pbrtv.com:8080/regina/regina/145546
-
+#EXTINF:-1,BBB MOSAICO HD ¹
+http://quatv2.com:9000/545454/545454/66595
+#EXTINF:-1,BBB TELA 1 SD ¹
+http://quatv2.com:9000/545454/545454/70410
+#EXTINF:-1,BBB TELA 2 FHD ¹
+http://quatv2.com:9000/545454/545454/70411
+#EXTINF:-1,BBB 20 CAM 1 HD ¹
+http://quatv2.com:9000/545454/545454/70414
+#EXTINF:-1,BBB 20 CAM 1 SD ²
+http://quatv2.com:9000/545454/545454/70417
+#EXTINF:-1,BBB 20 CAM 2 HD ²
+http://quatv2.com:9000/545454/545454/70415
+#EXTINF:-1,BBB 20 CAM 2 SD ²
+http://quatv2.com:9000/545454/545454/70416
+#EXTINF:-1,BBB 20 CAM 3 HD ¹
+http://quatv2.com:9000/545454/545454/70418
+#EXTINF:-1,BBB 20 CAM 3 SD ²
+http://quatv2.com:9000/545454/545454/70419
+#EXTINF:-1,BBB 20 CAM 4 HD ¹
+http://quatv2.com:9000/545454/545454/70420
+#EXTINF:-1,BBB 20 CAM 4 SD ²
+http://quatv2.com:9000/545454/545454/70421
+#EXTINF:-1,BBB 20 CAM 5 HD ¹
+http://quatv2.com:9000/545454/545454/70422
+#EXTINF:-1,BBB 20 CAM 5 SD ²
+http://quatv2.com:9000/545454/545454/70423
+#EXTINF:-1,BBB 20 CAM 6 HD ¹
+http://quatv2.com:9000/545454/545454/70424
+#EXTINF:-1,BBB 20 CAM 6 SD ²
+http://quatv2.com:9000/545454/545454/70425
+#EXTINF:-1,BBB 20 CAM 7 HD ¹
+http://quatv2.com:9000/545454/545454/70426
+#EXTINF:-1,BBB 20 CAM 7 SD ²
+http://quatv2.com:9000/545454/545454/70427
+#EXTINF:-1,BBB 20 CAM 8 HD ¹
+http://quatv2.com:9000/545454/545454/70433
+#EXTINF:-1,BBB 20 CAM 8 SD ²
+http://quatv2.com:9000/545454/545454/70432
+#EXTINF:-1,BBB 20 CAM 9 HD ¹
+http://quatv2.com:9000/545454/545454/70431
+#EXTINF:-1,BBB 20 CAM 9 SD ²
+http://quatv2.com:9000/545454/545454/70430
+#EXTINF:-1,BBB 20 CAM 10 HD ²
+http://quatv2.com:9000/545454/545454/70429
+#EXTINF:-1,BBB 20 CAM 10 SD ²
+http://quatv2.com:9000/545454/545454/70428
+#EXTINF:-1,BBB 20 CAM 11 HD ²
+http://quatv2.com:9000/545454/545454/71358
+#EXTINF:-1,BBB  20 CAM 11 SD ²
+http://quatv2.com:9000/545454/545454/71359
+#EXTINF:-1,ALL SPORTS HD  ¹
+http://quatv2.com:9000/545454/545454/19235
+#EXTINF:-1,BAND SPORTS FHD  ¹
+http://quatv2.com:9000/545454/545454/6325
+#EXTINF:-1,BAND SPORTS FHD ³
+http://quatv2.com:9000/545454/545454/31174
+#EXTINF:-1,BAND SPORTS HD  ¹
+http://quatv2.com:9000/545454/545454/417
+#EXTINF:-1,BAND SPORTS SD ¹
+http://quatv2.com:9000/545454/545454/58279
+#EXTINF:-1,BAND SPORTS SD ³
+http://quatv2.com:9000/545454/545454/4336
+#EXTINF:-1,COMBATE FHD  ¹
+http://quatv2.com:9000/545454/545454/6324
+#EXTINF:-1,COMBATE HD ¹
+http://quatv2.com:9000/545454/545454/45199
+#EXTINF:-1,COMBATE HD ³
+http://quatv2.com:9000/545454/545454/43485
+#EXTINF:-1,COMBATE SD ³
+http://quatv2.com:9000/545454/545454/7904
+#EXTINF:-1,COPA LIBERTADORES 2020
+http://quatv2.com:9000/545454/545454/71336
+#EXTINF:-1,DAZN FHD ²
+http://quatv2.com:9000/545454/545454/58421
+#EXTINF:-1,DAZN HD ¹
+http://quatv2.com:9000/545454/545454/56622
+#EXTINF:-1,DAZN SD ²
+http://quatv2.com:9000/545454/545454/55017
+#EXTINF:-1,COPA DO NORDESTE 1 HD ¹
+http://quatv2.com:9000/545454/545454/70434
+#EXTINF:-1,COPA DO NORDESTE 1 SD ¹
+http://quatv2.com:9000/545454/545454/71366
+#EXTINF:-1,COPA DO NORDESTE 2 HD ²
+http://quatv2.com:9000/545454/545454/70436
+#EXTINF:-1,COPA DO NORDESTE 2 SD ³
+http://quatv2.com:9000/545454/545454/70435
+#EXTINF:-1,COPA DO NORDESTE 3 HD ²
+http://quatv2.com:9000/545454/545454/71367
+#EXTINF:-1,COPA DO NORDESTE 3 SD ²
+http://quatv2.com:9000/545454/545454/71368
+#EXTINF:-1,COPA CATARINENSE 1 HD ²
+http://quatv2.com:9000/545454/545454/70896
+#EXTINF:-1,COPA CATARINENSE 1 SD ²
+http://quatv2.com:9000/545454/545454/71361
+#EXTINF:-1,COPA CATARINENSE 2 HD ²
+http://quatv2.com:9000/545454/545454/70898
+#EXTINF:-1,COPA CATARINENSE 2 SD ²
+http://quatv2.com:9000/545454/545454/70897
+#EXTINF:-1,COPA CATARINENSE 3 HD ²
+http://quatv2.com:9000/545454/545454/71363
+#EXTINF:-1,COPA CATARINENSE 3 SD ²
+http://quatv2.com:9000/545454/545454/71362
+#EXTINF:-1,COPA CATARINENSE 4 HD ²
+http://quatv2.com:9000/545454/545454/71365
+#EXTINF:-1,COPA CATARINENSE 4 SD ²
+http://quatv2.com:9000/545454/545454/71364
+#EXTINF:-1,ESPN FHD ³
+http://quatv2.com:9000/545454/545454/43472
+#EXTINF:-1,ESPN HD ¹
+http://quatv2.com:9000/545454/545454/58952
+#EXTINF:-1,ESPN HD ³
+http://quatv2.com:9000/545454/545454/409
+#EXTINF:-1,ESPN SD ¹
+http://quatv2.com:9000/545454/545454/66592
+#EXTINF:-1,ESPN SD ³
+http://quatv2.com:9000/545454/545454/408
+#EXTINF:-1,ESPN 2 FHD ¹
+http://quatv2.com:9000/545454/545454/31904
+#EXTINF:-1,ESPN 2 FHD ²
+http://quatv2.com:9000/545454/545454/31196
+#EXTINF:-1,ESPN 2 HD ¹
+http://quatv2.com:9000/545454/545454/55088
+#EXTINF:-1,ESPN 2 HD ¹
+http://quatv2.com:9000/545454/545454/4426
+#EXTINF:-1,ESPN 2 SD ¹
+http://quatv2.com:9000/545454/545454/19228
+#EXTINF:-1,ESPN 2 SD ²
+http://quatv2.com:9000/545454/545454/4425
+#EXTINF:-1,ESPN BRASIL FHD ¹
+http://quatv2.com:9000/545454/545454/6323
+#EXTINF:-1,ESPN BRASIL FHD ³
+http://quatv2.com:9000/545454/545454/43468
+#EXTINF:-1,ESPN BRASIL HD ¹
+http://quatv2.com:9000/545454/545454/2768
+#EXTINF:-1,ESPN BRASIL HD ³
+http://quatv2.com:9000/545454/545454/43469
+#EXTINF:-1,ESPN BRASIL SD ¹
+http://quatv2.com:9000/545454/545454/58809
+#EXTINF:-1,ESPN BRASIL SD ³
+http://quatv2.com:9000/545454/545454/4332
+#EXTINF:-1,ESPN EXTRA FHD ¹
+http://quatv2.com:9000/545454/545454/8942
+#EXTINF:-1,ESPN EXTRA FHD ²
+http://quatv2.com:9000/545454/545454/31195
+#EXTINF:-1,ESPN EXTRA FHD ³
+http://quatv2.com:9000/545454/545454/43466
+#EXTINF:-1,ESPN EXTRA HD ¹
+http://quatv2.com:9000/545454/545454/14042
+#EXTINF:-1,ESPN EXTRA HD ³
+http://quatv2.com:9000/545454/545454/43467
+#EXTINF:-1,ESPN EXTRA HD ²
+http://quatv2.com:9000/545454/545454/4428
+#EXTINF:-1,ESPN EXTRA SD ¹
+http://quatv2.com:9000/545454/545454/4427
+#EXTINF:-1,ESPN EXTRA SD ³
+http://quatv2.com:9000/545454/545454/59606
+#EXTINF:-1,ESPN BRASIL FHD ²
+http://quatv2.com:9000/545454/545454/31247
+#EXTINF:-1,ESPN BRASIL HD ³
+http://quatv2.com:9000/545454/545454/407
+#EXTINF:-1,EI PLUS 1 HD ²
+http://quatv2.com:9000/545454/545454/71208
+#EXTINF:-1,EI PLUS 1 SD ¹
+http://quatv2.com:9000/545454/545454/71207
+#EXTINF:-1,EI PLUS 2 HD ²
+http://quatv2.com:9000/545454/545454/32819
+#EXTINF:-1,EI PLUS 2 SD ²
+http://quatv2.com:9000/545454/545454/70437
+#EXTINF:-1,EI PLUS 3 HD ²
+http://quatv2.com:9000/545454/545454/70438
+#EXTINF:-1,EI PLUS 3 SD ²
+http://quatv2.com:9000/545454/545454/70439
+#EXTINF:-1,EI PLUS 4 HD ²
+http://quatv2.com:9000/545454/545454/70440
+#EXTINF:-1,EI PLUS 4 SD ²
+http://quatv2.com:9000/545454/545454/70441
+#EXTINF:-1,EI PLUS 5 HD ²
+http://quatv2.com:9000/545454/545454/70442
+#EXTINF:-1,EI PLUS 5 SD ²
+http://quatv2.com:9000/545454/545454/70443
+#EXTINF:-1,EI PLUS 6 HD ²
+http://quatv2.com:9000/545454/545454/70444
+#EXTINF:-1,EI PLUS 6 SD ²
+http://quatv2.com:9000/545454/545454/70445
+#EXTINF:-1,FLAMENGO TV FHD
+http://quatv2.com:9000/545454/545454/71261
+#EXTINF:-1,LIVE ESPORTE INTERATIVO ¹
+http://quatv2.com:9000/545454/545454/71216
+#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP ²
+http://quatv2.com:9000/545454/545454/43450
+#EXTINF:-1,FOX SPORTS FHD ³
+http://quatv2.com:9000/545454/545454/43464
+#EXTINF:-1,FOX SPORTS HD  ¹
+http://quatv2.com:9000/545454/545454/19202
+#EXTINF:-1,FOX SPORTS SD ¹
+http://quatv2.com:9000/545454/545454/400
+#EXTINF:-1,FOX SPORTS 2 FHD ¹
+http://quatv2.com:9000/545454/545454/31249
+#EXTINF:-1,FOX SPORTS 2 FHD ²
+http://quatv2.com:9000/545454/545454/6321
+#EXTINF:-1,FOX SPORTS 2 HD ¹
+http://quatv2.com:9000/545454/545454/399
+#EXTINF:-1,FOX SPORTS 2 SD ³
+http://quatv2.com:9000/545454/545454/398
+#EXTINF:-1,SPORTV FHD  ¹
+http://quatv2.com:9000/545454/545454/6316
+#EXTINF:-1,SPORTV FHD ²
+http://quatv2.com:9000/545454/545454/43425
+#EXTINF:-1,SPORTV HD ¹
+http://quatv2.com:9000/545454/545454/378
+#EXTINF:-1,SPORTV HD ²
+http://quatv2.com:9000/545454/545454/19389
+#EXTINF:-1,SPORTV SD ²
+http://quatv2.com:9000/545454/545454/7905
+#EXTINF:-1,SPORTV 2 FHD  ¹
+http://quatv2.com:9000/545454/545454/6315
+#EXTINF:-1,SPORTV 2 HD ¹
+http://quatv2.com:9000/545454/545454/376
+#EXTINF:-1,SPORTV 2 HD ²
+http://quatv2.com:9000/545454/545454/4309
+#EXTINF:-1,SPORTV 2 SD ¹
+http://quatv2.com:9000/545454/545454/58265
+#EXTINF:-1,SPORTV 2 SD ²
+http://quatv2.com:9000/545454/545454/19390
+#EXTINF:-1,SPORTV 3 FHD  ¹
+http://quatv2.com:9000/545454/545454/6314
+#EXTINF:-1,SPORTV 3 FHD ²
+http://quatv2.com:9000/545454/545454/2728
+#EXTINF:-1,SPORTV 3 HD ¹
+http://quatv2.com:9000/545454/545454/374
+#EXTINF:-1,SPORTV 3 HD ²
+http://quatv2.com:9000/545454/545454/19391
+#EXTINF:-1,SPORTV 3 SD ¹
+http://quatv2.com:9000/545454/545454/58717
+#EXTINF:-1,SPORTV 3 SD ²
+http://quatv2.com:9000/545454/545454/4307
+#EXTINF:-1,PREMIERE CLUBES FHD ²
+http://quatv2.com:9000/545454/545454/6320
+#EXTINF:-1,PREMIERE CLUBES HD ¹
+http://quatv2.com:9000/545454/545454/2743
+#EXTINF:-1,PREMIERE CLUBES HD ²
+http://quatv2.com:9000/545454/545454/7699
+#EXTINF:-1,PREMIERE CLUBES SD ¹
+http://quatv2.com:9000/545454/545454/59607
+#EXTINF:-1,PREMIERE CLUBES SD ²
+http://quatv2.com:9000/545454/545454/4312
+#EXTINF:-1,PREMIERE 2 FHD ¹
+http://quatv2.com:9000/545454/545454/6319
+#EXTINF:-1,PREMIERE 2 FHD ²
+http://quatv2.com:9000/545454/545454/392
+#EXTINF:-1,PREMIERE 2 HD ¹
+http://quatv2.com:9000/545454/545454/393
+#EXTINF:-1,PREMIERE 2 SD ²
+http://quatv2.com:9000/545454/545454/4326
+#EXTINF:-1,PREMIERE 3 FHD ¹
+http://quatv2.com:9000/545454/545454/6318
+#EXTINF:-1,PREMIERE 3 FHD ²
+http://quatv2.com:9000/545454/545454/43346
+#EXTINF:-1,PREMIERE 3 HD ¹
+http://quatv2.com:9000/545454/545454/391
+#EXTINF:-1,PREMIERE 3 HD ²
+http://quatv2.com:9000/545454/545454/7697
+#EXTINF:-1,PREMIERE 3 SD ¹
+http://quatv2.com:9000/545454/545454/390
+#EXTINF:-1,PREMIERE 3 SD ²
+http://quatv2.com:9000/545454/545454/19392
+#EXTINF:-1,PREMIERE 4 FHD ¹
+http://quatv2.com:9000/545454/545454/6317
+#EXTINF:-1,PREMIERE 4 FHD ²
+http://quatv2.com:9000/545454/545454/43345
+#EXTINF:-1,PREMIERE 4 HD ¹
+http://quatv2.com:9000/545454/545454/389
+#EXTINF:-1,PREMIERE 4 HD ³
+http://quatv2.com:9000/545454/545454/7696
+#EXTINF:-1,PREMIERE 4 SD ¹
+http://quatv2.com:9000/545454/545454/58817
+#EXTINF:-1,PREMIERE 4 SD ³
+http://quatv2.com:9000/545454/545454/4322
+#EXTINF:-1,PREMIERE 5 FHD ¹
+http://quatv2.com:9000/545454/545454/32816
+#EXTINF:-1,PREMIERE 5 FHD ²
+http://quatv2.com:9000/545454/545454/43344
+#EXTINF:-1,PREMIERE 5 HD ¹
+http://quatv2.com:9000/545454/545454/32815
+#EXTINF:-1,PREMIERE 5 SD ²
+http://quatv2.com:9000/545454/545454/19393
+#EXTINF:-1,PREMIERE 6 FHD ¹
+http://quatv2.com:9000/545454/545454/32818
+#EXTINF:-1,PREMIERE 6 FHD ²
+http://quatv2.com:9000/545454/545454/43343
+#EXTINF:-1,PREMIERE 6 HD ¹
+http://quatv2.com:9000/545454/545454/32817
+#EXTINF:-1,PREMIERE 6 SD ²
+http://quatv2.com:9000/545454/545454/384
+#EXTINF:-1,PREMIERE 7 FHD ¹
+http://quatv2.com:9000/545454/545454/55007
+#EXTINF:-1,PREMIERE 7 HD ²
+http://quatv2.com:9000/545454/545454/4433
+#EXTINF:-1,PREMIERE 7 SD ¹
+http://quatv2.com:9000/545454/545454/58819
+#EXTINF:-1,PREMIERE 7 SD ²
+http://quatv2.com:9000/545454/545454/7693
+#EXTINF:-1,PREMIERE 8 SD ¹
+http://quatv2.com:9000/545454/545454/58820
+#EXTINF:-1,ANIMAL PLANET 4K ¹
+http://quatv2.com:9000/545454/545454/58915
+#EXTINF:-1,BAND 4K ¹
+http://quatv2.com:9000/545454/545454/58886
+#EXTINF:-1,CARTOON NETWORK 4K ¹
+http://quatv2.com:9000/545454/545454/59412
+#EXTINF:-1,COMBATE 4K ¹
+http://quatv2.com:9000/545454/545454/58876
+#EXTINF:-1,DISCOVERY CHANNEL 4K ¹
+http://quatv2.com:9000/545454/545454/58901
+#EXTINF:-1,ESPN 4K ¹
+http://quatv2.com:9000/545454/545454/60178
+#EXTINF:-1,FOX SPORTS 4K ¹
+http://quatv2.com:9000/545454/545454/58904
+#EXTINF:-1,FOX SPORTS 2 4K ¹
+http://quatv2.com:9000/545454/545454/59414
+#EXTINF:-1,GLOBO SP 4K ¹
+http://quatv2.com:9000/545454/545454/58885
+#EXTINF:-1,HBO 4K 
+http://quatv2.com:9000/545454/545454/71232
+#EXTINF:-1,MEGAPIX 4K ¹
+http://quatv2.com:9000/545454/545454/59413
+#EXTINF:-1,MULTISHOW 4K ¹
+http://quatv2.com:9000/545454/545454/58951
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K ¹
+http://quatv2.com:9000/545454/545454/59411
+#EXTINF:-1,RECORD 4K¹
+http://quatv2.com:9000/545454/545454/58912
+#EXTINF:-1,REDE TV 4K ¹
+http://quatv2.com:9000/545454/545454/58913
+#EXTINF:-1,SBT 4K ¹
+http://quatv2.com:9000/545454/545454/58914
+#EXTINF:-1,SPACE 4K ¹
+http://quatv2.com:9000/545454/545454/60179
+#EXTINF:-1,SPORTV 4K ¹
+http://quatv2.com:9000/545454/545454/58922
+#EXTINF:-1,PREMIERE CLUBES 4K ¹
+http://quatv2.com:9000/545454/545454/58902
+#EXTINF:-1,TELECINE PREMIUM 4K ¹
+http://quatv2.com:9000/545454/545454/31243
+#EXTINF:-1,TNT 4K ¹
+http://quatv2.com:9000/545454/545454/58903
+#EXTINF:-1,TNT SERIES 4K ¹
+http://quatv2.com:9000/545454/545454/59518
+#EXTINF:-1,REAL MADRID TV  SD ²
+http://quatv2.com:9000/545454/545454/71246
+#EXTINF:-1,A&E H.265 ¹
+http://quatv2.com:9000/545454/545454/71278
+#EXTINF:-1,AMC H.265 ¹
+http://quatv2.com:9000/545454/545454/71277
+#EXTINF:-1,CANAL SONY H.265 ¹
+http://quatv2.com:9000/545454/545454/71279
+#EXTINF:-1,CANAL OFF H.265 ¹
+http://quatv2.com:9000/545454/545454/71297
+#EXTINF:-1,COMEDY CENTRAL H.265 ¹
+http://quatv2.com:9000/545454/545454/71280
+#EXTINF:-1,COMBATE H.265 ¹
+http://quatv2.com:9000/545454/545454/71265
+#EXTINF:-1,DISCOVERY CHANNEL H.265 ¹
+http://quatv2.com:9000/545454/545454/71281
+#EXTINF:-1,E! ENTERTAINMENT H.265 ¹
+http://quatv2.com:9000/545454/545454/71282
+#EXTINF:-1,FOX PREMIUM 1 H.265 ¹
+http://quatv2.com:9000/545454/545454/71295
+#EXTINF:-1,FOX PREMIUM 2 H.265 ¹
+http://quatv2.com:9000/545454/545454/71312
+#EXTINF:-1,FOX SPORTS H.265 ¹
+http://quatv2.com:9000/545454/545454/71264
+#EXTINF:-1,FOOD NETWORK H.265 ¹
+http://quatv2.com:9000/545454/545454/71284
+#EXTINF:-1,FX H.265 ¹
+http://quatv2.com:9000/545454/545454/71285
+#EXTINF:-1,ESPN H.265 ¹
+http://quatv2.com:9000/545454/545454/71313
+#EXTINF:-1,ESPN BRASIL H.265 ¹
+http://quatv2.com:9000/545454/545454/71283
+#EXTINF:-1,GLOBO SÃO PAULO H.265 ¹
+http://quatv2.com:9000/545454/545454/71286
+#EXTINF:-1,GLOBO NEWS H.265 ¹
+http://quatv2.com:9000/545454/545454/71287
+#EXTINF:-1,HBO H.265 ¹
+http://quatv2.com:9000/545454/545454/71289
+#EXTINF:-1,HBO MUNDI H.265 ¹
+http://quatv2.com:9000/545454/545454/71293
+#EXTINF:-1,HBO PLUS H.265 ¹
+http://quatv2.com:9000/545454/545454/71288
+#EXTINF:-1,HBO POP H.265 ¹
+http://quatv2.com:9000/545454/545454/71299
+#EXTINF:-1,HBO XTREME FHD H.265 ¹
+http://quatv2.com:9000/545454/545454/71294
+#EXTINF:-1,HGTV H.265 ¹
+http://quatv2.com:9000/545454/545454/71290
+#EXTINF:-1,HISTORY CHANNEL H.265 ¹
+http://quatv2.com:9000/545454/545454/71291
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY H.265 ¹
+http://quatv2.com:9000/545454/545454/71292
+#EXTINF:-1,PREMIERE CLUBES H.265 ¹
+http://quatv2.com:9000/545454/545454/71300
+#EXTINF:-1,SPACE H.265 ¹
+http://quatv2.com:9000/545454/545454/71301
+#EXTINF:-1,SPORTV H.265 ¹
+http://quatv2.com:9000/545454/545454/71302
+#EXTINF:-1,SPORTV 3 H.265 ¹
+http://quatv2.com:9000/545454/545454/71303
+#EXTINF:-1,STUDIO UNIVERSAL H.265 ¹
+http://quatv2.com:9000/545454/545454/71304
+#EXTINF:-1,TELECINE ACTION H.265 ¹
+http://quatv2.com:9000/545454/545454/71305
+#EXTINF:-1,TELECINE FUN H.265 ¹
+http://quatv2.com:9000/545454/545454/71306
+#EXTINF:-1,TELECINE PIPOCA H.265 ¹
+http://quatv2.com:9000/545454/545454/71307
+#EXTINF:-1,TELECINE PREMIUM H.265 ¹
+http://quatv2.com:9000/545454/545454/71308
+#EXTINF:-1,TELECINE TOUCH H.265 ¹
+http://quatv2.com:9000/545454/545454/71309
+#EXTINF:-1,TNT SÉRIES FHD H.265 ¹
+http://quatv2.com:9000/545454/545454/71310
+#EXTINF:-1,WARNER CHANNEL H.265 ¹
+http://quatv2.com:9000/545454/545454/71311
+#EXTINF:-1,ANIMAL PLANET FHD ¹
+http://quatv2.com:9000/545454/545454/60848
+#EXTINF:-1,ANIMAL PLANET FHD ¹
+http://quatv2.com:9000/545454/545454/31198
+#EXTINF:-1,ANIMAL PLANET HD ¹
+http://quatv2.com:9000/545454/545454/58962
+#EXTINF:-1,ANIMAL PLANET SD ¹
+http://quatv2.com:9000/545454/545454/58256
+#EXTINF:-1,ANIMAL PLANET SD ²
+http://quatv2.com:9000/545454/545454/4364
+#EXTINF:-1,DISCOVERY CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/55008
+#EXTINF:-1,DISCOVERY CHANNEL FHD ²
+http://quatv2.com:9000/545454/545454/43481
+#EXTINF:-1,DISCOVERY CHANNEL HD ¹
+http://quatv2.com:9000/545454/545454/8941
+#EXTINF:-1,DISCOVERY CHANNEL SD ¹
+http://quatv2.com:9000/545454/545454/58423
+#EXTINF:-1,DISCOVERY CHANNEL SD ²
+http://quatv2.com:9000/545454/545454/4360
+#EXTINF:-1,DISCOVERY CIVILIZATION HD ¹
+http://quatv2.com:9000/545454/545454/58963
+#EXTINF:-1,DISCOVERY CIVILIZATION SD ¹
+http://quatv2.com:9000/545454/545454/58261
+#EXTINF:-1,DISCOVERY H&H FHD ¹
+http://quatv2.com:9000/545454/545454/58422
+#EXTINF:-1,DISCOVERY H&H HD ¹
+http://quatv2.com:9000/545454/545454/58964
+#EXTINF:-1,DISCOVERY H&H SD ¹
+http://quatv2.com:9000/545454/545454/58424
+#EXTINF:-1,DISCOVERY H&H SD ²
+http://quatv2.com:9000/545454/545454/4354
+#EXTINF:-1,DISCOVERY SCIENCE FHD ¹
+http://quatv2.com:9000/545454/545454/31236
+#EXTINF:-1,DISCOVERY SCIENCE FHD ¹
+http://quatv2.com:9000/545454/545454/57476
+#EXTINF:-1,DISCOVERY SCIENCE HD ¹
+http://quatv2.com:9000/545454/545454/58965
+#EXTINF:-1,DISCOVERY SCIENCE SD ¹
+http://quatv2.com:9000/545454/545454/434
+#EXTINF:-1,DISCOVERY THEATER FHD ¹
+http://quatv2.com:9000/545454/545454/45238
+#EXTINF:-1,DISCOVERY THEATER FHD ²
+http://quatv2.com:9000/545454/545454/31200
+#EXTINF:-1,DISCOVERY THEATER HD ¹
+http://quatv2.com:9000/545454/545454/58966
+#EXTINF:-1,DISCOVERY THEATER SD ¹
+http://quatv2.com:9000/545454/545454/432
+#EXTINF:-1,DISCOVERY THEATER SD ³
+http://quatv2.com:9000/545454/545454/431
+#EXTINF:-1,DISCOVERY TURBO FHD ¹
+http://quatv2.com:9000/545454/545454/6297
+#EXTINF:-1,DISCOVERY TURBO FHD ²
+http://quatv2.com:9000/545454/545454/31171
+#EXTINF:-1,DISCOVERY TURBO FHD ²
+http://quatv2.com:9000/545454/545454/43480
+#EXTINF:-1,DISCOVERY TURBO HD ¹
+http://quatv2.com:9000/545454/545454/430
+#EXTINF:-1,DISCOVERY WORLD FHD ¹
+http://quatv2.com:9000/545454/545454/45237
+#EXTINF:-1,DISCOVERY WORLD HD ¹
+http://quatv2.com:9000/545454/545454/58967
+#EXTINF:-1,DISCOVERY WORLD SD ¹
+http://quatv2.com:9000/545454/545454/428
+#EXTINF:-1,DISCOVERY WORLD SD ²
+http://quatv2.com:9000/545454/545454/427
+#EXTINF:-1,HISTORY CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/30857
+#EXTINF:-1,HISTORY CHANNEL FHD ²
+http://quatv2.com:9000/545454/545454/31245
+#EXTINF:-1,HISTORY CHANNEL HD ¹
+http://quatv2.com:9000/545454/545454/30856
+#EXTINF:-1,HISTORY CHANNEL SD ¹
+http://quatv2.com:9000/545454/545454/58257
+#EXTINF:-1,HISTORY CHANNEL 2 FHD ¹
+http://quatv2.com:9000/545454/545454/6546
+#EXTINF:-1,HISTORY CHANNEL 2 FHD ¹
+http://quatv2.com:9000/545454/545454/31193
+#EXTINF:-1,HISTORY CHANNEL 2 HD ¹
+http://quatv2.com:9000/545454/545454/423
+#EXTINF:-1,HISTORY CHANNEL 2 SD ¹
+http://quatv2.com:9000/545454/545454/422
+#EXTINF:-1,HISTORY CHANNEL 2 SD ²
+http://quatv2.com:9000/545454/545454/4344
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD ¹
+http://quatv2.com:9000/545454/545454/8943
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY FHD ²
+http://quatv2.com:9000/545454/545454/31224
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD ¹
+http://quatv2.com:9000/545454/545454/591
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY SD ²
+http://quatv2.com:9000/545454/545454/4358
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY SD ²
+http://quatv2.com:9000/545454/545454/590
+#EXTINF:-1,NATGEO WILD FHD ¹
+http://quatv2.com:9000/545454/545454/43971
+#EXTINF:-1,NATGEO WILD HD ¹
+http://quatv2.com:9000/545454/545454/421
+#EXTINF:-1,NATGEO WILD SD ¹
+http://quatv2.com:9000/545454/545454/58816
+#EXTINF:-1,NATGEO WILD SD ²
+http://quatv2.com:9000/545454/545454/19572
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD ²
+http://quatv2.com:9000/545454/545454/6296
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD ²
+http://quatv2.com:9000/545454/545454/31223
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD ¹
+http://quatv2.com:9000/545454/545454/419
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD ²
+http://quatv2.com:9000/545454/545454/7933
+#EXTINF:-1,ARTE 1 FHD ¹
+http://quatv2.com:9000/545454/545454/43972
+#EXTINF:-1,ARTE 1 SD ²
+http://quatv2.com:9000/545454/545454/4395
+#EXTINF:-1,BIS FHD ¹
+http://quatv2.com:9000/545454/545454/70988
+#EXTINF:-1,BIS FHD ²
+http://quatv2.com:9000/545454/545454/57481
+#EXTINF:-1,BIS HD ²
+http://quatv2.com:9000/545454/545454/43489
+#EXTINF:-1,BIS SD ¹
+http://quatv2.com:9000/545454/545454/58253
+#EXTINF:-1,BIS SD ³
+http://quatv2.com:9000/545454/545454/4393
+#EXTINF:-1,CANAL OFF FHD ¹
+http://quatv2.com:9000/545454/545454/57483
+#EXTINF:-1,CANAL OFF FHD ²
+http://quatv2.com:9000/545454/545454/31180
+#EXTINF:-1,CANAL OFF HD ²
+http://quatv2.com:9000/545454/545454/7943
+#EXTINF:-1,CANAL OFF SD ¹
+http://quatv2.com:9000/545454/545454/7942
+#EXTINF:-1,COMEDY CENTRAL FHD ²
+http://quatv2.com:9000/545454/545454/6307
+#EXTINF:-1,COMEDY CENTRAL HD ¹
+http://quatv2.com:9000/545454/545454/71371
+#EXTINF:-1,COMEDY CENTRAL SD ¹
+http://quatv2.com:9000/545454/545454/58258
+#EXTINF:-1,COMEDY CENTRAL SD ²
+http://quatv2.com:9000/545454/545454/7931
+#EXTINF:-1,CURTA SD ¹
+http://quatv2.com:9000/545454/545454/58260
+#EXTINF:-1,CURTA SD ²
+http://quatv2.com:9000/545454/545454/4391
+#EXTINF:-1,DOG TV FHD ¹
+http://quatv2.com:9000/545454/545454/58881
+#EXTINF:-1,DOG TV HD ¹
+http://quatv2.com:9000/545454/545454/58880
+#EXTINF:-1,E! ENTERTAINMENT HD ¹
+http://quatv2.com:9000/545454/545454/71334
+#EXTINF:-1,E! ENTERTAINMENT SD ¹
+http://quatv2.com:9000/545454/545454/71333
+#EXTINF:-1,E! ENTERTAINMENT SD ²
+http://quatv2.com:9000/545454/545454/7945
+#EXTINF:-1,FASHION FHD ¹
+http://quatv2.com:9000/545454/545454/45225
+#EXTINF:-1,FISH TV HD ¹
+http://quatv2.com:9000/545454/545454/45244
+#EXTINF:-1,FISH TV SD ³
+http://quatv2.com:9000/545454/545454/7946
+#EXTINF:-1,FOOD NETWORK SD ¹
+http://quatv2.com:9000/545454/545454/58811
+#EXTINF:-1,FOOD NETWORK SD ³
+http://quatv2.com:9000/545454/545454/7947
+#EXTINF:-1,GNT FHD ¹
+http://quatv2.com:9000/545454/545454/55009
+#EXTINF:-1,GNT FHD ³
+http://quatv2.com:9000/545454/545454/31504
+#EXTINF:-1,GNT HD ³
+http://quatv2.com:9000/545454/545454/43451
+#EXTINF:-1,GNT SD ¹
+http://quatv2.com:9000/545454/545454/58426
+#EXTINF:-1,LIFETIME FHD ¹
+http://quatv2.com:9000/545454/545454/43976
+#EXTINF:-1,LIFETIME HD ¹
+http://quatv2.com:9000/545454/545454/58960
+#EXTINF:-1,LIFETIME SD ¹
+http://quatv2.com:9000/545454/545454/58813
+#EXTINF:-1,LIFETIME SD ²
+http://quatv2.com:9000/545454/545454/4272
+#EXTINF:-1,MAIS GLOBO SAT SD ¹
+http://quatv2.com:9000/545454/545454/7950
+#EXTINF:-1,MAIS GLOBOSAT FHD ¹
+http://quatv2.com:9000/545454/545454/71199
+#EXTINF:-1,MAIS GLOBOSAT FHD ¹
+http://quatv2.com:9000/545454/545454/57482
+#EXTINF:-1,MAIS GLOBOSAT SD ¹
+http://quatv2.com:9000/545454/545454/58805
+#EXTINF:-1,MEGA HITS VH1 FHD ¹
+http://quatv2.com:9000/545454/545454/45227
+#EXTINF:-1,MEGA HITS VH1 SD ²
+http://quatv2.com:9000/545454/545454/449
+#EXTINF:-1,MTV HD ¹
+http://quatv2.com:9000/545454/545454/43974
+#EXTINF:-1,MTV LIVE FHD ¹
+http://quatv2.com:9000/545454/545454/8946
+#EXTINF:-1,MTV LIVE HD ¹
+http://quatv2.com:9000/545454/545454/43975
+#EXTINF:-1,MTV LIVE SD ¹
+http://quatv2.com:9000/545454/545454/14048
+#EXTINF:-1,MTV SD ²
+http://quatv2.com:9000/545454/545454/7955
+#EXTINF:-1,MTV SD ²
+http://quatv2.com:9000/545454/545454/28283
+#EXTINF:-1,MULTISHOW FHD ²
+http://quatv2.com:9000/545454/545454/71242
+#EXTINF:-1,MULTISHOW HD  ¹
+http://quatv2.com:9000/545454/545454/456
+#EXTINF:-1,MULTISHOW HD ²
+http://quatv2.com:9000/545454/545454/7703
+#EXTINF:-1,MULTISHOW SD ¹
+http://quatv2.com:9000/545454/545454/58775
+#EXTINF:-1,MULTISHOW SD ¹
+http://quatv2.com:9000/545454/545454/45234
+#EXTINF:-1,MULTISHOW SD ²
+http://quatv2.com:9000/545454/545454/19570
+#EXTINF:-1,MUSIC BOX  BRASIL SD ²
+http://quatv2.com:9000/545454/545454/59617
+#EXTINF:-1,MUSIC BOX BRASIL SD ¹
+http://quatv2.com:9000/545454/545454/58815
+#EXTINF:-1,PLAY TV SD ¹
+http://quatv2.com:9000/545454/545454/58263
+#EXTINF:-1,PLAY TV SD ³
+http://quatv2.com:9000/545454/545454/19337
+#EXTINF:-1,PRIME BOX BRASIL SD ¹
+http://quatv2.com:9000/545454/545454/58277
+#EXTINF:-1,TCM SD ²
+http://quatv2.com:9000/545454/545454/7926
+#EXTINF:-1,TRUTV SD ²
+http://quatv2.com:9000/545454/545454/55026
+#EXTINF:-1,VIVA FHD ¹
+http://quatv2.com:9000/545454/545454/57479
+#EXTINF:-1,VIVA HD ²
+http://quatv2.com:9000/545454/545454/19566
+#EXTINF:-1,VIVA SD ²
+http://quatv2.com:9000/545454/545454/453
+#EXTINF:-1,WOOHOO FHD ¹
+http://quatv2.com:9000/545454/545454/57480
+#EXTINF:-1,WOOHOO SD ²
+http://quatv2.com:9000/545454/545454/7960
+#EXTINF:-1,A&E FHD ¹
+http://quatv2.com:9000/545454/545454/31205
+#EXTINF:-1,A&E HD ¹
+http://quatv2.com:9000/545454/545454/58954
+#EXTINF:-1,A&E SD ¹
+http://quatv2.com:9000/545454/545454/58270
+#EXTINF:-1,A&E SD ²
+http://quatv2.com:9000/545454/545454/4396
+#EXTINF:-1,AMC FHD ¹
+http://quatv2.com:9000/545454/545454/9529
+#EXTINF:-1,AMC FHD ²
+http://quatv2.com:9000/545454/545454/31190
+#EXTINF:-1,AMC HD ¹
+http://quatv2.com:9000/545454/545454/58955
+#EXTINF:-1,AMC SD ¹
+http://quatv2.com:9000/545454/545454/57785
+#EXTINF:-1,AMC SD ²
+http://quatv2.com:9000/545454/545454/19396
+#EXTINF:-1,AXN FHD ¹
+http://quatv2.com:9000/545454/545454/8926
+#EXTINF:-1,AXN FHD ²
+http://quatv2.com:9000/545454/545454/31210
+#EXTINF:-1,AXN HD ¹
+http://quatv2.com:9000/545454/545454/58956
+#EXTINF:-1,AXN HD ¹
+http://quatv2.com:9000/545454/545454/364
+#EXTINF:-1,AXN SD ¹
+http://quatv2.com:9000/545454/545454/58271
+#EXTINF:-1,AXN SD ²
+http://quatv2.com:9000/545454/545454/4296
+#EXTINF:-1,CANAL BRASIL FHD ¹
+http://quatv2.com:9000/545454/545454/17344
+#EXTINF:-1,CANAL BRASIL HD ²
+http://quatv2.com:9000/545454/545454/71424
+#EXTINF:-1,CANAL BRASIL HD ²
+http://quatv2.com:9000/545454/545454/43487
+#EXTINF:-1,CANAL BRASIL SD ¹
+http://quatv2.com:9000/545454/545454/58259
+#EXTINF:-1,CANAL BRASIL SD ²
+http://quatv2.com:9000/545454/545454/7895
+#EXTINF:-1,CANAL SONY FHD ¹
+http://quatv2.com:9000/545454/545454/43977
+#EXTINF:-1,CANAL SONY FHD ²
+http://quatv2.com:9000/545454/545454/31230
+#EXTINF:-1,CANAL SONY HD ¹
+http://quatv2.com:9000/545454/545454/58957
+#EXTINF:-1,CANAL SONY SD ¹
+http://quatv2.com:9000/545454/545454/314
+#EXTINF:-1,CANAL SONY SD ²
+http://quatv2.com:9000/545454/545454/7912
+#EXTINF:-1,CINEMAX FHD ¹
+http://quatv2.com:9000/545454/545454/45239
+#EXTINF:-1,CINEMAX FHD ²
+http://quatv2.com:9000/545454/545454/31194
+#EXTINF:-1,CINEMAX HD ¹
+http://quatv2.com:9000/545454/545454/58959
+#EXTINF:-1,CINEMAX SD ¹
+http://quatv2.com:9000/545454/545454/58276
+#EXTINF:-1,CINEMAX SD ²
+http://quatv2.com:9000/545454/545454/4277
+#EXTINF:-1,FILM & ARTS FHD ¹
+http://quatv2.com:9000/545454/545454/45226
+#EXTINF:-1,FILM & ARTS FHD ²
+http://quatv2.com:9000/545454/545454/57711
+#EXTINF:-1,FILM & ARTS SD ¹
+http://quatv2.com:9000/545454/545454/58810
+#EXTINF:-1,FOX CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/8940
+#EXTINF:-1,FOX CHANNEL FHD ²
+http://quatv2.com:9000/545454/545454/43465
+#EXTINF:-1,FOX CHANNEL HD ¹
+http://quatv2.com:9000/545454/545454/354
+#EXTINF:-1,FOX CHANNEL SD ¹
+http://quatv2.com:9000/545454/545454/58812
+#EXTINF:-1,FOX CHANNEL SD ²
+http://quatv2.com:9000/545454/545454/4294
+#EXTINF:-1,FOX LIFE FHD ¹
+http://quatv2.com:9000/545454/545454/6359
+#EXTINF:-1,FOX LIFE FHD ³
+http://quatv2.com:9000/545454/545454/59609
+#EXTINF:-1,FOX LIFE HD ¹
+http://quatv2.com:9000/545454/545454/55089
+#EXTINF:-1,FOX LIFE SD ¹
+http://quatv2.com:9000/545454/545454/14043
+#EXTINF:-1,FOX LIFE SD ³
+http://quatv2.com:9000/545454/545454/4292
+#EXTINF:-1,FOX PREMIUM 1 FHD ¹
+http://quatv2.com:9000/545454/545454/6358
+#EXTINF:-1,FOX PREMIUM 1 FHD ²
+http://quatv2.com:9000/545454/545454/31168
+#EXTINF:-1,FOX PREMIUM 1 FHD ³
+http://quatv2.com:9000/545454/545454/57705
+#EXTINF:-1,FOX PREMIUM 1 HD ¹
+http://quatv2.com:9000/545454/545454/350
+#EXTINF:-1,FOX PREMIUM 1 HD ³
+http://quatv2.com:9000/545454/545454/57704
+#EXTINF:-1,FOX PREMIUM 1 SD ¹
+http://quatv2.com:9000/545454/545454/66593
+#EXTINF:-1,FOX PREMIUM 1 SD ³
+http://quatv2.com:9000/545454/545454/57703
+#EXTINF:-1,FOX PREMIUM 2 FHD ¹
+http://quatv2.com:9000/545454/545454/6549
+#EXTINF:-1,FOX PREMIUM 2 HD ¹
+http://quatv2.com:9000/545454/545454/19190
+#EXTINF:-1,FOX PREMIUM 2 HD ³
+http://quatv2.com:9000/545454/545454/57707
+#EXTINF:-1,FOX PREMIUM 2 SD ¹
+http://quatv2.com:9000/545454/545454/66594
+#EXTINF:-1,FOX PREMIUM 2 SD ³
+http://quatv2.com:9000/545454/545454/57706
+#EXTINF:-1,FX FHD ¹
+http://quatv2.com:9000/545454/545454/45236
+#EXTINF:-1,FX FHD ³
+http://quatv2.com:9000/545454/545454/31227
+#EXTINF:-1,FX HD ¹
+http://quatv2.com:9000/545454/545454/346
+#EXTINF:-1,FX SD ¹
+http://quatv2.com:9000/545454/545454/58262
+#EXTINF:-1,MEGAPIX FHD ¹
+http://quatv2.com:9000/545454/545454/6354
+#EXTINF:-1,MEGAPIX FHD ²
+http://quatv2.com:9000/545454/545454/31192
+#EXTINF:-1,MEGAPIX HD ¹
+http://quatv2.com:9000/545454/545454/322
+#EXTINF:-1,MEGAPIX SD ¹
+http://quatv2.com:9000/545454/545454/58278
+#EXTINF:-1,MEGAPIX SD ³
+http://quatv2.com:9000/545454/545454/7918
+#EXTINF:-1,PARAMOUNT  CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/43973
+#EXTINF:-1,PARAMOUNT CHANNEL HD ¹
+http://quatv2.com:9000/545454/545454/318
+#EXTINF:-1,PARAMOUNT CHANNEL SD ¹
+http://quatv2.com:9000/545454/545454/58716
+#EXTINF:-1,PARAMOUNT CHANNEL SD ¹
+http://quatv2.com:9000/545454/545454/59610
+#EXTINF:-1,SPACE FHD ¹
+http://quatv2.com:9000/545454/545454/8944
+#EXTINF:-1,SPACE HD ¹
+http://quatv2.com:9000/545454/545454/313
+#EXTINF:-1,SPACE SD ³
+http://quatv2.com:9000/545454/545454/7921
+#EXTINF:-1,STUDIO UNIVERSAL FHD ¹
+http://quatv2.com:9000/545454/545454/31207
+#EXTINF:-1,STUDIO UNIVERSAL HD ²
+http://quatv2.com:9000/545454/545454/311
+#EXTINF:-1,STUDIO UNIVERSAL SD ¹
+http://quatv2.com:9000/545454/545454/58269
+#EXTINF:-1,STUDIO UNIVERSAL SD ³
+http://quatv2.com:9000/545454/545454/7922
+#EXTINF:-1,SYFY FHD ¹
+http://quatv2.com:9000/545454/545454/45228
+#EXTINF:-1,SYFY FHD ²
+http://quatv2.com:9000/545454/545454/31191
+#EXTINF:-1,SYFY HD ¹
+http://quatv2.com:9000/545454/545454/59611
+#EXTINF:-1,SYFY HD ³
+http://quatv2.com:9000/545454/545454/309
+#EXTINF:-1,SYFY SD ¹
+http://quatv2.com:9000/545454/545454/58821
+#EXTINF:-1,SYFY SD ³
+http://quatv2.com:9000/545454/545454/59612
+#EXTINF:-1,TBS FHD ¹
+http://quatv2.com:9000/545454/545454/6361
+#EXTINF:-1,TBS FHD ²
+http://quatv2.com:9000/545454/545454/31202
+#EXTINF:-1,TBS HD ¹
+http://quatv2.com:9000/545454/545454/55086
+#EXTINF:-1,TBS HD ²
+http://quatv2.com:9000/545454/545454/307
+#EXTINF:-1,TBS SD ¹
+http://quatv2.com:9000/545454/545454/58822
+#EXTINF:-1,TBS SD ³
+http://quatv2.com:9000/545454/545454/7925
+#EXTINF:-1,TLC FHD ¹
+http://quatv2.com:9000/545454/545454/57477
+#EXTINF:-1,TLC HD ¹
+http://quatv2.com:9000/545454/545454/293
+#EXTINF:-1,TLC HD ²
+http://quatv2.com:9000/545454/545454/17343
+#EXTINF:-1,TLC SD ³
+http://quatv2.com:9000/545454/545454/4328
+#EXTINF:-1,TLC SD²
+http://quatv2.com:9000/545454/545454/292
+#EXTINF:-1,TNT FHD ¹
+http://quatv2.com:9000/545454/545454/57478
+#EXTINF:-1,TNT FHD ²
+http://quatv2.com:9000/545454/545454/31214
+#EXTINF:-1,TNT HD ¹
+http://quatv2.com:9000/545454/545454/58961
+#EXTINF:-1,TNT HD ²
+http://quatv2.com:9000/545454/545454/368
+#EXTINF:-1,TNT SD ³
+http://quatv2.com:9000/545454/545454/4300
+#EXTINF:-1,TNT SÉRIES FHD ¹
+http://quatv2.com:9000/545454/545454/6353
+#EXTINF:-1,TNT SÉRIES FHD ²
+http://quatv2.com:9000/545454/545454/31213
+#EXTINF:-1,TNT SÉRIES FHD ³
+http://quatv2.com:9000/545454/545454/43424
+#EXTINF:-1,TNT SÉRIES HD ¹
+http://quatv2.com:9000/545454/545454/19192
+#EXTINF:-1,TNT SÉRIES HD ²
+http://quatv2.com:9000/545454/545454/366
+#EXTINF:-1,TNT SÉRIES SD ¹
+http://quatv2.com:9000/545454/545454/365
+#EXTINF:-1,TNT SÉRIES SD ³
+http://quatv2.com:9000/545454/545454/7927
+#EXTINF:-1,UNIVERSAL CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/8939
+#EXTINF:-1,UNIVERSAL CHANNEL FHD ²
+http://quatv2.com:9000/545454/545454/31212
+#EXTINF:-1,UNIVERSAL CHANNEL FHD ³
+http://quatv2.com:9000/545454/545454/43423
+#EXTINF:-1,UNIVERSAL CHANNEL HD ²
+http://quatv2.com:9000/545454/545454/291
+#EXTINF:-1,UNIVERSAL CHANNEL SD ³
+http://quatv2.com:9000/545454/545454/19404
+#EXTINF:-1,WARNER CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/6355
+#EXTINF:-1,WARNER CHANNEL FHD ³
+http://quatv2.com:9000/545454/545454/43421
+#EXTINF:-1,WARNER CHANNEL HD ¹
+http://quatv2.com:9000/545454/545454/45240
+#EXTINF:-1,WARNER CHANNEL SD ³
+http://quatv2.com:9000/545454/545454/7929
+#EXTINF:-1,HBO 2 FHD ¹
+http://quatv2.com:9000/545454/545454/6356
+#EXTINF:-1,HBO 2 FHD ³
+http://quatv2.com:9000/545454/545454/31204
+#EXTINF:-1,HBO 2 HD ¹
+http://quatv2.com:9000/545454/545454/342
+#EXTINF:-1,HBO 2 SD ¹
+http://quatv2.com:9000/545454/545454/58427
+#EXTINF:-1,HBO FAMILY FHD ¹
+http://quatv2.com:9000/545454/545454/55094
+#EXTINF:-1,HBO FAMILY FHD ²
+http://quatv2.com:9000/545454/545454/31165
+#EXTINF:-1,HBO FAMILY HD ¹
+http://quatv2.com:9000/545454/545454/340
+#EXTINF:-1,HBO FAMILY SD ¹
+http://quatv2.com:9000/545454/545454/339
+#EXTINF:-1,HBO FAMILY SD ²
+http://quatv2.com:9000/545454/545454/4281
+#EXTINF:-1,HBO FHD ¹
+http://quatv2.com:9000/545454/545454/31164
+#EXTINF:-1,HBO HD ¹
+http://quatv2.com:9000/545454/545454/344
+#EXTINF:-1,HBO HD ²
+http://quatv2.com:9000/545454/545454/2757
+#EXTINF:-1,HBO MUNDI FHD ¹
+http://quatv2.com:9000/545454/545454/31185
+#EXTINF:-1,HBO MUNDI HD ¹
+http://quatv2.com:9000/545454/545454/55090
+#EXTINF:-1,HBO MUNDI SD ¹
+http://quatv2.com:9000/545454/545454/57784
+#EXTINF:-1,HBO PLUS FHD ¹
+http://quatv2.com:9000/545454/545454/6548
+#EXTINF:-1,HBO PLUS HD ¹
+http://quatv2.com:9000/545454/545454/19195
+#EXTINF:-1,HBO PLUS SD ¹
+http://quatv2.com:9000/545454/545454/58428
+#EXTINF:-1,HBO POP FHD ¹
+http://quatv2.com:9000/545454/545454/6360
+#EXTINF:-1,HBO POP FHD ³
+http://quatv2.com:9000/545454/545454/71231
+#EXTINF:-1,HBO POP HD ³
+http://quatv2.com:9000/545454/545454/324
+#EXTINF:-1,HBO POP SD ³
+http://quatv2.com:9000/545454/545454/7917
+#EXTINF:-1,HBO SD ¹
+http://quatv2.com:9000/545454/545454/58774
+#EXTINF:-1,HBO SIGNATURE FHD ¹
+http://quatv2.com:9000/545454/545454/45235
+#EXTINF:-1,HBO SIGNATURE HD ¹
+http://quatv2.com:9000/545454/545454/59608
+#EXTINF:-1,HBO SIGNATURE SD ¹
+http://quatv2.com:9000/545454/545454/333
+#EXTINF:-1,HBO XTREME FHD ¹
+http://quatv2.com:9000/545454/545454/71230
+#EXTINF:-1,HBO XTREME FHD ¹
+http://quatv2.com:9000/545454/545454/19400
+#EXTINF:-1,HBO XTREME FHD ³
+http://quatv2.com:9000/545454/545454/31186
+#EXTINF:-1,HBO XTREME HD ¹
+http://quatv2.com:9000/545454/545454/14047
+#EXTINF:-1,HBO XTREME HD ³
+http://quatv2.com:9000/545454/545454/328
+#EXTINF:-1,HBO XTREME SD ¹
+http://quatv2.com:9000/545454/545454/58814
+#EXTINF:-1,HBO XTREME SD ³
+http://quatv2.com:9000/545454/545454/7914
+#EXTINF:-1,BABY TV SD ¹
+http://quatv2.com:9000/545454/545454/58252
+#EXTINF:-1,BABY TV SD ²
+http://quatv2.com:9000/545454/545454/4412
+#EXTINF:-1,BOOMERANG FHD ¹
+http://quatv2.com:9000/545454/545454/31900
+#EXTINF:-1,BOOMERANG FHD ²
+http://quatv2.com:9000/545454/545454/31173
+#EXTINF:-1,BOOMERANG HD ¹
+http://quatv2.com:9000/545454/545454/32799
+#EXTINF:-1,BOOMERANG SD ¹
+http://quatv2.com:9000/545454/545454/58806
+#EXTINF:-1,BOOMERANG SD ²
+http://quatv2.com:9000/545454/545454/4410
+#EXTINF:-1,CARTOON NETWORK FHD ¹
+http://quatv2.com:9000/545454/545454/6395
+#EXTINF:-1,CARTOON NETWORK FHD ¹
+http://quatv2.com:9000/545454/545454/31229
+#EXTINF:-1,CARTOON NETWORK FHD ³
+http://quatv2.com:9000/545454/545454/43488
+#EXTINF:-1,CARTOON NETWORK HD ¹
+http://quatv2.com:9000/545454/545454/549
+#EXTINF:-1,CARTOON NETWORK SD ¹
+http://quatv2.com:9000/545454/545454/58807
+#EXTINF:-1,DISCOVERY KIDS FHD ¹
+http://quatv2.com:9000/545454/545454/31901
+#EXTINF:-1,DISCOVERY KIDS FHD ²
+http://quatv2.com:9000/545454/545454/31177
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://quatv2.com:9000/545454/545454/547
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://quatv2.com:9000/545454/545454/32806
+#EXTINF:-1,DISCOVERY KIDS SD ¹
+http://quatv2.com:9000/545454/545454/58425
+#EXTINF:-1,DISCOVERY KIDS SD ²
+http://quatv2.com:9000/545454/545454/5614
+#EXTINF:-1,DISNEY CHANNEL FHD ¹
+http://quatv2.com:9000/545454/545454/33525
+#EXTINF:-1,DISNEY CHANNEL FHD ²
+http://quatv2.com:9000/545454/545454/43479
+#EXTINF:-1,DISNEY CHANNEL HD ¹
+http://quatv2.com:9000/545454/545454/545
+#EXTINF:-1,DISNEY CHANNEL SD ¹
+http://quatv2.com:9000/545454/545454/58808
+#EXTINF:-1,DISNEY CHANNEL SD ²
+http://quatv2.com:9000/545454/545454/7725
+#EXTINF:-1,DISNEY JUNIOR FHD ¹
+http://quatv2.com:9000/545454/545454/31903
+#EXTINF:-1,DISNEY JUNIOR FHD ²
+http://quatv2.com:9000/545454/545454/43477
+#EXTINF:-1,DISNEY JUNIOR HD ¹
+http://quatv2.com:9000/545454/545454/32814
+#EXTINF:-1,DISNEY JUNIOR HD ²
+http://quatv2.com:9000/545454/545454/43476
+#EXTINF:-1,DISNEY JUNIOR SD ¹
+http://quatv2.com:9000/545454/545454/58255
+#EXTINF:-1,DISNEY JUNIOR SD ²
+http://quatv2.com:9000/545454/545454/7724
+#EXTINF:-1,DISNEY XD FHD ¹
+http://quatv2.com:9000/545454/545454/33524
+#EXTINF:-1,DISNEY XD FHD ²
+http://quatv2.com:9000/545454/545454/43475
+#EXTINF:-1,DISNEY XD HD ¹
+http://quatv2.com:9000/545454/545454/541
+#EXTINF:-1,DISNEY XD HD ²
+http://quatv2.com:9000/545454/545454/43474
+#EXTINF:-1,DISNEY XD SD ²
+http://quatv2.com:9000/545454/545454/7723
+#EXTINF:-1,GLOOB FHD ¹
+http://quatv2.com:9000/545454/545454/31902
+#EXTINF:-1,GLOOB FHD ²
+http://quatv2.com:9000/545454/545454/31181
+#EXTINF:-1,GLOOB HD ¹
+http://quatv2.com:9000/545454/545454/32813
+#EXTINF:-1,GLOOB HD ²
+http://quatv2.com:9000/545454/545454/43453
+#EXTINF:-1,GLOOB SD ¹
+http://quatv2.com:9000/545454/545454/58773
+#EXTINF:-1,GLOOB SD ²
+http://quatv2.com:9000/545454/545454/2816
+#EXTINF:-1,GLOOBINHO FHD ²
+http://quatv2.com:9000/545454/545454/55129
+#EXTINF:-1,GLOOBINHO HD ²
+http://quatv2.com:9000/545454/545454/43452
+#EXTINF:-1,NATGEO KIDS FHD ¹
+http://quatv2.com:9000/545454/545454/8945
+#EXTINF:-1,NATGEO KIDS FHD ²
+http://quatv2.com:9000/545454/545454/31206
+#EXTINF:-1,NATGEO KIDS HD ¹
+http://quatv2.com:9000/545454/545454/19196
+#EXTINF:-1,NATGEO KIDS SD ¹
+http://quatv2.com:9000/545454/545454/14049
+#EXTINF:-1,NATGEO KIDS SD ³
+http://quatv2.com:9000/545454/545454/4397
+#EXTINF:-1,NICK JR FHD ¹
+http://quatv2.com:9000/545454/545454/6550
+#EXTINF:-1,NICK JR HD ¹
+http://quatv2.com:9000/545454/545454/33526
+#EXTINF:-1,NICK JR SD ¹
+http://quatv2.com:9000/545454/545454/58818
+#EXTINF:-1,NICKELODEON FHD ¹
+http://quatv2.com:9000/545454/545454/31899
+#EXTINF:-1,NICKELODEON HD ¹
+http://quatv2.com:9000/545454/545454/535
+#EXTINF:-1,NICKELODEON SD ²
+http://quatv2.com:9000/545454/545454/5613
+#EXTINF:-1,TOONCAST HD ¹
+http://quatv2.com:9000/545454/545454/7493
+#EXTINF:-1,TOONCAST SD ²
+http://quatv2.com:9000/545454/545454/19577
+#EXTINF:-1,TV RATIMBUM FHD ¹
+http://quatv2.com:9000/545454/545454/58882
+#EXTINF:-1,TV RATIMBUM HD ¹
+http://quatv2.com:9000/545454/545454/44585
+#EXTINF:-1,TV RATIMBUM SD ³
+http://quatv2.com:9000/545454/545454/43794
+#EXTINF:-1,ZOOMOO FHD ¹
+http://quatv2.com:9000/545454/545454/57484
+#EXTINF:-1,ZOOMOO HD ¹
+http://quatv2.com:9000/545454/545454/59615
+#EXTINF:-1,ZOOMOO SD ²
+http://quatv2.com:9000/545454/545454/59614
+#EXTINF:-1,BAND NEWS FHD ¹
+http://quatv2.com:9000/545454/545454/8927
+#EXTINF:-1,BAND NEWS HD ¹
+http://quatv2.com:9000/545454/545454/31175
+#EXTINF:-1,BAND NEWS SD ²
+http://quatv2.com:9000/545454/545454/8002
+#EXTINF:-1,CNN BRASIL FHD ¹
+http://quatv2.com:9000/545454/545454/71360
+#EXTINF:-1,CNN BRASIL FHD ²
+http://quatv2.com:9000/545454/545454/71376
+#EXTINF:-1,CNN BRASIL HD ¹
+http://quatv2.com:9000/545454/545454/71391
+#EXTINF:-1,CNN BRASIL SD ²
+http://quatv2.com:9000/545454/545454/71377
+#EXTINF:-1,CNN ESPANHOL SD ²
+http://quatv2.com:9000/545454/545454/71258
+#EXTINF:-1,CNN INTERNACIONAL SD ¹
+http://quatv2.com:9000/545454/545454/71257
+#EXTINF:-1,CORONA VÍRUS PELO MUNDO TR
+http://quatv2.com:9000/545454/545454/71407
+#EXTINF:-1,GLOBO NEWS FHD ¹
+http://quatv2.com:9000/545454/545454/55028
+#EXTINF:-1,GLOBO NEWS FHD ²
+http://quatv2.com:9000/545454/545454/71409
+#EXTINF:-1,GLOBO NEWS HD ¹
+http://quatv2.com:9000/545454/545454/17342
+#EXTINF:-1,GLOBO NEWS HD ²
+http://quatv2.com:9000/545454/545454/557
+#EXTINF:-1,GLOBO NEWS SD ¹
+http://quatv2.com:9000/545454/545454/71410
+#EXTINF:-1,GLOBO NEWS SD ²
+http://quatv2.com:9000/545454/545454/71411
+#EXTINF:-1,RECORD NEWS FHD ¹
+http://quatv2.com:9000/545454/545454/30666
+#EXTINF:-1,RECORD NEWS HD ²
+http://quatv2.com:9000/545454/545454/552
+#EXTINF:-1,RECORD NEWS SD ¹
+http://quatv2.com:9000/545454/545454/43436
+#EXTINF:-1,RECORD NEWS SD ²
+http://quatv2.com:9000/545454/545454/19533
+#EXTINF:-1,TELECINE ACTION FHD ¹
+http://quatv2.com:9000/545454/545454/6352
+#EXTINF:-1,TELECINE ACTION FHD ³
+http://quatv2.com:9000/545454/545454/55369
+#EXTINF:-1,TELECINE ACTION HD ¹
+http://quatv2.com:9000/545454/545454/2724
+#EXTINF:-1,TELECINE ACTION HD ²
+http://quatv2.com:9000/545454/545454/305
+#EXTINF:-1,TELECINE ACTION HD ³
+http://quatv2.com:9000/545454/545454/304
+#EXTINF:-1,TELECINE ACTION SD ¹
+http://quatv2.com:9000/545454/545454/58274
+#EXTINF:-1,TELECINE ACTION SD ³
+http://quatv2.com:9000/545454/545454/19406
+#EXTINF:-1,TELECINE CULT FHD ¹
+http://quatv2.com:9000/545454/545454/31240
+#EXTINF:-1,TELECINE CULT HD ¹
+http://quatv2.com:9000/545454/545454/303
+#EXTINF:-1,TELECINE CULT SD ¹
+http://quatv2.com:9000/545454/545454/58718
+#EXTINF:-1,TELECINE CULT SD ³
+http://quatv2.com:9000/545454/545454/19532
+#EXTINF:-1,TELECINE FUN FHD ¹
+http://quatv2.com:9000/545454/545454/6351
+#EXTINF:-1,TELECINE FUN HD ¹
+http://quatv2.com:9000/545454/545454/2722
+#EXTINF:-1,TELECINE FUN SD ¹
+http://quatv2.com:9000/545454/545454/58719
+#EXTINF:-1,TELECINE FUN SD ³
+http://quatv2.com:9000/545454/545454/19407
+#EXTINF:-1,TELECINE PIPOCA FHD ¹
+http://quatv2.com:9000/545454/545454/6350
+#EXTINF:-1,TELECINE PIPOCA HD ¹
+http://quatv2.com:9000/545454/545454/2721
+#EXTINF:-1,TELECINE PIPOCA HD ²
+http://quatv2.com:9000/545454/545454/299
+#EXTINF:-1,TELECINE PIPOCA SD ¹
+http://quatv2.com:9000/545454/545454/298
+#EXTINF:-1,TELECINE PIPOCA SD ³
+http://quatv2.com:9000/545454/545454/19408
+#EXTINF:-1,TELECINE PREMIUM FHD ¹
+http://quatv2.com:9000/545454/545454/6349
+#EXTINF:-1,TELECINE PREMIUM FHD ³
+http://quatv2.com:9000/545454/545454/71205
+#EXTINF:-1,TELECINE PREMIUM HD ¹
+http://quatv2.com:9000/545454/545454/2720
+#EXTINF:-1,TELECINE PREMIUM HD ²
+http://quatv2.com:9000/545454/545454/297
+#EXTINF:-1,TELECINE PREMIUM HD ³
+http://quatv2.com:9000/545454/545454/71206
+#EXTINF:-1,TELECINE PREMIUM SD ¹
+http://quatv2.com:9000/545454/545454/296
+#EXTINF:-1,TELECINE PREMIUM SD ³
+http://quatv2.com:9000/545454/545454/19409
+#EXTINF:-1,TELECINE TOUCH  FHD ²
+http://quatv2.com:9000/545454/545454/31238
+#EXTINF:-1,TELECINE TOUCH FHD ¹
+http://quatv2.com:9000/545454/545454/6348
+#EXTINF:-1,TELECINE TOUCH HD ¹
+http://quatv2.com:9000/545454/545454/2719
+#EXTINF:-1,TELECINE TOUCH HD ²
+http://quatv2.com:9000/545454/545454/295
+#EXTINF:-1,TELECINE TOUCH SD ¹
+http://quatv2.com:9000/545454/545454/294
+#EXTINF:-1,TELECINE TOUCH SD ³
+http://quatv2.com:9000/545454/545454/19410
+#EXTINF:-1,REDE POVO
+http://quatv2.com:9000/545454/545454/74279
+#EXTINF:-1,LIVE #EMCASACOMPERICÃO 
+http://quatv2.com:9000/545454/545454/81216
+#EXTINF:-1,Pedro Sampaio Live | #FiqueEmCasa #Comigo
+http://quatv2.com:9000/545454/545454/81217
+#EXTINF:-1,LIVE B&M
+http://quatv2.com:9000/545454/545454/81218
+#EXTINF:-1,BANDEIRANTES FHD ¹
+http://quatv2.com:9000/545454/545454/6279
+#EXTINF:-1,BANDEIRANTES HD ¹
+http://quatv2.com:9000/545454/545454/19227
+#EXTINF:-1,BANDEIRANTES HD ¹
+http://quatv2.com:9000/545454/545454/55087
+#EXTINF:-1,BANDEIRANTES SD ¹
+http://quatv2.com:9000/545454/545454/14040
+#EXTINF:-1,BANDEIRANTES SP FHD ²
+http://quatv2.com:9000/545454/545454/43491
+#EXTINF:-1,BANDEIRANTES SP HD ²
+http://quatv2.com:9000/545454/545454/4197
+#EXTINF:-1,CANÇAO NOVA SD ²
+http://quatv2.com:9000/545454/545454/55084
+#EXTINF:-1,CANÇAO NOVA SD ¹
+http://quatv2.com:9000/545454/545454/58272
+#EXTINF:-1,CANÇÃO NOVA FHD ²
+http://quatv2.com:9000/545454/545454/44890
+#EXTINF:-1,CULTURA FHD ¹
+http://quatv2.com:9000/545454/545454/19232
+#EXTINF:-1,CULTURA HD ¹
+http://quatv2.com:9000/545454/545454/55091
+#EXTINF:-1,GLOBO AMAZONAS HD ³
+http://quatv2.com:9000/545454/545454/71234
+#EXTINF:-1,GLOBO AMAZONAS SD ¹
+http://quatv2.com:9000/545454/545454/55058
+#EXTINF:-1,GLOBO BAHIA HD ²
+http://quatv2.com:9000/545454/545454/71235
+#EXTINF:-1,GLOBO BAHIA SD ¹
+http://quatv2.com:9000/545454/545454/55054
+#EXTINF:-1,GLOBO BOA VISTA SD ³
+http://quatv2.com:9000/545454/545454/71251
+#EXTINF:-1,GLOBO BRASILIA HD ³
+http://quatv2.com:9000/545454/545454/7516
+#EXTINF:-1,GLOBO BRASILIA HD ¹
+http://quatv2.com:9000/545454/545454/43459
+#EXTINF:-1,GLOBO BRASILIA SD ²
+http://quatv2.com:9000/545454/545454/7515
+#EXTINF:-1,GLOBO BRASILIA SD ³
+http://quatv2.com:9000/545454/545454/19368
+#EXTINF:-1,GLOBO CEARA HD ³
+http://quatv2.com:9000/545454/545454/71196
+#EXTINF:-1,GLOBO CEARA SD ³
+http://quatv2.com:9000/545454/545454/71195
+#EXTINF:-1,GLOBO CENTRO AMÉRICA SD ¹
+http://quatv2.com:9000/545454/545454/55053
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD ²
+http://quatv2.com:9000/545454/545454/7502
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD ¹
+http://quatv2.com:9000/545454/545454/19367
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD ¹
+http://quatv2.com:9000/545454/545454/55060
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD ¹
+http://quatv2.com:9000/545454/545454/43769
+#EXTINF:-1,GLOBO EPTV SAO JOSÉ DOS CAMPOS SD ¹
+http://quatv2.com:9000/545454/545454/55050
+#EXTINF:-1,GLOBO ESPÍRITO SANTO HD ¹
+http://quatv2.com:9000/545454/545454/71243
+#EXTINF:-1,GLOBO ESPÍRITO SANTO SD ²
+http://quatv2.com:9000/545454/545454/71244
+#EXTINF:-1,GLOBO GOIANIA HD ³
+http://quatv2.com:9000/545454/545454/71254
+#EXTINF:-1,GLOBO GOIANIA SD ²
+http://quatv2.com:9000/545454/545454/71194
+#EXTINF:-1,GLOBO INTER TV CABUGI SD ¹
+http://quatv2.com:9000/545454/545454/43770
+#EXTINF:-1,GLOBO INTER TV SD ¹
+http://quatv2.com:9000/545454/545454/55063
+#EXTINF:-1,GLOBO MINAS FHD ³
+http://quatv2.com:9000/545454/545454/31233
+#EXTINF:-1,GLOBO MINAS HD ²
+http://quatv2.com:9000/545454/545454/19347
+#EXTINF:-1,GLOBO MINAS HD ¹
+http://quatv2.com:9000/545454/545454/30858
+#EXTINF:-1,GLOBO MINAS SD  ¹
+http://quatv2.com:9000/545454/545454/30859
+#EXTINF:-1,GLOBO MINAS SD ²
+http://quatv2.com:9000/545454/545454/7499
+#EXTINF:-1,GLOBO NATAL HD ²
+http://quatv2.com:9000/545454/545454/71249
+#EXTINF:-1,GLOBO NATAL SD ²
+http://quatv2.com:9000/545454/545454/71248
+#EXTINF:-1,GLOBO NORDESTE FHD  ¹
+http://quatv2.com:9000/545454/545454/43828
+#EXTINF:-1,GLOBO NORDESTE HD ²
+http://quatv2.com:9000/545454/545454/7509
+#EXTINF:-1,GLOBO NORDESTE SD ¹
+http://quatv2.com:9000/545454/545454/55059
+#EXTINF:-1,GLOBO NSC BLUMENAU HD ³
+http://quatv2.com:9000/545454/545454/59459
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS SD ³
+http://quatv2.com:9000/545454/545454/71247
+#EXTINF:-1,GLOBO NSC TV BLUMENAU SC SD ²
+http://quatv2.com:9000/545454/545454/16403
+#EXTINF:-1,GLOBO NSC TV JOINVILE SD ²
+http://quatv2.com:9000/545454/545454/55029
+#EXTINF:-1,GLOBO PORTO VELHO HD ³
+http://quatv2.com:9000/545454/545454/71255
+#EXTINF:-1,GLOBO PORTO VELHO SD ³
+http://quatv2.com:9000/545454/545454/71256
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FHD ¹
+http://quatv2.com:9000/545454/545454/31232
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD ¹
+http://quatv2.com:9000/545454/545454/7495
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD ¹
+http://quatv2.com:9000/545454/545454/19359
+#EXTINF:-1,GLOBO RECIFE HD ³
+http://quatv2.com:9000/545454/545454/71252
+#EXTINF:-1,GLOBO RECIFE SD ³
+http://quatv2.com:9000/545454/545454/71253
+#EXTINF:-1,GLOBO RIO CLARO HD ³
+http://quatv2.com:9000/545454/545454/71241
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD ³
+http://quatv2.com:9000/545454/545454/71240
+#EXTINF:-1,GLOBO RJ FHD  ¹
+http://quatv2.com:9000/545454/545454/17391
+#EXTINF:-1,GLOBO RJ HD  ¹
+http://quatv2.com:9000/545454/545454/17392
+#EXTINF:-1,GLOBO RJ SD ¹
+http://quatv2.com:9000/545454/545454/55057
+#EXTINF:-1,GLOBO RPC CURITIBA HD ¹
+http://quatv2.com:9000/545454/545454/43771
+#EXTINF:-1,GLOBO RPC CURITIBA SD ¹
+http://quatv2.com:9000/545454/545454/55056
+#EXTINF:-1,GLOBO SP  FHD ¹
+http://quatv2.com:9000/545454/545454/71236
+#EXTINF:-1,GLOBO SP HD ³
+http://quatv2.com:9000/545454/545454/527
+#EXTINF:-1,GLOBO SP HD ¹
+http://quatv2.com:9000/545454/545454/71237
+#EXTINF:-1,GLOBO SP SD ³
+http://quatv2.com:9000/545454/545454/58884
+#EXTINF:-1,GLOBO TV GAZETA AL FHD ³
+http://quatv2.com:9000/545454/545454/71314
+#EXTINF:-1,GLOBO TV GAZETA SUL FHD  ¹
+http://quatv2.com:9000/545454/545454/17393
+#EXTINF:-1,GLOBO TV GAZETA SUL HD ¹
+http://quatv2.com:9000/545454/545454/17394
+#EXTINF:-1,GLOBO TV LIBERAL FHD ³
+http://quatv2.com:9000/545454/545454/71351
+#EXTINF:-1,GLOBO TV LIBERAL HD ³
+http://quatv2.com:9000/545454/545454/71228
+#EXTINF:-1,GLOBO TV LIBERAL SD ¹
+http://quatv2.com:9000/545454/545454/55052
+#EXTINF:-1,GLOBO TV MIRANTE FHD ¹
+http://quatv2.com:9000/545454/545454/71025
+#EXTINF:-1,GLOBO TV MIRANTE HD ¹
+http://quatv2.com:9000/545454/545454/71026
+#EXTINF:-1,GLOBO TV MIRANTE SD ²
+http://quatv2.com:9000/545454/545454/71357
+#EXTINF:-1,GLOBO TV MORENA FHD ¹
+http://quatv2.com:9000/545454/545454/71245
+#EXTINF:-1,GLOBO TV TEM ANHANGUERA SD ¹
+http://quatv2.com:9000/545454/545454/55055
+#EXTINF:-1,GLOBO TV TEM BAURU SD ³
+http://quatv2.com:9000/545454/545454/7503
+#EXTINF:-1,GLOBO TV TEM BAURU SD ³
+http://quatv2.com:9000/545454/545454/19353
+#EXTINF:-1,GLOBO TV TEM BAURU SD ¹
+http://quatv2.com:9000/545454/545454/55051
+#EXTINF:-1,GLOBO TV TEM VANGUARDA S.J DOS CAMPOS SD ³
+http://quatv2.com:9000/545454/545454/19351
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD ²
+http://quatv2.com:9000/545454/545454/55045
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD ¹
+http://quatv2.com:9000/545454/545454/55062
+#EXTINF:-1,GLOBO TV VERDE MARES HD  ¹
+http://quatv2.com:9000/545454/545454/19233
+#EXTINF:-1,GLOBO TV VERDES MARES SD ³
+http://quatv2.com:9000/545454/545454/19350
+#EXTINF:-1,IDEAL TV FHD ¹
+http://quatv2.com:9000/545454/545454/58883
+#EXTINF:-1,NOVO TEMPO SD ¹
+http://quatv2.com:9000/545454/545454/44894
+#EXTINF:-1,RECORD BAHIA HD ²
+http://quatv2.com:9000/545454/545454/71260
+#EXTINF:-1,RECORD BRASILIA HD ²
+http://quatv2.com:9000/545454/545454/43440
+#EXTINF:-1,RECORD BRASILIA SD ²
+http://quatv2.com:9000/545454/545454/43777
+#EXTINF:-1,RECORD FHD ¹
+http://quatv2.com:9000/545454/545454/6280
+#EXTINF:-1,RECORD FHD ¹
+http://quatv2.com:9000/545454/545454/43433
+#EXTINF:-1,RECORD GOIAS SD ²
+http://quatv2.com:9000/545454/545454/43775
+#EXTINF:-1,RECORD HD ²
+http://quatv2.com:9000/545454/545454/43432
+#EXTINF:-1,RECORD HD ¹
+http://quatv2.com:9000/545454/545454/19193
+#EXTINF:-1,RECORD PARANA HD ¹
+http://quatv2.com:9000/545454/545454/71201
+#EXTINF:-1,RECORD RJ HD ¹
+http://quatv2.com:9000/545454/545454/71200
+#EXTINF:-1,RECORD RS HD ²
+http://quatv2.com:9000/545454/545454/43434
+#EXTINF:-1,RECORD RS SD ²
+http://quatv2.com:9000/545454/545454/43773
+#EXTINF:-1,RECORD SP HD ²
+http://quatv2.com:9000/545454/545454/7690
+#EXTINF:-1,RECORD SP SD ²
+http://quatv2.com:9000/545454/545454/12119
+#EXTINF:-1,RECORD SP SD ¹
+http://quatv2.com:9000/545454/545454/57715
+#EXTINF:-1,REDE GOSPEL SD ¹
+http://quatv2.com:9000/545454/545454/45233
+#EXTINF:-1,REDE TV FHD ¹
+http://quatv2.com:9000/545454/545454/43721
+#EXTINF:-1,REDE TV FHD ¹
+http://quatv2.com:9000/545454/545454/71202
+#EXTINF:-1,REDE TV HD ¹
+http://quatv2.com:9000/545454/545454/4161
+#EXTINF:-1,REDE TV HD ¹
+http://quatv2.com:9000/545454/545454/30670
+#EXTINF:-1,REDE TV SD ²
+http://quatv2.com:9000/545454/545454/4160
+#EXTINF:-1,REDE VIDA HD ²
+http://quatv2.com:9000/545454/545454/57709
+#EXTINF:-1,REDE VIDA HD¹
+http://quatv2.com:9000/545454/545454/72642
+#EXTINF:-1,REDE VIDA SD ²
+http://quatv2.com:9000/545454/545454/57708
+#EXTINF:-1,RIT GOSPEL SD ¹
+http://quatv2.com:9000/545454/545454/58875
+#EXTINF:-1,SBT FHD ²
+http://quatv2.com:9000/545454/545454/492
+#EXTINF:-1,SBT FHD ¹
+http://quatv2.com:9000/545454/545454/6281
+#EXTINF:-1,SBT HD ¹
+http://quatv2.com:9000/545454/545454/7391
+#EXTINF:-1,SBT PARANÁ SD ¹
+http://quatv2.com:9000/545454/545454/7530
+#EXTINF:-1,SBT SD ¹
+http://quatv2.com:9000/545454/545454/58264
+#EXTINF:-1,SBT SÃO PAULO FHD ¹
+http://quatv2.com:9000/545454/545454/4159
+#EXTINF:-1,SBT SÃO PAULO HD ¹
+http://quatv2.com:9000/545454/545454/71198
+#EXTINF:-1,SBT SÃO PAULO SD ¹
+http://quatv2.com:9000/545454/545454/71197
+#EXTINF:-1,TV APARECIDA SD ²
+http://quatv2.com:9000/545454/545454/44889
+#EXTINF:-1,TV BOA VONTADE SD ¹
+http://quatv2.com:9000/545454/545454/58254
+#EXTINF:-1,TV EVANGELIZAR SD *
+http://quatv2.com:9000/545454/545454/45201
+#EXTINF:-1,TV GAZETA FHD ¹
+http://quatv2.com:9000/545454/545454/59618
+#EXTINF:-1,TV GAZETA HD ¹
+http://quatv2.com:9000/545454/545454/57712
