@@ -13,9 +13,8 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
-<canais>
-<canal>
+<channels>
+<channel>
 <nome> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR orangered] ||| [/ COLOR] [COLOR white] Recém Lançados [/ COLOR] [COLOR orangered] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
 <thumbnail> https://i.ytimg.com/vi/1vM9jPpc8cs/maxresdefault.jpg </thumbnail>
 <externallink> https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/Lancados</externallink>
