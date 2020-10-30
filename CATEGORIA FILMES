@@ -13,6 +13,22 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<canais>
+<canal>
+<nome> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR orangered] ||| [/ COLOR] [COLOR white] Recém Lançados [/ COLOR] [COLOR orangered] | || [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
+<thumbnail> https://i.ytimg.com/vi/1vM9jPpc8cs/maxresdefault.jpg </thumbnail>
+<externallink> https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/Lancados</externallink>
+<fanart> https://ia801501.us.archive.org/13/items/fanart.png_202004/fanart.png.jpg </fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Animação[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
