@@ -3,7 +3,8 @@
 <thumbnail>https://ia601500.us.archive.org/17/items/series_20200403/S%C3%89RIES.jpg</thumbnail>
 <link>https://</link>
 <fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
-<info> By Equipe Brasil Total
+<info> By Equipe Brasil 
+<\item>
 
 
 <channels>
@@ -13,7 +14,7 @@
 <externallink>https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/THE%20WITCHER</externallink>
 <fanart>https://conteudo.imguol.com.br/c/entretenimento/2d/2020/02/17/the-witcher-1581973170947_v2_1920x1080.jpg</fanart>
 <info> The Witcher é uma série de televisão de drama fantasia criada por Lauren Schmidt Hissrich para a Netflix. É baseado na série de livros de mesmo nome de Andrzej Sapkowski. Em 13 de novembro de 2019, a série foi renovada para segunda temporada.
-
+<\info>
 
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]BIOHACKERS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
@@ -21,6 +22,7 @@
 <externallink>https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/BIOHACHERS</externallink>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/08/Biohackers-1.jpg</fanart>
 <info>Biohackers é uma série alemã de techno-thriller de streaming de televisão criada por Christian Ditter que estreou na Netflix em 20 de agosto de 2020. Uma semana após seu lançamento, a série foi renovada para uma segunda temporada.
+<\info>
 
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]EXPRESSO DO AMANHÃ[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
@@ -28,3 +30,4 @@
 <externallink>https://raw.githubusercontent.com/Brasilnerd/Brasilnerd/master/EXPRESSO%20DO%20AMANHA</externallink>
 <fanart>https://cdn.ome.lt/otDkL5vzbor9JrclkyZNOkoeTAs=/1200x630/smart/extras/conteudos/expresso.jpg</fanart>
 <info>Em um mundo congelado, os últimos habitantes da Terra se esforçam para viver em uma sociedade complexa dentro de um trem que está em constante movimento.
+<\info>
