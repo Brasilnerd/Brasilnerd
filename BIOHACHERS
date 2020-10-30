@@ -1,7 +1,48 @@
-
 <item>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]1 Temporada[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]
+<title>1 TEMPORADA</title>
 <thumbnail> https://ia801500.us.archive.org/17/items/series_20200403/S%C3%89RIES.jpg </thumbnail>
 <link> https: // </link>
 <fanart> https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg </fanart>
-<info> Qualquer bug, solicitamos desculpas o addon está em fase de teste. Em breve, solucionaremos. Por Equipe Brasil Total
+<info> Qualquer bug, solicitamos desculpas o addon esta em fase de teste. Em breve, solucionaremos. Por Equipe Brasil Total.
+
+<item>
+<title>EPISODIO 1 </title>
+<link>https://brasil.azureedge.net/RCServer12/ondemand/BIOHCKRST01EP01.mp4?attachment=true</link>
+<thumbnail> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4PNVeeZ6F6fuRBEyMgk0O1qvQJ6zWKqx4qYSRa7RncDtEMs5<\ thumbnail>
+<fanart> https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf80tsEuY56qeyvIUSgvynXXZFgthmIUwxhwS2_qtttBm5woRMZQSkDJ0jLzYvVhDCTLNjjKxfuufarStvKuoS4qXHqw.jpg?r=55b</fanart>
+</item>
+
+<item>
+<title> EPISODIO 2</title>
+<link>https://brasil.azureedge.net/RCServer12/ondemand/BIOHCKRST01EP02.mp4?attachment=true</link>
+<thumbnail> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4PNVeeZ6F6fuRBEyMgk0O1qvQJ6zWKqx4qYSRa7RncDtEMs5 <\ thumbnail>
+<fanart> https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf80tsEuY56qeyvIUSgvynXXZFgthmIUwxhwS2_qtttBm5woRMZQSkDJ0jLzYvVhDCTLNjjKxfuufarStvKuoS4qXHqw.jpg?r=55b</fanart>
+</item>
+
+<item>
+<title>EPISODIO 3</title>
+<link>https://brasil.azureedge.net/RCServer12/ondemand/BIOHCKRST01EP03.mp4?attachment=true</link>
+<thumbnail> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4PNVeeZ6F6fuRBEyMgk0O1qvQJ6zWKqx4qYSRa7RncDtEMs5 <\ thumbnail>
+<fanart> https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf80tsEuY56qeyvIUSgvynXXZFgthmIUwxhwS2_qtttBm5woRMZQSkDJ0jLzYvVhDCTLNjjKxfuufarStvKuoS4qXHqw.jpg?r=55b </fanart>
+</item>
+
+<item>
+<title>EPISODIO 4</title>
+<link>https://brasil.azureedge.net/RCServer12/ondemand/BIOHCKRST01EP04.mp4?attachment=true</link>
+<thumbnail> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4PNVeeZ6F6fuRBEyMgk0O1qvQJ6zWKqx4qYSRa7RncDtEMs5<\ thumbnail>
+<fanart>https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf80tsEuY56qeyvIUSgvynXXZFgthmIUwxhwS2_qtttBm5woRMZQSkDJ0jLzYvVhDCTLNjjKxfuufarStvKuoS4qXHqw.jpg?r=55b</fanart>
+</item>
+
+<item>
+<title>EPISODIO 5</title>
+<link>https://brasil.azureedge.net/RCServer12/ondemand/BIOHCKRST01EP05.mp4?attachment=true</link>
+<thumbnail> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4PNVeeZ6F6fuRBEyMgk0O1qvQJ6zWKqx4qYSRa7RncDtEMs5<\ thumbnail>
+<fanart> https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf80tsEuY56qeyvIUSgvynXXZFgthmIUwxhwS2_qtttBm5woRMZQSkDJ0jLzYvVhDCTLNjjKxfuufarStvKuoS4qXHqw.jpg?r=55b</fanart>
+</item>
+
+<item>
+<title>EPISODIO 6</title>
+<link>https://brasil.azureedge.net/RCServer12/ondemand/BIOHCKRST01EP06.mp4?attachment=true</link>
+<thumbnail> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4PNVeeZ6F6fuRBEyMgk0O1qvQJ6zWKqx4qYSRa7RncDtEMs5<\ thumbnail>
+<fanart> https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABf80tsEuY56qeyvIUSgvynXXZFgthmIUwxhwS2_qtttBm5woRMZQSkDJ0jLzYvVhDCTLNjjKxfuufarStvKuoS4qXHqw.jpg?r=55b</fanart>
+</item>
