@@ -1140,6 +1140,10 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189089
 	
 	INFANTIL
 	
+	
+	
+#EXTINF:-1 tvg-id="TV LOADING" tvg-name="TV LOADING" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="INFANTIL",TV LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8	
 #EXTINF:-1 tvg-id="Anime Tv" tvg-name="Anime Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="INFANTIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8	
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO FHD
