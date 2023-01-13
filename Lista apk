@@ -895,6 +895,76 @@ http://trenduhd.xyz:80/evandroCamargo/101209/211896
 
 --------------------------------------------------------------------------	
 
+	TELECINE
+
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/188425
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/188424
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION HD
+http://trenduhd.xyz:80/evandroCamargo/101209/188426
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295634
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION SD
+http://trenduhd.xyz:80/evandroCamargo/101209/188428
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE CULT.png" group-title="TELECINES",TELECINE CULT FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/188431
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE CULT.png" group-title="TELECINES",TELECINE CULT FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/188430
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE CULT.png" group-title="TELECINES",TELECINE CULT HD
+http://trenduhd.xyz:80/evandroCamargo/101209/188432
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE CULT.png" group-title="TELECINES",TELECINE CULT HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295635
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE CULT.png" group-title="TELECINES",TELECINE CULT SD
+http://trenduhd.xyz:80/evandroCamargo/101209/188434
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE FUN.png" group-title="TELECINES",TELECINE FUN FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/188437
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE FUN.png" group-title="TELECINES",TELECINE FUN FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/188436
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE FUN.png" group-title="TELECINES",TELECINE FUN HD
+http://trenduhd.xyz:80/evandroCamargo/101209/188438
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE FUN.png" group-title="TELECINES",TELECINE FUN HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295636
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE FUN.png" group-title="TELECINES",TELECINE FUN SD
+http://trenduhd.xyz:80/evandroCamargo/101209/188440
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PIPOCA.png" group-title="TELECINES",TELECINE PIPOCA FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/188443
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PIPOCA.png" group-title="TELECINES",TELECINE PIPOCA FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/188442
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PIPOCA.png" group-title="TELECINES",TELECINE PIPOCA HD
+http://trenduhd.xyz:80/evandroCamargo/101209/188444
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PIPOCA.png" group-title="TELECINES",TELECINE PIPOCA HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295641
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PIPOCA.png" group-title="TELECINES",TELECINE PIPOCA SD
+http://trenduhd.xyz:80/evandroCamargo/101209/188446
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PREMIUM.png" group-title="TELECINES",TELECINE PREMIUM FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/188449
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PREMIUM.png" group-title="TELECINES",TELECINE PREMIUM FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/188448
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PREMIUM.png" group-title="TELECINES",TELECINE PREMIUM HD
+http://trenduhd.xyz:80/evandroCamargo/101209/188450
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PREMIUM.png" group-title="TELECINES",TELECINE PREMIUM HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295637
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE PREMIUM.png" group-title="TELECINES",TELECINE PREMIUM SD
+http://trenduhd.xyz:80/evandroCamargo/101209/188452
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE TOUCH.png" group-title="TELECINES",TELECINE TOUCH FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/188455
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE TOUCH.png" group-title="TELECINES",TELECINE TOUCH FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/188454
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE TOUCH.png" group-title="TELECINES",TELECINE TOUCH HD
+http://trenduhd.xyz:80/evandroCamargo/101209/188456
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE TOUCH.png" group-title="TELECINES",TELECINE TOUCH HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295638
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE TOUCH.png" group-title="TELECINES",TELECINE TOUCH SD
+http://trenduhd.xyz:80/evandroCamargo/101209/188458
+
+
+
+
+---------------------------------------------------
+
+
+
 	NOTICIAS
 	
 	
