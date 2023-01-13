@@ -140,11 +140,50 @@ http://cdn.teambr.live:80/splove/6357283/79764
 
 -----------------------------------------------------------------
 
+	
+	
 	ABERTOS
 	
 	
-	
-	
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="ABERTOS",ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4UvZNh.jpg" group-title="ABERTOS",IMPERIAL TV
+https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w609975464.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLGlSZQ.jpg" group-title="ABERTOS",GLN TV
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgdhZH9.jpg" group-title="ABERTOS",CANAL BSTV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w88961879.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0bQs37.png" group-title="ABERTOS",CENTRAL TV
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/chunklist_w264428058.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7513d543c8cf7945825a92d76a858f26.webp" group-title="ABERTOS",TV SOL COMUNIDADE
+https://streaming03.zas.media:1936/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="ABERTOS",ASSIM É PORTUGAL TV
+https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="https://redefonte.com.br/site/wp-content/uploads/2022/03/logo-rede-fonte-brabca-site.png" group-title="ABERTOS",TV FONTE
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_-VWn8EvkVmLkdAXFgEX32zOKI8W1R7VG1Hcue7EtAw5m2IqTy_HhxWb_6ylwDSVejtmsGv0YV7k0SpQcHNFjfWbRdbOEpq5Z-167rARl-B29gLFpICkEwcCiONR65dW-8XC03vDtM0hp6yzSJKJWU4jddle4BSuxl7mh9B7cKy_h4sHH_gmURmcS/s200/MAIS%20FAVELA%20TV.webp" group-title="ABERTOS",MAIS FAVELA TV
+https://d8nlqpvobfd9y.cloudfront.net/index/1.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2zxYCY0pdLEUtWzW3ygCme5VWgig3yucYY7xqyuund6DhCuuFiLn6sKoz9PDN5BEi3wLdQF3hdLdvGcteGsBhJ7mdCA7bvJWT5uVTHTh6bbXdDQGKfbR6GdNEq1Jmzywb-HqWO03WqYxWXKa_k5w7e2P02GzozcN1XdjWUB_cMGIRKAaKff8ld9Ou/s200/ABBA%20RTV.webp" group-title="ABERTOS",ABBA RTV
+https://video01.kshost.com.br/adilson8953/adilson8953/chunklist_w1470767162.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPDSbtwS7jAkA4kMp07199qirmxI7Mzm20bXoU-6Or1o5OJw_qJegLAEcUutKTbjZmz9UmAA3MULLC9C2fQm39ZjjBzfe1TT3rr2ciwVR_Qtdr9-0InW_Pg5_FJwqJVXdutn_ql30IrmHuQTiXRbctrT7yxz2MDVOmx8xBxK9O-hEdfh070rKPN-jh/s200/TR%C3%8AS%20PASSOS%20TV.webp" group-title="ABERTOS",TRÊS PASSOS TV
+https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-RHFHW9fqlnw/XriRAmC7FPI/AAAAAAAACwA/magexXwQAcgxOeedphxO4L6_twWf0_3uwCLcBGAsYHQ/s320/Screenshot_2020-05-10-20-37-06.png" group-title="ABERTOS",TV WEB CAMOCIM
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NbjRJ7K8mxY/XsYJwvTsQsI/AAAAAAAAC00/76XEiNF_BbM3THN86GMokTFo4IZHsFQQwCLcBGAsYHQ/s320/Screenshot_2020-05-21-01-51-54.png" group-title="ABERTOS",TV SERTÃO PETROLINA
+https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_-VWn8EvkVmLkdAXFgEX32zOKI8W1R7VG1Hcue7EtAw5m2IqTy_HhxWb_6ylwDSVejtmsGv0YV7k0SpQcHNFjfWbRdbOEpq5Z-167rARl-B29gLFpICkEwcCiONR65dW-8XC03vDtM0hp6yzSJKJWU4jddle4BSuxl7mh9B7cKy_h4sHH_gmURmcS/s200/MAIS%20FAVELA%20TV.webp" group-title="ABERTOS",MAIS FAVELA TV
+https://d8nlqpvobfd9y.cloudfront.net/index/1.m3u8	
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5-xIy72DQEiL8-Pja27gA4j9_ixER8GVD51zAV39JmaFgNcx57WomNNIha4XGq2BDlF-5iakiJIRykW8AqStMm60Loi_RIrTBnsmFNby9MmX3caZEQfZjtugOPnVYZkPmDVk8E094Eb5lB3IY7cWoj-TOrGtt7lXwZ0k9C7ywODum1tw2XeOje1Wc/s200/TV%20CURU%C3%87A.webp" group-title="ABERTOS",TV CURUÇA
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/chunklist_w1101684792.m3u8	
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c02bc48546001e3ed9ad9f95e66c699.webp" group-title="ABERTOS",TV PONTEGI
+https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8	
+#EXTINF:-1 tvg-logo="http://www.tbomt.com.br/images/logo.png" group-title="ABERTOS",TBO
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0BulGw.jpg" group-title="ABERTOS",TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w727529507.m3u8	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWFmD0r.jpg" group-title="ABERTOS",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8	
 #EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/senado.png" group-title="ABERTOS",TV SENADO SD
 http://trenduhd.xyz:80/evandroCamargo/101209/208023
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="ABERTOS",AGROMAIS FHD
@@ -667,7 +706,10 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212284
 	
 	RELIGIOSOS
 	
-
+	
+	
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSOS", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="http://trenduhd.xyz/images/RELIGIOSOS/CANCAO_NOVA.png" group-title="RELIGIOSOS",CANCAO NOVA HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211901
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA SD" tvg-logo="http://trenduhd.xyz/images/RELIGIOSOS/CANCAO_NOVA.png" group-title="RELIGIOSOS",CANCAO NOVA SD
@@ -913,7 +955,12 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188705
 	
 	MUSICA
 	
-
+	
+	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qxe4QvL.jpg" group-title="MUSICA",CTV PB
+https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w826121275.m3u8	
+#EXTINF:-1 tvg-id="" tvg-name="RCKTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5QK_MaPNohBuf1ytVjOiXBZEGYJbnHadvZZidrFFDcU5g3mmpEt0E9ThbZ0jethlogpWG6JdoZxghw8EvujpMY6YZB9ZlC5tArYRtB9hAyRMxccT181-fBmy1pG2TqHEFrYhJPwCsLTOoKcgjta9gqtH-sR6Drash-VCkA-Po6-eVNG3LFXWO4XfM/s200/BLAST%20CHANNEL%20TV.webp" group-title="MUSICA",BLAST CHANNEL TV
+https://video01.logicahost.com.br/blast/blast/chunklist_w853003416.m3u8
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s +HD" tvg-logo="http://dnslist.ca:80/images/6a3a032fcbb28334f90ad5c76981f578.png" group-title="MUSICA",MTV 00s +HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189094
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s +HD¹" tvg-logo="http://dnslist.ca:80/images/6a3a032fcbb28334f90ad5c76981f578.png" group-title="MUSICA",MTV 00s +HD¹
@@ -955,6 +1002,8 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31628
 	
 	
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkH5oBS.jpg" group-title="CANAIS | VARIEDADES",CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/TRUTV.png" group-title="VARIEDADES",TRUTV HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189125
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="TRUTV SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/TRUTV.png" group-title="VARIEDADES",TRUTV SD
@@ -1088,7 +1137,8 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189089
 	
 	INFANTIL
 	
-	
+#EXTINF:-1 tvg-id="Anime Tv" tvg-name="Anime Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="INFANTIL",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8	
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/189044
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO FHD H265
