@@ -808,6 +808,91 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188494
 
 
 
+-------------------------------------------------------------------------
+
+	HBO
+	
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="HBO",HBO FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211851
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="HBO",HBO FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211850
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="HBO",HBO HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211852
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="HBO",HBO HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295644
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="HBO",HBO SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211854
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="HBO",HBO 2 FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211857
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="HBO",HBO 2 FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211856
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="HBO",HBO 2 HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211858
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="HBO",HBO 2 HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295642
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="HBO",HBO 2 SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211860
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO FAMILY.png" group-title="HBO",HBO Familly FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211863
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO FAMILY.png" group-title="HBO",HBO Familly FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211862
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO FAMILY.png" group-title="HBO",HBO Familly HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211864
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Familly SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO FAMILY.png" group-title="HBO",HBO Familly SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211866
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO FAMILY.png" group-title="HBO",HBO FAMILY HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295643
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO MUNDI.png" group-title="HBO",HBO MUNDI FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211869
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO MUNDI.png" group-title="HBO",HBO MUNDI FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211868
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO MUNDI.png" group-title="HBO",HBO MUNDI HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211870
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO MUNDI.png" group-title="HBO",HBO MUNDI HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295645
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO MUNDI.png" group-title="HBO",HBO MUNDI SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211872
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO PLUS.png" group-title="HBO",HBO PLUS FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211875
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO PLUS.png" group-title="HBO",HBO PLUS FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211874
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO PLUS.png" group-title="HBO",HBO PLUS HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211876
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO PLUS.png" group-title="HBO",HBO PLUS HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295646
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO PLUS.png" group-title="HBO",HBO PLUS SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211878
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO POP.png" group-title="HBO",HBO POP FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211881
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO POP.png" group-title="HBO",HBO POP FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211880
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO POP.png" group-title="HBO",HBO POP HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211882
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO POP.png" group-title="HBO",HBO POP HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295647
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO POP.png" group-title="HBO",HBO POP SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211884
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO SIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211887
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO SIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211886
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO SIGNATURE.png" group-title="HBO",HBO SIGNATURE HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211888
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO SIGNATURE.png" group-title="HBO",HBO SIGNATURE HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295648
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO SIGNATURE.png" group-title="HBO",HBO SIGNATURE SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211890
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO Xtreme.png" group-title="HBO",HBO XTREME FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/211893
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD H265" tvg-logo="http://trenduhd.xyz/images/HBO/HBO Xtreme.png" group-title="HBO",HBO XTREME FHD H265
+http://trenduhd.xyz:80/evandroCamargo/101209/211892
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO Xtreme.png" group-title="HBO",HBO XTREME HD
+http://trenduhd.xyz:80/evandroCamargo/101209/211894
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD [ALT]" tvg-logo="http://trenduhd.xyz/images/HBO/HBO Xtreme.png" group-title="HBO",HBO Xtreme HD [ALT]
+http://trenduhd.xyz:80/evandroCamargo/101209/295649
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO Xtreme.png" group-title="HBO",HBO XTREME SD
+http://trenduhd.xyz:80/evandroCamargo/101209/211896
+
 --------------------------------------------------------------------------	
 
 	NOTICIAS
