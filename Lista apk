@@ -210,7 +210,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188373
 http://trenduhd.xyz:80/evandroCamargo/101209/291321
 #EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
 http://trenduhd.xyz:80/evandroCamargo/101209/291322
-#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title="CGLOBO",GLOBO RBS TV CAXIAS DO SUL SD
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
 http://trenduhd.xyz:80/evandroCamargo/101209/291323
 #EXTINF:-1 tvg-id="rbs.br" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="http://trenduhd.xyz:80/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO RBS TV PASSO FUNDO FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/291493
@@ -262,7 +262,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188395
 http://trenduhd.xyz:80/evandroCamargo/101209/188397
 #EXTINF:-1 tvg-id="tv.asa.branca.br" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV ASA BRANCA HD
 http://trenduhd.xyz:80/evandroCamargo/101209/188399
-#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CGLOBO",GLOBO TV CABO BRANCO HD
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV CABO BRANCO HD
 http://trenduhd.xyz:80/evandroCamargo/101209/188404
 #EXTINF:-1 tvg-id="tv.centro.america.br" tvg-name="GLOBO TV CENTRO AMERICA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV CENTRO AMERICA FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/188401
@@ -332,7 +332,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188393
 http://trenduhd.xyz:80/evandroCamargo/101209/216837
 #EXTINF:-1 tvg-id="tv.tem.sorocaba.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV TEM SOROCABA HD
 http://trenduhd.xyz:80/evandroCamargo/101209/188418
-#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title=" GLOBO",GLOBO TV TRIBUNA SANTOS HD
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS HD
 http://trenduhd.xyz:80/evandroCamargo/101209/216838
 #EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/188419
@@ -350,6 +350,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188421
 http://trenduhd.xyz:80/evandroCamargo/101209/295678
 #EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212578
+
 
 
 -------------------------------------------------------------
