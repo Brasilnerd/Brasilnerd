@@ -6,6 +6,13 @@ x-tvg-url="http://cdn.teambr.live:80/xmltv.php?username=splove&password=6357283"
 
 
 
+#EXTM3U
+x-tvg-url="http://cdn.teambr.live:80/xmltv.php?username=splove&password=6357283"
+
+
+
+
+
 
 
 
@@ -81,7 +88,12 @@ http://trenduhd.xyz:80/evandroCamargo/101209/338638
 http://trenduhd.xyz:80/evandroCamargo/101209/299402
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02 [ALT]" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/prime_video.png" group-title="CANAIS | ESPORTES EXCLUSIVOS",PRIME VIDEO 02 [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/338637
-
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="TEST",Eurochannel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="TEST",Eurochannel HD¹
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="TEST",Eurochannel HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38429
 
 
 -----------------------------------------------------------------
@@ -840,33 +852,32 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188705
 
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s +HD" tvg-logo="http://dnslist.ca:80/images/6a3a032fcbb28334f90ad5c76981f578.png" group-title="MUSICA",MTV 00s +HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189094
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s +HD¹" tvg-logo="http://dnslist.ca:80/images/6a3a032fcbb28334f90ad5c76981f578.png" group-title="MUSICAS",MTV 00s +HD¹
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s +HD¹" tvg-logo="http://dnslist.ca:80/images/6a3a032fcbb28334f90ad5c76981f578.png" group-title="MUSICA",MTV 00s +HD¹
 http://trenduhd.xyz:80/evandroCamargo/101209/189091
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s +HD²" tvg-logo="http://dnslist.ca:80/images/6a3a032fcbb28334f90ad5c76981f578.png" group-title="MUSICA",MTV 00s +HD²
-http://trenduhd.xyz:80/evandroCamargo/101209/189092
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MUSIC TELEVISION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="CANAIS | MÚSICAS",GOSPEL MUSIC TELEVISION
+http://trenduhd.xyz:80/evandroCamargo/101209/189092	
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MUSIC TELEVISION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="MUSICA",GOSPEL MUSIC TELEVISION
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w873362238.m3u8	
-#EXTINF:-1 tvg-id="" tvg-name="RCKTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5QK_MaPNohBuf1ytVjOiXBZEGYJbnHadvZZidrFFDcU5g3mmpEt0E9ThbZ0jethlogpWG6JdoZxghw8EvujpMY6YZB9ZlC5tArYRtB9hAyRMxccT181-fBmy1pG2TqHEFrYhJPwCsLTOoKcgjta9gqtH-sR6Drash-VCkA-Po6-eVNG3LFXWO4XfM/s200/BLAST%20CHANNEL%20TV.webp" group-title="CANAIS | MÚSICAS",BLAST CHANNEL TV
+#EXTINF:-1 tvg-id="" tvg-name="RCKTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5QK_MaPNohBuf1ytVjOiXBZEGYJbnHadvZZidrFFDcU5g3mmpEt0E9ThbZ0jethlogpWG6JdoZxghw8EvujpMY6YZB9ZlC5tArYRtB9hAyRMxccT181-fBmy1pG2TqHEFrYhJPwCsLTOoKcgjta9gqtH-sR6Drash-VCkA-Po6-eVNG3LFXWO4XfM/s200/BLAST%20CHANNEL%20TV.webp" group-title="MUSICA",BLAST CHANNEL TV
 https://video01.logicahost.com.br/blast/blast/chunklist_w853003416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ROCK" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.webp" group-title="CANAIS | MÚSICAS",TV ROCK
+#EXTINF:-1 tvg-id="" tvg-name="TV ROCK" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.webp" group-title="MUSICA",TV ROCK
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8	
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM MUSIC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b0b9f6a87739c308d33306d9d674c7b.webp" group-title="CANAIS | MÚSICAS",ZOOM MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM MUSIC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b0b9f6a87739c308d33306d9d674c7b.webp" group-title="MUSICA",ZOOM MUSIC
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL CLASSICS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5fb795de611e5c112f31f2596aa10377.webp" group-title="CANAIS | MÚSICAS",RTL CLASSICS
+#EXTINF:-1 tvg-id="" tvg-name="RTL CLASSICS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5fb795de611e5c112f31f2596aa10377.webp" group-title="MUSICA",RTL CLASSICS
 https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9423ac704cba42b30d490a6d3fdab2ec.webp" group-title="CANAIS | MÚSICAS",RTL TV
+#EXTINF:-1 tvg-id="" tvg-name="RTL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9423ac704cba42b30d490a6d3fdab2ec.webp" group-title="MUSICA",RTL TV
 https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL 1025 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3a376e88d9d07793eb054e9d1a0e928.webp" group-title="CANAIS | MÚSICAS",RTL 1025 TV
+#EXTINF:-1 tvg-id="" tvg-name="RTL 1025 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3a376e88d9d07793eb054e9d1a0e928.webp" group-title="MUSICA",RTL 1025 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b332000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRONEHIT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ba968b3ffd950ce80d58b0a498ca034.webp" group-title="CANAIS | MÚSICAS",KRONEHIT
+#EXTINF:-1 tvg-id="" tvg-name="KRONEHIT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ba968b3ffd950ce80d58b0a498ca034.webp" group-title="MUSICA",KRONEHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="CANAIS | MÚSICAS",M2O
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="MUSICA",M2O
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROCK TV" tvg-logo="https://www.rockfm.ro/assets/mockup/radio/Generic-Rock-Music.jpg" group-title="CANAIS | MÚSICAS",ROCK TV FM
+#EXTINF:-1 tvg-id="" tvg-name="ROCK TV" tvg-logo="https://www.rockfm.ro/assets/mockup/radio/Generic-Rock-Music.jpg" group-title="MUSICA",ROCK TV FM
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
-#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5782d58554458b8542a5f80778fc71b3.png" group-title="CANAIS | MÚSICAS",VH1 HD
+#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5782d58554458b8542a5f80778fc71b3.png" group-title="MUSICA",VH1 HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31628
-
 
 
 
@@ -1996,5 +2007,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212895
 http://trenduhd.xyz:80/evandroCamargo/101209/212896
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="CANAIS | ADULTOS",VENUS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
+
+
 
 
