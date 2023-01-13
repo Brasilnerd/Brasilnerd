@@ -1147,7 +1147,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/295666
 http://trenduhd.xyz:80/evandroCamargo/101209/188986
 #EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/188989
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY CHANNEL.png" group-title=" INFANTIL",DISNEY CHANNEL FHD H265
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/188988
 #EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL HD
 http://trenduhd.xyz:80/evandroCamargo/101209/188990
@@ -1231,7 +1231,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/295616
 http://trenduhd.xyz:80/evandroCamargo/101209/188488
 #EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="FILMES & SERIES",AMC SD
 http://trenduhd.xyz:80/evandroCamargo/101209/188470
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title=" FILMES & SERIES",AXN FHD
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="FILMES & SERIES",AXN FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/188473
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD H265" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="FILMES & SERIES",AXN FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/188472
@@ -1876,85 +1876,85 @@ http://trenduhd.xyz:80/evandroCamargo/101209/211781
 http://trenduhd.xyz:80/evandroCamargo/101209/295703
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES",BAND SPORTS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211783
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTE",SPORTV FHD
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTES",SPORTV FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211828
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTE",SPORTV FHD H265
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTES",SPORTV FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211827
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTE",SPORTV HD
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211829
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTE",SPORTV HD [ALT]
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTES",SPORTV HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295610
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTE",SPORTV SD
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV.png" group-title="ESPORTES",SPORTV SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211831
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTE",SPORTV 2 FHD
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTES",SPORTV 2 FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211834
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTE",SPORTV 2 FHD H265
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTES",SPORTV 2 FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211833
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTE",SPORTV 2 HD
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTES",SPORTV 2 HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211835
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTE",SPORTV 2 HD [ALT]
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTES",SPORTV 2 HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/306566
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTE",SPORTV 2 SD
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 2.png" group-title="ESPORTES",SPORTV 2 SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211837
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTE",SPORTV 3 FHD
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTES",SPORTV 3 FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211840
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTE",SPORTV 3 FHD H265
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTES",SPORTV 3 FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211839
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTE",SPORTV 3 HD
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTES",SPORTV 3 HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211841
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTE",SPORTV 3 HD [ALT]
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTES",SPORTV 3 HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295609
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTE",SPORTV 3 SD
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/SPORTV 3.png" group-title="ESPORTES",SPORTV 3 SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211843
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTE",ESPN FHD
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211804
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTE",ESPN FHD H265
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211803
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTE",ESPN HD
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211805
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTE",ESPN HD [ALT]
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295630
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTE",ESPN SD
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211807
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTE",ESPN 2 FHD
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTES",ESPN 2 FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211792
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTE",ESPN 2 FHD H265
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTES",ESPN 2 FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211791
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTE",ESPN 2 HD
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTES",ESPN 2 HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211793
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTE",ESPN 2 HD [ALT]
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTES",ESPN 2 HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295632
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTE",ESPN 2 SD
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 2.png" group-title="ESPORTES",ESPN 2 SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211795
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTE",ESPN 3 FHD
+#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTES",ESPN 3 FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211798
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTE",ESPN 3 FHD H265
+#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTES",ESPN 3 FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211797
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTE",ESPN 3 HD
+#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTES",ESPN 3 HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211799
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTE",ESPN 3 HD [ALT]
+#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTES",ESPN 3 HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295633
-#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTE",ESPN 3 SD
+#EXTINF:-1 tvg-id="espn.plus.br" tvg-name="ESPN 3 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 3.png" group-title="ESPORTES",ESPN 3 SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211801
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTE",ESPN 4 FHD
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTES",ESPN 4 FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211816
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTE",ESPN 4 FHD H265
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTES",ESPN 4 FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211815
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTE",ESPN 4 HD
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTES",ESPN 4 HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211817
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTE",ESPN 4 HD [ALT]
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTES",ESPN 4 HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295698
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTE",ESPN 4 SD
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN 4.png" group-title="ESPORTES",ESPN 4 SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211819
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTE",ESPN EXTRA FHD
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTES",ESPN EXTRA FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211810
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTE",ESPN EXTRA FHD H265
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTES",ESPN EXTRA FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/211809
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTE",ESPN EXTRA HD
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTES",ESPN EXTRA HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211811
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTE",ESPN EXTRA HD [ALT]
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTES",ESPN EXTRA HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295631
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTE",ESPN EXTRA SD
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN EXTRA.png" group-title="ESPORTES",ESPN EXTRA SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211813	
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES",COMBATE FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/211786
@@ -2084,13 +2084,13 @@ http://cdn.teambr.live:80/splove/6357283/494
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 01" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS | CAMPEONATO ESTADUAIS",PAULISTAO PLAY 01
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 01" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS",PAULISTAO PLAY 01
 http://trenduhd.xyz:80/evandroCamargo/101209/344822
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 02" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS | CAMPEONATO ESTADUAIS",PAULISTAO PLAY 02
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 02" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS",PAULISTAO PLAY 02
 http://trenduhd.xyz:80/evandroCamargo/101209/344824
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 03" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS | CAMPEONATO ESTADUAIS",PAULISTAO PLAY 03
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 03" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS",PAULISTAO PLAY 03
 http://trenduhd.xyz:80/evandroCamargo/101209/344823
-#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 04" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS | CAMPEONATO ESTADUAIS",PAULISTAO PLAY 04
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY 04" tvg-logo="https://play-lh.googleusercontent.com/bM1nRXuz68FM4A3IAczIaQOyfNYznqlAhCy35aayzvlXcPp6WyV3PU97yF5_DoBJEg" group-title="ESTADUAIS",PAULISTAO PLAY 04
 http://trenduhd.xyz:80/evandroCamargo/101209/344825
 #EXTINF:-1 tvg-id="" tvg-name="NORDESTE FC 01" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/COPA NORDESTE.png" group-title="ESTADUAIS",NORDESTE FC 01
 http://trenduhd.xyz:80/evandroCamargo/101209/345047
@@ -2183,7 +2183,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212893
 http://trenduhd.xyz:80/evandroCamargo/101209/212894
 #EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="SEXYHOT HD [ALT]" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="ADULTOS",SEXYHOT HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/212895
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXYHOT SD" tvg-logo="https://lh3.googleusercontent.com/proxy/OubCgk80HyM1yCPF0Gv2RJYz5dvTjsBP4vPWUhr5cRcGcmUwI7TDG0g_nkU_W_3mtjZRxGxc635vpWNvA5udA_1ud9zWw3eOuF0" group-title="CANAIS | ADULTOS",SEXYHOT SD
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEXYHOT SD" tvg-logo="https://lh3.googleusercontent.com/proxy/OubCgk80HyM1yCPF0Gv2RJYz5dvTjsBP4vPWUhr5cRcGcmUwI7TDG0g_nkU_W_3mtjZRxGxc635vpWNvA5udA_1ud9zWw3eOuF0" group-title="ADULTOS",SEXYHOT SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212896
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="ADULTOS",VENUS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
