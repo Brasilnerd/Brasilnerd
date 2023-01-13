@@ -1453,7 +1453,30 @@ http://trenduhd.xyz:80/evandroCamargo/101209/211896
 	
 	
 	
-
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="TELECINE",TELECINE ACTION FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31582
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="TELECINE",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31583
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="TELECINE",TELECINE CULT FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31584
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aa9e2822814cc61a4be9f0b3b9180f00.png" group-title="TELECINE",TELECINE CULT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31585
+#EXTINF:-1 tvg-id="Example" tvg-name="TELECINE FUN FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="TELECINE",TELECINE FUN FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31587
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="TELECINE",TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31588
+#EXTINF:-1 tvg-id="Example" tvg-name="TELECINE PIPOCA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="TELECINE",TELECINE PIPOCA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31589
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="TELECINE",TELECINE PIPOCA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31590
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="TELECINE",TELECINE PREMIUM FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31591
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="TELECINE",TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31592
+#EXTINF:-1 tvg-id="Example" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="TELECINE",TELECINE TOUCH FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31593
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="TELECINE",TELECINE TOUCH HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31594
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/188425
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE ACTION.png" group-title="TELECINES",TELECINE ACTION FHD H265
@@ -2026,5 +2049,8 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212895
 http://trenduhd.xyz:80/evandroCamargo/101209/212896
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="CANAIS | ADULTOS",VENUS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
+
+
+
 
 
