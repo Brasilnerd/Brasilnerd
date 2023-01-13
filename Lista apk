@@ -956,8 +956,10 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188705
 	MUSICA
 	
 	
+	
+	
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="MUSICA",KISS TV
-https://cast.cdnseguro.com:19360/8094/8094.m3u8		
+https://cast.cdnseguro.com:19360/8094/8094.m3u8	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qxe4QvL.jpg" group-title="MUSICA",CTV PB
 https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w826121275.m3u8	
 #EXTINF:-1 tvg-id="" tvg-name="RCKTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5QK_MaPNohBuf1ytVjOiXBZEGYJbnHadvZZidrFFDcU5g3mmpEt0E9ThbZ0jethlogpWG6JdoZxghw8EvujpMY6YZB9ZlC5tArYRtB9hAyRMxccT181-fBmy1pG2TqHEFrYhJPwCsLTOoKcgjta9gqtH-sR6Drash-VCkA-Po6-eVNG3LFXWO4XfM/s200/BLAST%20CHANNEL%20TV.webp" group-title="MUSICA",BLAST CHANNEL TV
@@ -1137,9 +1139,6 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189089
 	
 	
 	INFANTIL
-	
-	
-	
 	
 #EXTINF:-1 tvg-id="Anime Tv" tvg-name="Anime Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="INFANTIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8	
@@ -2124,6 +2123,12 @@ http://cdn.teambr.live:80/splove/6357283/495
 http://cdn.teambr.live:80/splove/6357283/43631
 #EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV 4 HD³" tvg-logo="http://cdn.xcore.ca:80/images/497f2ab6189a7f86a5c3d68648642390.png" group-title="PPV ESPORTE",CONMEBOL TV 4 HD³
 http://cdn.teambr.live:80/splove/6357283/494
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/ufc.png" group-title="PPV ESPORTE",UFC FIGHT PASS FHD
+http://trenduhd.xyz:80/evandroCamargo/101209/345044
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD" tvg-logo="http://trenduhd.xyz/images/Esportes/ufc.png" group-title="PPV ESPORTE",UFC FIGHT PASS HD
+http://trenduhd.xyz:80/evandroCamargo/101209/345045
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS SD" tvg-logo="http://trenduhd.xyz/images/Esportes/ufc.png" group-title="PPV ESPORTE",UFC FIGHT PASS SD
+http://trenduhd.xyz:80/evandroCamargo/101209/345046
 
 
 
@@ -2161,22 +2166,6 @@ http://trenduhd.xyz:80/evandroCamargo/101209/345051
 ----------------------------------------------------------------
 
 
-	CANAIS PPV ESPORTES
-	
-
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/ufc.png" group-title="PPV | ESPORTES",UFC FIGHT PASS FHD
-http://trenduhd.xyz:80/evandroCamargo/101209/345044
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS HD" tvg-logo="http://trenduhd.xyz/images/Esportes/ufc.png" group-title="PPV | ESPORTES",UFC FIGHT PASS HD
-http://trenduhd.xyz:80/evandroCamargo/101209/345045
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS SD" tvg-logo="http://trenduhd.xyz/images/Esportes/ufc.png" group-title="PPV | ESPORTES",UFC FIGHT PASS SD
-http://trenduhd.xyz:80/evandroCamargo/101209/345046
-
-
-
-
-	
-
-------------------------------------------------------
 
 
 	CANAIS ADULTOS
