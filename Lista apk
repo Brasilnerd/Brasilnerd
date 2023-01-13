@@ -1002,7 +1002,7 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31628
 	
 	
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dkH5oBS.jpg" group-title="CANAIS | VARIEDADES",CHANNEL 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkH5oBS.jpg" group-title="VARIEDADES",CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
 #EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/TRUTV.png" group-title="VARIEDADES",TRUTV HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189125
