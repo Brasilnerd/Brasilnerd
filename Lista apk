@@ -1573,7 +1573,12 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189232
 	CANAIS CINEMA 24H
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 1 HD³" tvg-logo="http://cdn.xcore.ca:80/images/88d3d0bfa7041c2d1909c4a9c9618b23.png" group-title="CANAIS: CINEMA 24H",Cine Pipoca 1 HD³
+http://cdn.teambr.live:80/splove/6357283/39459
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 2 HD³" tvg-logo="http://cdn.xcore.ca:80/images/88d3d0bfa7041c2d1909c4a9c9618b23.png" group-title="CANAIS: CINEMA 24H",Cine Pipoca 2 HD³
+http://cdn.teambr.live:80/splove/6357283/39455
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3 HD³" tvg-logo="http://cdn.xcore.ca:80/images/88d3d0bfa7041c2d1909c4a9c9618b23.png" group-title="CANAIS: CINEMA 24H",Cine Pipoca 3 HD³
+http://cdn.teambr.live:80/splove/6357283/39456
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://trenduhd.xyz/images/MARVEL.png" group-title="CANAIS | CINEMA 24H",CINE MARVEL
 http://trenduhd.xyz:80/evandroCamargo/101209/296729
 #EXTINF:-1 tvg-id="" tvg-name="CINE TRAPALHÕES" tvg-logo="https://www.nerdtrip.com.br/wp-content/uploads/2017/05/ea3a26d5999f9886409e2256b1bb5981-1.jpg" group-title="CINEMA 24H",CINE TRAPALHÕES
