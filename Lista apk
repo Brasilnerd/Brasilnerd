@@ -205,7 +205,7 @@ http://rctv.tech:80/openbox30/kafta145/1213777
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="CANAIS | UHD 4K",TNT - 4K
 http://rctv.tech:80/openbox30/kafta145/1213778
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES - H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | UHD 4K",TNT SERIES - 4K
-http://rctv.tech:80/openbox30/kafta145/1213779
+http://cnts.fun:80/Denisgrajau/785436274/2162514
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CANAIS | UHD 4K",WARNER CHANNEL 4K
 http://rctv.tech:80/openbox30/kafta145/1213780
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H265" tvg-logo="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/579488/regular_espn-vermelho.png" group-title="CANAIS | UHD 4K",ESPN FHD 4K
@@ -418,7 +418,10 @@ http://rctv.tech:80/openbox30/kafta145/1213880
 
 	TEST
 
-
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD" tvg-logo="https://lh3.googleusercontent.com/-xOI5FufxfH8/YB1IRzNl5oI/AAAAAAAAJ54/mWWxP_wtcQAnljLKuoTyUjyeY1TV_zrvQCLcBGAsYHQ/Tv%2BEscola.png" group-title="TEST",TV ESCOLA SD
+http://cnts.fun:80/Denisgrajau/785436274/2163051
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD¹" tvg-logo="https://lh3.googleusercontent.com/-xOI5FufxfH8/YB1IRzNl5oI/AAAAAAAAJ54/mWWxP_wtcQAnljLKuoTyUjyeY1TV_zrvQCLcBGAsYHQ/Tv%2BEscola.png" group-title="TEST",TV ESCOLA SD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232507
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="https://store-images.s-microsoft.com/image/apps.32357.14618985536919905.4b30e4f3-f7a1-4421-840c-2cc97b10e8e0.6e7a96f1-33ad-4447-8e2b-7de730f9a05e?mode=scale&q=90&h=200&w=200&background=%230078D7" group-title="TEST",PRIME VIDEO 01
 http://trenduhd.xyz:80/evandroCamargo/101209/299403
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01 [ALT]" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/prime_video.png" group-title="TEST",PRIME VIDEO 01 [ALT]
@@ -1106,6 +1109,27 @@ http://cdn.teambr.live:80/splove/6357283/215195
 http://cdn.teambr.live:80/splove/6357283/215196
 #EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 11" tvg-logo="http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="BBB 23",BBB 23 - 11
 http://cdn.teambr.live:80/splove/6357283/215197
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 1]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 1]
+http://cnts.fun:80/Denisgrajau/785436274/3235385
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 2]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 2]
+http://cnts.fun:80/Denisgrajau/785436274/3235386
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 3]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 3]
+http://cnts.fun:80/Denisgrajau/785436274/3235387
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 4]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 4]
+http://cnts.fun:80/Denisgrajau/785436274/3235388
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 5]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 5]
+http://cnts.fun:80/Denisgrajau/785436274/3235389
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 6]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 6]
+http://cnts.fun:80/Denisgrajau/785436274/3235390
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 7]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 7]
+http://cnts.fun:80/Denisgrajau/785436274/3235391
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 8]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 8]
+http://cnts.fun:80/Denisgrajau/785436274/3235392
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 9]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 9]
+http://cnts.fun:80/Denisgrajau/785436274/3235393
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 10]" tvg-logo="https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png" group-title="BBB 23",BBB 23 [CAM 10]
+http://cnts.fun:80/Denisgrajau/785436274/3235394
+
 
 ----------------------------------------------------------------
 
@@ -1379,6 +1403,18 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189113
 http://trenduhd.xyz:80/evandroCamargo/101209/189115
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="POLISHOP SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/POLISHOP.png" group-title="VARIEDADES",POLISHOP SD
 http://trenduhd.xyz:80/evandroCamargo/101209/189120
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/POLISHOP.png" group-title="VARIEDADES",POLISHOP SD
+http://cnts.fun:80/Denisgrajau/785436274/2162758
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD¹" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/POLISHOP.png" group-title="VARIEDADES",POLISHOP SD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232456
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FHD" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="VARIEDADES",SHOPTIME FHD
+http://cnts.fun:80/Denisgrajau/785436274/2162747
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FHD¹" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="VARIEDADES",SHOPTIME FHD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232317
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME HD" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="VARIEDADES",SHOPTIME HD
+http://cnts.fun:80/Denisgrajau/785436274/2162742
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME HD¹" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="VARIEDADES",SHOPTIME HD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232137
 #EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PRIME BOX BRAZIL FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/PRIME.png" group-title="VARIEDADES",PRIME BOX BRAZIL FHD
 http://trenduhd.xyz:80/evandroCamargo/101209/189117
 #EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PRIME BOX BRAZIL FHD H265" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/PRIME.png" group-title="VARIEDADES",PRIME BOX BRAZIL FHD H265
@@ -1447,7 +1483,8 @@ http://rctv.tech:80/openbox30/kafta145/475671
 http://rctv.tech:80/openbox30/kafta145/766444
 #EXTINF:-1 tvg-id="" tvg-name="Modo Viagem SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="VARIEDADES",Modo Viagem SD
 http://rctv.tech:80/openbox30/kafta145/766445
-
+#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/sDwrD1Cn/24-KITCHEN-HD.png" group-title="VARIEDADES",24 KITCHEN ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231323
 
 	
 	
@@ -1740,6 +1777,24 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188572
 http://trenduhd.xyz:80/evandroCamargo/101209/188575
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD H265" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT SERIES.png" group-title="FILMES & SERIES",TNT SERIES FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/188574
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="FILMES & SERIES",TNT Series 4K
+http://cnts.fun:80/Denisgrajau/785436274/3231940
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SERIES",TNT SERIES FHD
+http://cnts.fun:80/Denisgrajau/785436274/2162514
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT%20SERIES.png" group-title="Canais-H265",TNT SERIES FHD (H265)
+http://cnts.fun:80/Denisgrajau/785436274/2162536
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD¹" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SERIES",TNT SERIES FHD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232333
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD¹ (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT%20SERIES.png" group-title="FILMES & SERIES",TNT SERIES FHD¹ (H265)
+http://cnts.fun:80/Denisgrajau/785436274/3232610
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SERIES",TNT SERIES HD
+http://cnts.fun:80/Denisgrajau/785436274/2162515
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD¹" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SERIESs",TNT SERIES HD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232151
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SERIES",TNT SERIES SD
+http://cnts.fun:80/Denisgrajau/785436274/2162564
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD¹" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="FILMES & SERIES",TNT SERIES SD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232500
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT SERIES.png" group-title="FILMES & SERIES",TNT SERIES HD
 http://trenduhd.xyz:80/evandroCamargo/101209/188576
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT SERIES.png" group-title="FILMES & SERIES",TNT SERIES HD [ALT]
@@ -1803,22 +1858,64 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188494
 http://7go.xyz:8080/8981200021/useplay8981/279912
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="LEGENDADOS",PT: HOLLYWOOD HD
 http://7go.xyz:8080/8981200021/useplay8981/280177
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="LEGENDADOS",PT: RTP 1
-http://7go.xyz:8080/8981200021/useplay8981/279898
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png" group-title="LEGENDADOS",PT: RTP 2
-http://7go.xyz:8080/8981200021/useplay8981/279897
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="https://i.pinimg.com/originals/de/80/f6/de80f6aaef35e147186ac04f43dada28.jpg" group-title="LEGENDADOS",PT: RTP 3
-http://7go.xyz:8080/8981200021/useplay8981/279896	
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 1  HD" tvg-logo="http://www.comandotv.com/xbmc/tvcine1.png" group-title="LEGENDADOS",PT: TV CINE 1  HD
-http://7go.xyz:8080/8981200021/useplay8981/279877
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 2  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/TV_CINE_2.png" group-title="LEGENDADOS",PT: TV CINE 2  HD
-http://7go.xyz:8080/8981200021/useplay8981/279876
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/TV_CINE_3.png" group-title="LEGENDADOS",PT: TV CINE 3 HD
-http://7go.xyz:8080/8981200021/useplay8981/279875
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE 4" tvg-logo="https://i.pinimg.com/originals/2e/ae/3d/2eae3deff58d7152229e2d5bb3e55d08.png" group-title="LEGENDADOS",PT: TV CINE 4
-http://7go.xyz:8080/8981200021/useplay8981/279874	
-
-
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://4young.xyz:8080/images/961a014d9481db0d8b5eb5923100303c.png" group-title="LEGENDADOS",HOLLYWOOD
+http://cnts.fun:80/Denisgrajau/785436274/3231398
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/c9d410400a4968fd8490fadc72c9186a.png" group-title="LEGENDADOS",HOLLYWOOD ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231397
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://i.postimg.cc/rFzF4xtj/RTP-1.png" group-title="LEGENDADOS",RTP 1
+http://cnts.fun:80/Denisgrajau/785436274/3231292
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 [low]" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="LEGENDADOS",RTP 1 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892492
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/xTtnTRjg/RTP-1-HD.png" group-title="LEGENDADOS",RTP 1 ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231291
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 [low]" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="LEGENDADOS",RTP 2 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892493
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/RVqwXgYn/RTP-2-HD.png" group-title="LEGENDADOS",RTP 2 ᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231293
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="https://i.postimg.cc/Hss1Ky0M/RTP-3.png" group-title="LEGENDADOS",RTP 3
+http://cnts.fun:80/Denisgrajau/785436274/3231304
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION" tvg-logo="http://4young.xyz:8080/images/1216a67bd407bdc4c57cea775e6b1a02.png" group-title="LEGENDADOS",TVCINE ACTION
+http://cnts.fun:80/Denisgrajau/785436274/3231396
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/61c1923dae9c161bab11989dcf3b455e.png" group-title="LEGENDADOS",TVCINE ACTION ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231395
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION" tvg-logo="http://4young.xyz:8080/images/7ecf989340541a442fa2da2ba4f24696.png" group-title="LEGENDADOS",TVCINE EDITION
+http://cnts.fun:80/Denisgrajau/785436274/3231392
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition [low]" tvg-logo="https://4.bp.blogspot.com/-qONDVf5z7Jw/WDrqKzWDZNI/AAAAAAAAFhI/jbjkQZfhoLAanKf2V3o0IbAY3ouLRleNACLcB/s1600/TVC%2B2.png" group-title="LEGENDADOS",TVCine Edition [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892519
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/7ecf989340541a442fa2da2ba4f24696.png" group-title="LEGENDADOS",TVCINE EDITION ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231391
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION" tvg-logo="http://4young.xyz:8080/images/bdfa15b8df640a928e2f975bff9b7f96.png" group-title="LEGENDADOS",TVCINE EMOTION
+http://cnts.fun:80/Denisgrajau/785436274/3231394
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion [low]" tvg-logo="https://4.bp.blogspot.com/-p3imAkTBwws/WDrqLDbxMrI/AAAAAAAAFhY/3PDHxAetD9sbi49spAVvBEkst_E-klj4gCLcB/s1600/TVC%2B3.png" group-title="LEGENDADOS",TVCine Emotion [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892520
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/555547ed71439b4fdafab1025cce43a1.png" group-title="LEGENDADOS",TVCINE EMOTION ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231393
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP" tvg-logo="http://4young.xyz:8080/images/458a81dcf20ec854955077c0d842b866.png" group-title="LEGENDADOS",TVCINE TOP
+http://cnts.fun:80/Denisgrajau/785436274/3231390
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/ffef3657fbd9e120857b11a003705154.png" group-title="LEGENDADOS",TVCINE TOP ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231389	
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="http://4young.xyz:8080/images/c5c237a5ec1657b4660772b1f618324b.png" group-title="LEGENDADOS",AXN WHITE
+http://cnts.fun:80/Denisgrajau/785436274/3231410
+#EXTINF:-1 tvg-id="" tvg-name="AXN White SD" tvg-logo="https://4.bp.blogspot.com/-_2PPLA8uGp4/WB8tbCXlBKI/AAAAAAAAFT4/Wud0MVTvK5843gByTq3QETnwW8oZS45ZgCLcB/s1600/AXN%2BWhite.png" group-title="LEGENDADOS",AXN White SD
+http://cnts.fun:80/Denisgrajau/785436274/2892524
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/b025d7d4f73dc56fa3ca037c8c08655f.png" group-title="LEGENDADOS",AXN WHITE ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231409
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="http://4young.xyz:8080/images/4c2e02e43b926636c699ab5fecde1b38.png" group-title="LEGENDADOS",AXN MOVIES
+http://cnts.fun:80/Denisgrajau/785436274/3231400
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES [HVEC/H265]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn-movies-us-pt.png" group-title="LEGENDADOS",AXN MOVIES H265
+http://cnts.fun:80/Denisgrajau/785436274/2892386
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES [low]" tvg-logo="https://2.bp.blogspot.com/-D7cgAR10puU/WB8tbIECYzI/AAAAAAAAFTw/R6xsbk5h94Iy2-ZdUWd80to7-LNiHBjFgCLcB/s1600/AXN%2BBlack.png" group-title="LEGENDADOS",AXN MOVIES [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892525
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/4c2e02e43b926636c699ab5fecde1b38.png" group-title="LEGENDADOS",AXN MOVIES ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231399
+#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO" tvg-logo="http://4young.xyz:8080/images/bd42fd95982512c2d2912a516bf605b0.png" group-title="LEGENDADOS",CINEMUNDO
+http://cnts.fun:80/Denisgrajau/785436274/3231405
+#EXTINF:-1 tvg-id="" tvg-name="Cinemundo [low]" tvg-logo="https://3.bp.blogspot.com/-tkCyQv2RtAc/VSene6nLQtI/AAAAAAAAEx8/FLegKRckKmY/s1600/Cinemundo.png" group-title="LEGENDADOS",Cinemundo [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892526
+#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/478b9b6dbb9081f977bda852772bbfaf.png" group-title="LEGENDADOS",CINEMUNDO ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231404
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TvCine+" tvg-logo="" group-title="LEGENDADOS",24/7: TvCine+
+http://cnts.fun:80/Denisgrajau/785436274/2892487
 
 
 ----------------------------------------------------------------------------
@@ -1936,7 +2033,36 @@ http://trenduhd.xyz:80/evandroCamargo/101209/211896
 
 
 --------------------------------------------------------------------------	
+	
+	
+	HBO|LEG
+	
+	
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="HBO|LEG",HBO HD
+http://cnts.fun:80/Denisgrajau/785436274/3006983	
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="" group-title="HBO|LEG",HBO MUNDI FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006987
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="" group-title="HBO|LEG",HBO MUNDI HD
+http://cnts.fun:80/Denisgrajau/785436274/3006988
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="" group-title="HBO|LEG",HBO PLUS FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006984
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="HBO|LEG",HBO PLUS HD
+http://cnts.fun:80/Denisgrajau/785436274/3006985
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD" tvg-logo="" group-title="HBO|LEG",HBO POP FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006989
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="HBO|LEG",HBO POP HD
+http://cnts.fun:80/Denisgrajau/785436274/3006990
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="HBO|LEG",HBO SIGNATURE HD
+http://cnts.fun:80/Denisgrajau/785436274/3006986
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM HD" tvg-logo="" group-title="HBO|LEG",HBO XTREAM HD
+http://cnts.fun:80/Denisgrajau/785436274/3006992
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="" group-title="HBO|LEG",HBO XTREME FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006991
 
+
+
+
+--------------------------------------------------------------------------	
 
 
 	TELECINE
@@ -2033,7 +2159,29 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188458
 
 
 ----------------------------------------------------------------
+
+
+
+	TELECINE|LEG
 	
+	
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD" tvg-logo="" group-title="TELECINE|LEG",TELECINE CULT FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006980
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="TELECINE|LEG",TELECINE CULT HD
+http://cnts.fun:80/Denisgrajau/785436274/3006981	
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="TELECINE|LEG",TELECINE FUN HD
+http://cnts.fun:80/Denisgrajau/785436274/3006979
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD" tvg-logo="" group-title="TELECINE|LEG",TELECINE PIPOCA FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006974	
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD" tvg-logo="" group-title="TELECINE|LEG",TELECINE PREMIUM FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006975	
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="" group-title="TELECINE|LEG",TELECINE PREMIUM HD
+http://cnts.fun:80/Denisgrajau/785436274/3006976
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD" tvg-logo="" group-title="TELECINE|LEG",TELECINE TOUCH FHD
+http://cnts.fun:80/Denisgrajau/785436274/3006978	
+	
+	
+-----------------------------------------------------------------	
 	
 	NOTICIAS
 	
@@ -2056,6 +2204,14 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189220
 http://trenduhd.xyz:80/evandroCamargo/101209/229790
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="JOVEM PAN NEWS FHD H265" tvg-logo="http://trenduhd.xyz/images/NOTICIAS/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/229789
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://cnts.fun:80/Denisgrajau/785436274/2162673
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD¹" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="NOTICIAS",JOVEM PAN NEWS HD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232081
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
+http://cnts.fun:80/Denisgrajau/785436274/2162682
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS SD¹" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="NOTICIAS",JOVEM PAN NEWS SD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232444
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://trenduhd.xyz/images/NOTICIAS/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
 http://trenduhd.xyz:80/evandroCamargo/101209/229791
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="JOVEM PAN NEWS SD" tvg-logo="http://trenduhd.xyz/images/NOTICIAS/jpnews.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
@@ -2064,6 +2220,18 @@ http://trenduhd.xyz:80/evandroCamargo/101209/229792
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31506
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="NOTICIAS",CNN BRASIL FULLHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31508
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL FHD
+http://cnts.fun:80/Denisgrajau/785436274/2162666
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD¹" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL FHD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232189
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL HD
+http://cnts.fun:80/Denisgrajau/785436274/2162667
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD¹" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL HD¹
+http://cnts.fun:80/Denisgrajau/785436274/3231971
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL SD
+http://cnts.fun:80/Denisgrajau/785436274/2162680
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD¹" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD¹463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTICIAS",CNN BRASIL SD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232364
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7fad716bdb5128ab32837e0a4e510a7.png" group-title="NOTICIAS",CNN BRASIL HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31509
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ea08aad287e0aa9e220607b3868bfa57.png" group-title="NOTICIAS",CNN INTERNACIONAL FULLHD
@@ -2102,9 +2270,22 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189229
 http://trenduhd.xyz:80/evandroCamargo/101209/189230
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="http://trenduhd.xyz/images/NOTICIAS/RECORD NEWS.png" group-title="NOTICIAS",RECORD NEWS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/189232
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD¹" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS FHD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232302
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS HD
+http://cnts.fun:80/Denisgrajau/785436274/2162670
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS HD¹
+http://cnts.fun:80/Denisgrajau/785436274/3232108
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS SD
+http://cnts.fun:80/Denisgrajau/785436274/2162683
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="https://i.postimg.cc/J7ZKbV4R/SIC-NOTICIAS.png" group-title="NOTICIAS",SIC NOTICIAS
+http://cnts.fun:80/Denisgrajau/785436274/3231300
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias [low]" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="NOTICIAS",SIC Noticias [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892496
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/wMnP77Pq/SIC-NOTICIAS-HD.png" group-title="NOTICIAS",SIC NOTICIAS ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231299
+#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS" tvg-logo="https://i.postimg.cc/J7ZKbV4R/SIC-NOTICIAS.png" group-title="NOTICIAS",SIC NOTICIAS
+http://cnts.fun:80/Denisgrajau/785436274/3231300
 
 
 ----------------------------------------------------------------
@@ -2383,6 +2564,65 @@ http://trenduhd.xyz:80/evandroCamargo/101209/211789
 
 
 
+--------------------------------------------------------------------
+
+
+	ESPORTE PORTUGUAL 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="https://i.postimg.cc/632KH6bj/SPORT-TV.png" group-title="ESPORTES",SPORT TV +
+http://cnts.fun:80/Denisgrajau/785436274/3231328
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/Twz6B8ZR/SPORT-TV-HD.png" group-title="ESPORTES",SPORT TV + ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231327
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="ESPORTES",SPORT TV 1
+http://cnts.fun:80/Denisgrajau/785436274/3231333
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="ESPORTES",SPORT TV 1  ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231330
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 4k" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="ESPORTES",SPORT TV 1 4k
+http://cnts.fun:80/Denisgrajau/785436274/3231329
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 extra" tvg-logo="https://i.postimg.cc/cJvPW976/SPORT-TV-1.png" group-title="ESPORTES",SPORT TV 1 extra
+http://cnts.fun:80/Denisgrajau/785436274/3231332
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 [low]" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="ESPORTES",Sport TV 1 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892506
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="https://i.postimg.cc/P5PSvLCR/SPORT-TV-1-HD.png" group-title="ESPORTES",SPORT TV 1 ᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231331
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="https://i.postimg.cc/kXff1Nr4/SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
+http://cnts.fun:80/Denisgrajau/785436274/3231337
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2  4K" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="ESPORTES",SPORT TV 2  4K
+http://cnts.fun:80/Denisgrajau/785436274/3231334
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 [low]" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="ESPORTES",Sport TV 2 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892507
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="ESPORTES",SPORT TV 2 ᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231336
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/4dx35Tpn/SPORT-TV-2-HD.png" group-title="ESPORTES",SPORT TV 2 ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231335
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="https://i.postimg.cc/Kjgxqcjc/SPORT-TV-3.png" group-title="ESPORTES",SPORT TV 3
+http://cnts.fun:80/Denisgrajau/785436274/3231340
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 [low]" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="ESPORTES",Sport TV 3 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892508
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="ESPORTES",SPORT TV 3 ᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231339
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/MKVjXq58/SPORT-TV-3-HD.png" group-title="ESPORTES",SPORT TV 3 ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231338
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="https://i.postimg.cc/DyPytZ5m/SPORT-TV-4.png" group-title="ESPORTES",SPORT TV 4
+http://cnts.fun:80/Denisgrajau/785436274/3231343
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 [low]" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="ESPORTES",Sport TV 4 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892509
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://i.postimg.cc/NFhjw2W2/SPORT-TV-4-HD.png" group-title="ESPORTES",SPORT TV 4 ᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231342
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/NFhjw2W2/SPORT-TV-4-HD.png" group-title="ESPORTES",SPORT TV 4 ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231341
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="ESPORTES",SPORT TV 5
+http://cnts.fun:80/Denisgrajau/785436274/3231346
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 [low]" tvg-logo="https://i.postimg.cc/CMJxJxXV/SPORTV-5-HD.png" group-title="ESPORTES",Sport TV 5 [low]
+http://cnts.fun:80/Denisgrajau/785436274/2892510
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="ESPORTES",SPORT TV 5 ᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231345
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/1znS550G/SPORT-TV-5-HD.png" group-title="ESPORTES",SPORT TV 5 ᶠᴴᴰ
+http://cnts.fun:80/Denisgrajau/785436274/3231344
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6" tvg-logo="https://cm-inter.xyz/Logos/Portugal_2/SPORTTV6.png" group-title="ESPORTES",Sport TV 6
+http://cnts.fun:80/Denisgrajau/785436274/3231464
+
 -----------------------------------------------------------------
 
 
@@ -2533,6 +2773,28 @@ http://trenduhd.xyz:80/evandroCamargo/101209/345049
 http://trenduhd.xyz:80/evandroCamargo/101209/345050
 #EXTINF:-1 tvg-id="" tvg-name="NORDESTE FC 05" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/COPA NORDESTE.png" group-title="ESTADUAIS",NORDESTE FC 05
 http://trenduhd.xyz:80/evandroCamargo/101209/345051
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. CARIOCA 1" tvg-logo="" group-title="ESTADUAIS",CAMP. CARIOCA 1
+http://cnts.fun:80/Denisgrajau/785436274/3235395
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. CARIOCA 2" tvg-logo="" group-title="ESTADUAIS",CAMP. CARIOCA 2
+http://cnts.fun:80/Denisgrajau/785436274/3235396
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. CARIOCA 3" tvg-logo="" group-title="ESTADUAIS",CAMP. CARIOCA 3
+http://cnts.fun:80/Denisgrajau/785436274/3235397
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. CARIOCA 4" tvg-logo="" group-title="ESTADUAIS",CAMP. CARIOCA 4
+http://cnts.fun:80/Denisgrajau/785436274/3235398
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. CATARINENSE 1" tvg-logo="" group-title="ESTADUAIS",CAMP. CATARINENSE 1
+http://cnts.fun:80/Denisgrajau/785436274/3235399
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. CATARINENSE 2" tvg-logo="" group-title="ESTADUAIS",CAMP. CATARINENSE 2
+http://cnts.fun:80/Denisgrajau/785436274/3235400
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. MINEIRO 1" tvg-logo="" group-title="ESTADUAIS",CAMP. MINEIRO 1
+http://cnts.fun:80/Denisgrajau/785436274/3235401
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. PARANAENSE 1" tvg-logo="" group-title="ESTADUAIS",CAMP. PARANAENSE 1
+http://cnts.fun:80/Denisgrajau/785436274/3235402
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. PARANAENSE 2" tvg-logo="" group-title="ESTADUAIS",CAMP. PARANAENSE 2
+http://cnts.fun:80/Denisgrajau/785436274/3235403
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. SERGIPANO 1" tvg-logo="" group-title="ESTADUAIS",CAMP. SERGIPANO 1
+http://cnts.fun:80/Denisgrajau/785436274/3235404
+#EXTINF:-1 tvg-id="" tvg-name="CAMP. SERGIPANO 2" tvg-logo="" group-title="ESTADUAIS",CAMP. SERGIPANO 2
+http://cnts.fun:80/Denisgrajau/785436274/3235405
 
 
 
@@ -2577,6 +2839,8 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212870
 http://trenduhd.xyz:80/evandroCamargo/101209/212865
 #EXTINF:-1 tvg-id="" tvg-name="XXX - ADULTOS 15" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/xxx.png" group-title="ADULTOS" - ADULTOS 15
 http://trenduhd.xyz:80/evandroCamargo/101209/212880
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD H264" tvg-logo="" group-title="ADULTOS",PLAYBOY FHD H264
+http://cnts.fun:80/Denisgrajau/785436274/3122312
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV HD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="ADULTOS",PLAYBOY TV HD
 http://trenduhd.xyz:80/evandroCamargo/101209/212883
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV SD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="ADULTOS",PLAYBOY TV SD
@@ -2601,5 +2865,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212895
 http://trenduhd.xyz:80/evandroCamargo/101209/212896
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="ADULTOS",VENUS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
+
+
 
 
