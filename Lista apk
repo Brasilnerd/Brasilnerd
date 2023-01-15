@@ -423,12 +423,6 @@ http://trenduhd.xyz:80/evandroCamargo/101209/338638
 http://trenduhd.xyz:80/evandroCamargo/101209/299402
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02 [ALT]" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/prime_video.png" group-title="TEST",PRIME VIDEO 02 [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/338637
-#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="TEST",Eurochannel HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
-#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="TEST",Eurochannel HD¹
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
-#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="TEST",Eurochannel HD²
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38429
 #EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 2 HD" tvg-logo="http://dnslist.ca:80/images/c5a22897ac2af19b7e9a2416ee4e1783.png" group-title="TEST",Liga Futsal 2 HD
 http://cdn.teambr.live:80/splove/6357283/85184
 #EXTINF:-1 tvg-id="" tvg-name="LNF Futsal TV 01" tvg-logo="http://dnslist.ca:80/images/c5a22897ac2af19b7e9a2416ee4e1783.png" group-title="TEST",LNF Futsal TV 01
@@ -445,8 +439,8 @@ http://cdn.teambr.live:80/splove/6357283/79764
 	ABERTOS
 	
 	
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD" tvg-logo="https://lh3.googleusercontent.com/-xOI5FufxfH8/YB1IRzNl5oI/AAAAAAAAJ54/mWWxP_wtcQAnljLKuoTyUjyeY1TV_zrvQCLcBGAsYHQ/Tv%2BEscola.png" group-title="ABERTOS",TV ESCOLA SD
-http://cnts.fun:80/Denisgrajau/785436274/2163051
+
+
 #EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA SD¹" tvg-logo="https://lh3.googleusercontent.com/-xOI5FufxfH8/YB1IRzNl5oI/AAAAAAAAJ54/mWWxP_wtcQAnljLKuoTyUjyeY1TV_zrvQCLcBGAsYHQ/Tv%2BEscola.png" group-title="ABERTOS",TV ESCOLA SD¹
 http://cnts.fun:80/Denisgrajau/785436274/3232507
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="ABERTOS",ADESSO TV
@@ -1488,7 +1482,7 @@ http://rctv.tech:80/openbox30/kafta145/766445
 	
 	
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 KITCHEN HD" tvg-logo="http://one-iptv.com/imageslogo/24Kitchen.pt.png" group-title="INTERNACIONAL",24 KITCHEN HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58843.ts	
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58843.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="MY CUISINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla68atiRY0eHPN4NJiFq11DlVrgB5tf25sm45IZ4SRCDN_xT6DXrV-II&s" group-title="INTERNACIONAL",MY CUISINE HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58844.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="TVI FICCAO HD" tvg-logo="http://one-iptv.com/imageslogo/TVIFiccao.pt.png" group-title="INTERNACIONAL",TVI FICCAO HD
@@ -1497,6 +1491,8 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58787.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58788.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="TVI HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="INTERNACIONAL",TVI HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="INTERNACIONAL",Eurochannel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
 	
 	
 	
@@ -1875,6 +1871,8 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58820.ts
 http://7go.xyz:8080/8981200021/useplay8981/280177
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://4young.xyz:8080/images/c9d410400a4968fd8490fadc72c9186a.png" group-title="LEGENDADOS",HOLLYWOOD
 http://cnts.fun:80/Denisgrajau/785436274/3231397
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Hollywood 4K+" tvg-logo="" group-title="LEGENDADOS",Hollywood 4K+
+http://62.182.83.91:80/adagio-discord/xZpWNf4md2/14508
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://i.postimg.cc/rFzF4xtj/RTP-1.png" group-title="LEGENDADOS",RTP 1
 http://cnts.fun:80/Denisgrajau/785436274/3231292
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 [low]" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="LEGENDADOS",RTP 1 [low]
@@ -1887,6 +1885,12 @@ http://cnts.fun:80/Denisgrajau/785436274/2892493
 http://cnts.fun:80/Denisgrajau/785436274/3231293
 #EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="https://i.postimg.cc/Hss1Ky0M/RTP-3.png" group-title="LEGENDADOS",RTP 3
 http://cnts.fun:80/Denisgrajau/785436274/3231304
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 1 4K+" tvg-logo="" group-title="LEGENDADOS",TV CINE 1 4K+
+http://62.182.83.91:80/adagio-discord/xZpWNf4md2/14500
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 2 4K+" tvg-logo="" group-title="LEGENDADOS",TV CINE 2 4K+
+http://62.182.83.91:80/adagio-discord/xZpWNf4md2/14502
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV Cine 3 4K+" tvg-logo="" group-title=LEGENDADOS",TV CINE 3 4K+
+http://62.182.83.91:80/adagio-discord/xZpWNf4md2/14504
 #EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION" tvg-logo="http://4young.xyz:8080/images/1216a67bd407bdc4c57cea775e6b1a02.png" group-title="LEGENDADOS",TVCINE ACTION
 http://cnts.fun:80/Denisgrajau/785436274/3231396
 #EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/61c1923dae9c161bab11989dcf3b455e.png" group-title="LEGENDADOS",TVCINE ACTION ᶠᴴᴰ
@@ -1915,14 +1919,12 @@ http://cnts.fun:80/Denisgrajau/785436274/2892524
 http://cnts.fun:80/Denisgrajau/785436274/3231400
 #EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES [low]" tvg-logo="https://2.bp.blogspot.com/-D7cgAR10puU/WB8tbIECYzI/AAAAAAAAFTw/R6xsbk5h94Iy2-ZdUWd80to7-LNiHBjFgCLcB/s1600/AXN%2BBlack.png" group-title="LEGENDADOS",AXN MOVIES [low]
 http://cnts.fun:80/Denisgrajau/785436274/2892525
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/4c2e02e43b926636c699ab5fecde1b38.png" group-title="LEGENDADOS",AXN MOVIES ᶠᴴᴰ
-http://cnts.fun:80/Denisgrajau/785436274/3231399
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.| CINE MUNDO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCMmU2RS-ziEh-OYj6paceU9GYs2-TYq4Zs2-4_ydNKoJhA6nnb9QIAM&s" group-title="LEGENDADOS",CINE MUNDO HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58818.ts
 #EXTINF:-1 tvg-id="" tvg-name="|.PT.| CINE MUNDO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCMmU2RS-ziEh-OYj6paceU9GYs2-TYq4Zs2-4_ydNKoJhA6nnb9QIAM&s" group-title="LEGENDADOS",CINE MUNDO HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58818.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO ᶠᴴᴰ" tvg-logo="http://4young.xyz:8080/images/478b9b6dbb9081f977bda852772bbfaf.png" group-title="LEGENDADOS",CINEMUNDO ᶠᴴᴰ
 http://cnts.fun:80/Denisgrajau/785436274/3231404
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Cine Mundo" tvg-logo="" group-title="LEGENDADOS,CINEMUNDO
+http://62.182.83.91:80/adagio-discord/xZpWNf4md2/14510
 
 
 
@@ -2915,6 +2917,5 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212895
 http://trenduhd.xyz:80/evandroCamargo/101209/212896
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="ADULTOS",VENUS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
-
 
 
