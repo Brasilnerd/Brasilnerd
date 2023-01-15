@@ -530,7 +530,14 @@ http://trenduhd.xyz:80/evandroCamargo/101209/188861
 #EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://pbs.twimg.com/profile_images/1295744415735197698/lISgKV06_400x400.jpg" group-title="ABERTOS",CANAL DO BOI SD
 http://trenduhd.xyz:80/evandroCamargo/101209/297941
 #EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://e7.pngegg.com/pngimages/103/549/png-clipart-canal-rural-logo-aci-formulations-brazil-aci-limited-text-trademark-thumbnail.png" group-title="ABERTOS",CANAL RURAL SD
-http://trenduhd.xyz:80/evandroCamargo/101209/297942
+http://rctv.tech:80/openbox30/kafta145/373935
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO + HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="ABERTOS",AGRO + HD
+http://rctv.tech:80/openbox30/kafta145/373933
+
+
+
+
+
 
 	
 ---------------------------------------------------------------------
@@ -1001,6 +1008,10 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212284
 	
 	
 	
+	
+	
+#EXTINF:-1 tvg-id="universal.br" tvg-name="TV UNIVERSAL SD" tvg-logo="https://imagizer.imageshack.com/img924/930/Un6ttf.gif" group-title="RELIGIOSOS",TV UNIVERSAL SD
+http://rctv.tech:80/openbox30/kafta145/374385	
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSOS", IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="http://trenduhd.xyz/images/RELIGIOSOS/CANCAO_NOVA.png" group-title="RELIGIOSOS",CANCAO NOVA HD
@@ -1021,6 +1032,8 @@ http://trenduhd.xyz:80/evandroCamargo/101209/319583
 http://trenduhd.xyz:80/evandroCamargo/101209/319582
 #EXTINF:-1 tvg-id="tv.mundial.br" tvg-name="TV MUNDIAL SD" tvg-logo="http://trenduhd.xyz/images/RELIGIOSOS/MUNDIAL.jpg" group-title="RELIGIOSOS",TV MUNDIAL SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211913
+#EXTINF:-1 tvg-id="tv.mundial.br" tvg-name="TV MUNDIAL SD²" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zx04si.png" group-title="RELIGIOSOS",TV MUNDIAL SD²
+http://rctv.tech:80/openbox30/kafta145/374360
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://trenduhd.xyz/images/RELIGIOSOS/NOVO TEMPO.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
 http://trenduhd.xyz:80/evandroCamargo/101209/211905
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://trenduhd.xyz/images/RELIGIOSOS/NOVO TEMPO.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
@@ -1306,6 +1319,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 #EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5782d58554458b8542a5f80778fc71b3.png" group-title="MUSICA",VH1 HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31628
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="" group-title="MUSICA",Music Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36049
 
 
 
@@ -1512,24 +1527,24 @@ http://rctv.tech:80/openbox30/kafta145/393033
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8	
 #EXTINF:-1 tvg-id="Anime Tv" tvg-name="Anime Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="INFANTIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8	
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO FHD
-http://trenduhd.xyz:80/evandroCamargo/101209/189044
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO FHD H265
-http://trenduhd.xyz:80/evandroCamargo/101209/189045
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO HD
-http://trenduhd.xyz:80/evandroCamargo/101209/189046
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="INFANTIL",WOOHOO SD
-http://trenduhd.xyz:80/evandroCamargo/101209/189048
 #EXTINF:-1 tvg-id="zoomoo.kids.br" tvg-name="ZOOMO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="INFANTIL",ZOOMO HD
-http://trenduhd.xyz:80/evandroCamargo/101209/189051
+http://rctv.tech:80/openbox30/kafta145/5533
 #EXTINF:-1 tvg-id="zoomoo.kids.br" tvg-name="ZOOMO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="INFANTIL",ZOOMO SD
 http://trenduhd.xyz:80/evandroCamargo/101209/189053
 #EXTINF:-1 tvg-id="zoomoo.kids.br" tvg-name="ZOOMOO HD [ALT]" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="INFANTIL",ZOOMOO HD [ALT]
 http://trenduhd.xyz:80/evandroCamargo/101209/295674
+
+http://rctv.tech:80/openbox30/kafta145/5533
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="TV GLOOBINHO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="INFANTIL",TV GLOOBINHO HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189037
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="TV GLOOBINHO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="INFANTIL",TV GLOOBINHO SD
 http://trenduhd.xyz:80/evandroCamargo/101209/189036
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="CANAIS | INFANTIS",GLOOB FHD
+http://rctv.tech:80/openbox30/kafta145/5227
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="CANAIS | INFANTIS",GLOOB HD
+http://rctv.tech:80/openbox30/kafta145/5076
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="CANAIS | INFANTIS",GLOOB SD
+http://rctv.tech:80/openbox30/kafta145/5443
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RATIMBUM HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TVRA.png" group-title="INFANTIL",TV RATIMBUM HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189040
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RATIMBUM SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TVRA.png" group-title="INFANTIL",TV RATIMBUM SD
@@ -1611,7 +1626,7 @@ http://trenduhd.xyz:80/evandroCamargo/101209/189027
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="INFANTIL",TOONCAST FHD H265
 http://trenduhd.xyz:80/evandroCamargo/101209/189030
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="INFANTIL",TOONCAST HD
-http://trenduhd.xyz:80/evandroCamargo/101209/189032
+http://rctv.tech:80/openbox30/kafta145/5511
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="INFANTIL",TOONCAST SD
 http://trenduhd.xyz:80/evandroCamargo/101209/189034	
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_ra-tim-bum-1_m.png" group-title="INFANTIL",TV RA TIM BUM FHD
@@ -2589,6 +2604,19 @@ http://trenduhd.xyz:80/evandroCamargo/101209/211787
 http://trenduhd.xyz:80/evandroCamargo/101209/295699
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES",COMBATE SD
 http://trenduhd.xyz:80/evandroCamargo/101209/211789
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="ESPORTES",OFF FHD
+http://rctv.tech:80/openbox30/kafta145/5250
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="ESPORTES",OFF HD
+http://rctv.tech:80/openbox30/kafta145/5098
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="ESPORTES",OFF SD
+http://rctv.tech:80/openbox30/kafta145/5468
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="ESPORTES",OFF SD
+http://rctv.tech:80/openbox30/kafta145/923476
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="ESPORTES",WOOHOO HD
+http://trenduhd.xyz:80/evandroCamargo/101209/189046
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="ESPORTES",WOOHOO SD
+http://trenduhd.xyz:80/evandroCamargo/101209/189048
+
 
 
 
@@ -2917,5 +2945,6 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212895
 http://trenduhd.xyz:80/evandroCamargo/101209/212896
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://cdn.pegadesconto.com.br/sexy-hot-novo-logotipo.png" group-title="ADULTOS",VENUS SD
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
-
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="SEXTREME FHD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="ADULTOS",SEXTREME FHD
+http://rctv.tech:80/openbox30/kafta145/466380
 
