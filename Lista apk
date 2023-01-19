@@ -1,8 +1,4 @@
-
-
-
-
-	#EXTM3U
+#EXTM3U
 x-tvg-url="http://tvget.live/xmltv.php?username=001620369837&password=312775882992"
 
 
@@ -25,7 +21,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/22640
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18791
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD²" tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="TODOS",AXN HD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22459
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="TODOSS",AXN SD²
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="TODOS",AXN SD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22295
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD¹" tvg-logo="https://i.pinimg.com/originals/17/37/bd/1737bd0e954721325f0842c491110723.png" group-title="TODOS",AXN SD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18724
@@ -1296,7 +1292,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/42907
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22706
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://i.imgur.com/WtDvSyy.png" group-title="TODOS",SPORTV 2 HD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18660
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://i.imgur.com/WtDvSyy.png" group-title="TODOSV",SPORTV 2 HD²
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://i.imgur.com/WtDvSyy.png" group-title="TODOS",SPORTV 2 HD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22612
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ᶜᴰᴺ²" tvg-logo="https://i.imgur.com/WtDvSyy.png" group-title="TODOS",SPORTV 2 HD ᶜᴰᴺ²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/59177
@@ -4833,4 +4829,5 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212896
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
 #EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="SEXTREME FHD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="ADULTOS",SEXTREME FHD
 http://rctv.tech:80/openbox30/kafta145/466380
+
 
