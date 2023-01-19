@@ -202,7 +202,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/18746
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18944
 #EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WIND FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="TODOS",NATGEO WIND FHD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18945
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WIND FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="TODOSS",NATGEO WIND FHD²
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WIND FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="TODOS",NATGEO WIND FHD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22695
 #EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WIND HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="TODOS",NATGEO WIND HD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18850
@@ -298,7 +298,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/22402
 http://7go.xyz:8080/andrebiancasvn/ab27091004/160766
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL FHD²" tvg-logo="https://i.imgur.com/IN19GOO.png" group-title="TODOS",UNIVERSAL FHD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22724
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL HD¹" tvg-logo="https://i.imgur.com/IN19GOO.png" group-title="TODOSS",UNIVERSAL HD¹
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL HD¹" tvg-logo="https://i.imgur.com/IN19GOO.png" group-title="TODOS",UNIVERSAL HD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18879
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL HD²" tvg-logo="https://i.imgur.com/IN19GOO.png" group-title="TODOS",UNIVERSAL HD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22628
@@ -1120,7 +1120,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/64718
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18773
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="TODOS",TCM SD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22396
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD MAX²" tvg-logo="https://i.pinimg.com/originals/c3/03/e6/c303e66c02e112fab81d4e134e95769f.png" group-title="TODOSS",TNT FHD MAX²
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD MAX²" tvg-logo="https://i.pinimg.com/originals/c3/03/e6/c303e66c02e112fab81d4e134e95769f.png" group-title="TODOS",TNT FHD MAX²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/168984
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD¹" tvg-logo="https://i.pinimg.com/originals/c3/03/e6/c303e66c02e112fab81d4e134e95769f.png" group-title="TODOS",TNT FHD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/45213
@@ -4829,4 +4829,6 @@ http://trenduhd.xyz:80/evandroCamargo/101209/212896
 http://trenduhd.xyz:80/evandroCamargo/101209/212897
 #EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="SEXTREME FHD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="ADULTOS",SEXTREME FHD
 http://rctv.tech:80/openbox30/kafta145/466380
+
+
 
