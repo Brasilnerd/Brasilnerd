@@ -162,7 +162,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/22684
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18839
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD²" tvg-logo="https://i.pinimg.com/originals/95/9d/22/959d22d7b92c609c9b95e9ee4a0a1616.png" group-title="TODOS",HBO POP HD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/22553
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD¹" tvg-logo="https://i.pinimg.com/originals/95/9d/22/959d22d7b92c609c9b95e9ee4a0a1616.png" group-title="CTODOS",HBO POP SD¹
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD¹" tvg-logo="https://i.pinimg.com/originals/95/9d/22/959d22d7b92c609c9b95e9ee4a0a1616.png" group-title="TODOS",HBO POP SD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/18742
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD¹" tvg-logo="https://i.pinimg.com/originals/9e/6c/aa/9e6caa815f658461e951c6f641a5c75c.png" group-title="TODOS",HBO SIGNATURE FHD¹
 http://7go.xyz:8080/andrebiancasvn/ab27091004/42929
@@ -3329,11 +3329,11 @@ http://rctv.tech:80/openbox30/kafta145/5533
 http://trenduhd.xyz:80/evandroCamargo/101209/189037
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="TV GLOOBINHO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="INFANTIL",TV GLOOBINHO SD
 http://trenduhd.xyz:80/evandroCamargo/101209/189036
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="INFANTIS",GLOOB FHD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="INFANTIL",GLOOB FHD
 http://rctv.tech:80/openbox30/kafta145/5227
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="INFANTIS",GLOOB HD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="INFANTIL",GLOOB HD
 http://rctv.tech:80/openbox30/kafta145/5076
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="INFANTIS",GLOOB SD
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="INFANTIL",GLOOB SD
 http://rctv.tech:80/openbox30/kafta145/5443
 #EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RATIMBUM HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TVRA.png" group-title="INFANTIL",TV RATIMBUM HD
 http://trenduhd.xyz:80/evandroCamargo/101209/189040
@@ -3881,7 +3881,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/64864
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64865
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP LEG FHD²" tvg-logo="https://i.pinimg.com/originals/95/9d/22/959d22d7b92c609c9b95e9ee4a0a1616.png" group-title="HBO|LEG",HBO POP LEG FHD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64866
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI LEG HD²" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="HBO|LEGS",HBO MUNDI LEG HD²
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI LEG HD²" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="HBO|LEG",HBO MUNDI LEG HD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64867
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI LEG FHD²" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="HBO|LEG",HBO MUNDI LEG FHD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64868
@@ -4040,7 +4040,7 @@ http://7go.xyz:8080/andrebiancasvn/ab27091004/64879
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64880
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION LEG FHD²" tvg-logo="https://i.pinimg.com/originals/69/3f/e1/693fe1b868a36424fa2211fbd321df9f.png" group-title="TELECINE|LEG",TELECINE ACTION LEG FHD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64881
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM LEG HD²" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="TELECINE|LEGS",TELECINE PREMIUM LEG HD²
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM LEG HD²" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="TELECINE|LEG",TELECINE PREMIUM LEG HD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64882
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM LEG FHD²" tvg-logo="https://i.pinimg.com/originals/5d/76/0a/5d760a8c9769fbcf090c2b259323d6b9.png" group-title="TELECINE|LEG",TELECINE PREMIUM LEG FHD²
 http://7go.xyz:8080/andrebiancasvn/ab27091004/64883
